@@ -1,0 +1,17 @@
+
+DESCRIPTIVE ABSTRACT:  This dataset aims at identifying whether there is a statistically significant dependence between gender and biological/activity traits in humans. Apart from eye color, other secondary features in the dataset include age, height, amount of time spent on computers and exercising, amongst others.
+VARIABLE DESCRIPTIONS: 
+Color (Blue, Brown, Green, Hazel, Other).
+Age (in years); 
+YearinSchool (First, Second, Third, Fourth, Other); 
+Height (in inches); 
+Miles (distance from home town of student to Ames, IA); 
+Brothers (number of brothers); 
+Sisters (number of sisters); 
+
+CompTime (number of hours spent on computer per week); Exercise (whether the student 
+exercises Yes or No); 
+ExerTime (number of hours spent exercising per week); 
+MusicCDs (number of music CDs student owns); 
+PlayGames (number of hours spent playing games per week); 
+WatchTV (number of hours spent watching TV per week).
