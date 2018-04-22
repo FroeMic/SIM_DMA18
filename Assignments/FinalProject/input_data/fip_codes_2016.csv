@@ -1,0 +1,3143 @@
+﻿Summary Level;State Code (FIPS);State;County Code (FIPS);County Subdivision Code (FIPS);Place Code (FIPS);Consolidtated City Code (FIPS);Area Name (including legal/statistical area description)
+050;01;Alabama;001;00000;00000;00000;Autauga County
+050;01;Alabama;003;00000;00000;00000;Baldwin County
+050;01;Alabama;005;00000;00000;00000;Barbour County
+050;01;Alabama;007;00000;00000;00000;Bibb County
+050;01;Alabama;009;00000;00000;00000;Blount County
+050;01;Alabama;011;00000;00000;00000;Bullock County
+050;01;Alabama;013;00000;00000;00000;Butler County
+050;01;Alabama;015;00000;00000;00000;Calhoun County
+050;01;Alabama;017;00000;00000;00000;Chambers County
+050;01;Alabama;019;00000;00000;00000;Cherokee County
+050;01;Alabama;021;00000;00000;00000;Chilton County
+050;01;Alabama;023;00000;00000;00000;Choctaw County
+050;01;Alabama;025;00000;00000;00000;Clarke County
+050;01;Alabama;027;00000;00000;00000;Clay County
+050;01;Alabama;029;00000;00000;00000;Cleburne County
+050;01;Alabama;031;00000;00000;00000;Coffee County
+050;01;Alabama;033;00000;00000;00000;Colbert County
+050;01;Alabama;035;00000;00000;00000;Conecuh County
+050;01;Alabama;037;00000;00000;00000;Coosa County
+050;01;Alabama;039;00000;00000;00000;Covington County
+050;01;Alabama;041;00000;00000;00000;Crenshaw County
+050;01;Alabama;043;00000;00000;00000;Cullman County
+050;01;Alabama;045;00000;00000;00000;Dale County
+050;01;Alabama;047;00000;00000;00000;Dallas County
+050;01;Alabama;049;00000;00000;00000;DeKalb County
+050;01;Alabama;051;00000;00000;00000;Elmore County
+050;01;Alabama;053;00000;00000;00000;Escambia County
+050;01;Alabama;055;00000;00000;00000;Etowah County
+050;01;Alabama;057;00000;00000;00000;Fayette County
+050;01;Alabama;059;00000;00000;00000;Franklin County
+050;01;Alabama;061;00000;00000;00000;Geneva County
+050;01;Alabama;063;00000;00000;00000;Greene County
+050;01;Alabama;065;00000;00000;00000;Hale County
+050;01;Alabama;067;00000;00000;00000;Henry County
+050;01;Alabama;069;00000;00000;00000;Houston County
+050;01;Alabama;071;00000;00000;00000;Jackson County
+050;01;Alabama;073;00000;00000;00000;Jefferson County
+050;01;Alabama;075;00000;00000;00000;Lamar County
+050;01;Alabama;077;00000;00000;00000;Lauderdale County
+050;01;Alabama;079;00000;00000;00000;Lawrence County
+050;01;Alabama;081;00000;00000;00000;Lee County
+050;01;Alabama;083;00000;00000;00000;Limestone County
+050;01;Alabama;085;00000;00000;00000;Lowndes County
+050;01;Alabama;087;00000;00000;00000;Macon County
+050;01;Alabama;089;00000;00000;00000;Madison County
+050;01;Alabama;091;00000;00000;00000;Marengo County
+050;01;Alabama;093;00000;00000;00000;Marion County
+050;01;Alabama;095;00000;00000;00000;Marshall County
+050;01;Alabama;097;00000;00000;00000;Mobile County
+050;01;Alabama;099;00000;00000;00000;Monroe County
+050;01;Alabama;101;00000;00000;00000;Montgomery County
+050;01;Alabama;103;00000;00000;00000;Morgan County
+050;01;Alabama;105;00000;00000;00000;Perry County
+050;01;Alabama;107;00000;00000;00000;Pickens County
+050;01;Alabama;109;00000;00000;00000;Pike County
+050;01;Alabama;111;00000;00000;00000;Randolph County
+050;01;Alabama;113;00000;00000;00000;Russell County
+050;01;Alabama;115;00000;00000;00000;St. Clair County
+050;01;Alabama;117;00000;00000;00000;Shelby County
+050;01;Alabama;119;00000;00000;00000;Sumter County
+050;01;Alabama;121;00000;00000;00000;Talladega County
+050;01;Alabama;123;00000;00000;00000;Tallapoosa County
+050;01;Alabama;125;00000;00000;00000;Tuscaloosa County
+050;01;Alabama;127;00000;00000;00000;Walker County
+050;01;Alabama;129;00000;00000;00000;Washington County
+050;01;Alabama;131;00000;00000;00000;Wilcox County
+050;01;Alabama;133;00000;00000;00000;Winston County
+050;02;Alaska;013;00000;00000;00000;Aleutians East Borough
+050;02;Alaska;016;00000;00000;00000;Aleutians West Census Area
+050;02;Alaska;020;00000;00000;00000;Anchorage Municipality
+050;02;Alaska;050;00000;00000;00000;Bethel Census Area
+050;02;Alaska;060;00000;00000;00000;Bristol Bay Borough
+050;02;Alaska;068;00000;00000;00000;Denali Borough
+050;02;Alaska;070;00000;00000;00000;Dillingham Census Area
+050;02;Alaska;090;00000;00000;00000;Fairbanks North Star Borough
+050;02;Alaska;100;00000;00000;00000;Haines Borough
+050;02;Alaska;105;00000;00000;00000;Hoonah-Angoon Census Area
+050;02;Alaska;110;00000;00000;00000;Juneau City and Borough
+050;02;Alaska;122;00000;00000;00000;Kenai Peninsula Borough
+050;02;Alaska;130;00000;00000;00000;Ketchikan Gateway Borough
+050;02;Alaska;150;00000;00000;00000;Kodiak Island Borough
+050;02;Alaska;158;00000;00000;00000;Kusilvak Census Area
+050;02;Alaska;164;00000;00000;00000;Lake and Peninsula Borough
+050;02;Alaska;170;00000;00000;00000;Matanuska-Susitna Borough
+050;02;Alaska;180;00000;00000;00000;Nome Census Area
+050;02;Alaska;185;00000;00000;00000;North Slope Borough
+050;02;Alaska;188;00000;00000;00000;Northwest Arctic Borough
+050;02;Alaska;195;00000;00000;00000;Petersburg Borough
+050;02;Alaska;198;00000;00000;00000;Prince of Wales-Hyder Census Area
+050;02;Alaska;220;00000;00000;00000;Sitka City and Borough
+050;02;Alaska;230;00000;00000;00000;Skagway Municipality
+050;02;Alaska;240;00000;00000;00000;Southeast Fairbanks Census Area
+050;02;Alaska;261;00000;00000;00000;Valdez-Cordova Census Area
+050;02;Alaska;275;00000;00000;00000;Wrangell City and Borough
+050;02;Alaska;282;00000;00000;00000;Yakutat City and Borough
+050;02;Alaska;290;00000;00000;00000;Yukon-Koyukuk Census Area
+050;04;Arizona;001;00000;00000;00000;Apache County
+050;04;Arizona;003;00000;00000;00000;Cochise County
+050;04;Arizona;005;00000;00000;00000;Coconino County
+050;04;Arizona;007;00000;00000;00000;Gila County
+050;04;Arizona;009;00000;00000;00000;Graham County
+050;04;Arizona;011;00000;00000;00000;Greenlee County
+050;04;Arizona;012;00000;00000;00000;La Paz County
+050;04;Arizona;013;00000;00000;00000;Maricopa County
+050;04;Arizona;015;00000;00000;00000;Mohave County
+050;04;Arizona;017;00000;00000;00000;Navajo County
+050;04;Arizona;019;00000;00000;00000;Pima County
+050;04;Arizona;021;00000;00000;00000;Pinal County
+050;04;Arizona;023;00000;00000;00000;Santa Cruz County
+050;04;Arizona;025;00000;00000;00000;Yavapai County
+050;04;Arizona;027;00000;00000;00000;Yuma County
+050;05;Arkansas;001;00000;00000;00000;Arkansas County
+050;05;Arkansas;003;00000;00000;00000;Ashley County
+050;05;Arkansas;005;00000;00000;00000;Baxter County
+050;05;Arkansas;007;00000;00000;00000;Benton County
+050;05;Arkansas;009;00000;00000;00000;Boone County
+050;05;Arkansas;011;00000;00000;00000;Bradley County
+050;05;Arkansas;013;00000;00000;00000;Calhoun County
+050;05;Arkansas;015;00000;00000;00000;Carroll County
+050;05;Arkansas;017;00000;00000;00000;Chicot County
+050;05;Arkansas;019;00000;00000;00000;Clark County
+050;05;Arkansas;021;00000;00000;00000;Clay County
+050;05;Arkansas;023;00000;00000;00000;Cleburne County
+050;05;Arkansas;025;00000;00000;00000;Cleveland County
+050;05;Arkansas;027;00000;00000;00000;Columbia County
+050;05;Arkansas;029;00000;00000;00000;Conway County
+050;05;Arkansas;031;00000;00000;00000;Craighead County
+050;05;Arkansas;033;00000;00000;00000;Crawford County
+050;05;Arkansas;035;00000;00000;00000;Crittenden County
+050;05;Arkansas;037;00000;00000;00000;Cross County
+050;05;Arkansas;039;00000;00000;00000;Dallas County
+050;05;Arkansas;041;00000;00000;00000;Desha County
+050;05;Arkansas;043;00000;00000;00000;Drew County
+050;05;Arkansas;045;00000;00000;00000;Faulkner County
+050;05;Arkansas;047;00000;00000;00000;Franklin County
+050;05;Arkansas;049;00000;00000;00000;Fulton County
+050;05;Arkansas;051;00000;00000;00000;Garland County
+050;05;Arkansas;053;00000;00000;00000;Grant County
+050;05;Arkansas;055;00000;00000;00000;Greene County
+050;05;Arkansas;057;00000;00000;00000;Hempstead County
+050;05;Arkansas;059;00000;00000;00000;Hot Spring County
+050;05;Arkansas;061;00000;00000;00000;Howard County
+050;05;Arkansas;063;00000;00000;00000;Independence County
+050;05;Arkansas;065;00000;00000;00000;Izard County
+050;05;Arkansas;067;00000;00000;00000;Jackson County
+050;05;Arkansas;069;00000;00000;00000;Jefferson County
+050;05;Arkansas;071;00000;00000;00000;Johnson County
+050;05;Arkansas;073;00000;00000;00000;Lafayette County
+050;05;Arkansas;075;00000;00000;00000;Lawrence County
+050;05;Arkansas;077;00000;00000;00000;Lee County
+050;05;Arkansas;079;00000;00000;00000;Lincoln County
+050;05;Arkansas;081;00000;00000;00000;Little River County
+050;05;Arkansas;083;00000;00000;00000;Logan County
+050;05;Arkansas;085;00000;00000;00000;Lonoke County
+050;05;Arkansas;087;00000;00000;00000;Madison County
+050;05;Arkansas;089;00000;00000;00000;Marion County
+050;05;Arkansas;091;00000;00000;00000;Miller County
+050;05;Arkansas;093;00000;00000;00000;Mississippi County
+050;05;Arkansas;095;00000;00000;00000;Monroe County
+050;05;Arkansas;097;00000;00000;00000;Montgomery County
+050;05;Arkansas;099;00000;00000;00000;Nevada County
+050;05;Arkansas;101;00000;00000;00000;Newton County
+050;05;Arkansas;103;00000;00000;00000;Ouachita County
+050;05;Arkansas;105;00000;00000;00000;Perry County
+050;05;Arkansas;107;00000;00000;00000;Phillips County
+050;05;Arkansas;109;00000;00000;00000;Pike County
+050;05;Arkansas;111;00000;00000;00000;Poinsett County
+050;05;Arkansas;113;00000;00000;00000;Polk County
+050;05;Arkansas;115;00000;00000;00000;Pope County
+050;05;Arkansas;117;00000;00000;00000;Prairie County
+050;05;Arkansas;119;00000;00000;00000;Pulaski County
+050;05;Arkansas;121;00000;00000;00000;Randolph County
+050;05;Arkansas;123;00000;00000;00000;St. Francis County
+050;05;Arkansas;125;00000;00000;00000;Saline County
+050;05;Arkansas;127;00000;00000;00000;Scott County
+050;05;Arkansas;129;00000;00000;00000;Searcy County
+050;05;Arkansas;131;00000;00000;00000;Sebastian County
+050;05;Arkansas;133;00000;00000;00000;Sevier County
+050;05;Arkansas;135;00000;00000;00000;Sharp County
+050;05;Arkansas;137;00000;00000;00000;Stone County
+050;05;Arkansas;139;00000;00000;00000;Union County
+050;05;Arkansas;141;00000;00000;00000;Van Buren County
+050;05;Arkansas;143;00000;00000;00000;Washington County
+050;05;Arkansas;145;00000;00000;00000;White County
+050;05;Arkansas;147;00000;00000;00000;Woodruff County
+050;05;Arkansas;149;00000;00000;00000;Yell County
+050;06;California;001;00000;00000;00000;Alameda County
+050;06;California;003;00000;00000;00000;Alpine County
+050;06;California;005;00000;00000;00000;Amador County
+050;06;California;007;00000;00000;00000;Butte County
+050;06;California;009;00000;00000;00000;Calaveras County
+050;06;California;011;00000;00000;00000;Colusa County
+050;06;California;013;00000;00000;00000;Contra Costa County
+050;06;California;015;00000;00000;00000;Del Norte County
+050;06;California;017;00000;00000;00000;El Dorado County
+050;06;California;019;00000;00000;00000;Fresno County
+050;06;California;021;00000;00000;00000;Glenn County
+050;06;California;023;00000;00000;00000;Humboldt County
+050;06;California;025;00000;00000;00000;Imperial County
+050;06;California;027;00000;00000;00000;Inyo County
+050;06;California;029;00000;00000;00000;Kern County
+050;06;California;031;00000;00000;00000;Kings County
+050;06;California;033;00000;00000;00000;Lake County
+050;06;California;035;00000;00000;00000;Lassen County
+050;06;California;037;00000;00000;00000;Los Angeles County
+050;06;California;039;00000;00000;00000;Madera County
+050;06;California;041;00000;00000;00000;Marin County
+050;06;California;043;00000;00000;00000;Mariposa County
+050;06;California;045;00000;00000;00000;Mendocino County
+050;06;California;047;00000;00000;00000;Merced County
+050;06;California;049;00000;00000;00000;Modoc County
+050;06;California;051;00000;00000;00000;Mono County
+050;06;California;053;00000;00000;00000;Monterey County
+050;06;California;055;00000;00000;00000;Napa County
+050;06;California;057;00000;00000;00000;Nevada County
+050;06;California;059;00000;00000;00000;Orange County
+050;06;California;061;00000;00000;00000;Placer County
+050;06;California;063;00000;00000;00000;Plumas County
+050;06;California;065;00000;00000;00000;Riverside County
+050;06;California;067;00000;00000;00000;Sacramento County
+050;06;California;069;00000;00000;00000;San Benito County
+050;06;California;071;00000;00000;00000;San Bernardino County
+050;06;California;073;00000;00000;00000;San Diego County
+050;06;California;075;00000;00000;00000;San Francisco County
+050;06;California;077;00000;00000;00000;San Joaquin County
+050;06;California;079;00000;00000;00000;San Luis Obispo County
+050;06;California;081;00000;00000;00000;San Mateo County
+050;06;California;083;00000;00000;00000;Santa Barbara County
+050;06;California;085;00000;00000;00000;Santa Clara County
+050;06;California;087;00000;00000;00000;Santa Cruz County
+050;06;California;089;00000;00000;00000;Shasta County
+050;06;California;091;00000;00000;00000;Sierra County
+050;06;California;093;00000;00000;00000;Siskiyou County
+050;06;California;095;00000;00000;00000;Solano County
+050;06;California;097;00000;00000;00000;Sonoma County
+050;06;California;099;00000;00000;00000;Stanislaus County
+050;06;California;101;00000;00000;00000;Sutter County
+050;06;California;103;00000;00000;00000;Tehama County
+050;06;California;105;00000;00000;00000;Trinity County
+050;06;California;107;00000;00000;00000;Tulare County
+050;06;California;109;00000;00000;00000;Tuolumne County
+050;06;California;111;00000;00000;00000;Ventura County
+050;06;California;113;00000;00000;00000;Yolo County
+050;06;California;115;00000;00000;00000;Yuba County
+050;08;Colorado;001;00000;00000;00000;Adams County
+050;08;Colorado;003;00000;00000;00000;Alamosa County
+050;08;Colorado;005;00000;00000;00000;Arapahoe County
+050;08;Colorado;007;00000;00000;00000;Archuleta County
+050;08;Colorado;009;00000;00000;00000;Baca County
+050;08;Colorado;011;00000;00000;00000;Bent County
+050;08;Colorado;013;00000;00000;00000;Boulder County
+050;08;Colorado;014;00000;00000;00000;Broomfield County
+050;08;Colorado;015;00000;00000;00000;Chaffee County
+050;08;Colorado;017;00000;00000;00000;Cheyenne County
+050;08;Colorado;019;00000;00000;00000;Clear Creek County
+050;08;Colorado;021;00000;00000;00000;Conejos County
+050;08;Colorado;023;00000;00000;00000;Costilla County
+050;08;Colorado;025;00000;00000;00000;Crowley County
+050;08;Colorado;027;00000;00000;00000;Custer County
+050;08;Colorado;029;00000;00000;00000;Delta County
+050;08;Colorado;031;00000;00000;00000;Denver County
+050;08;Colorado;033;00000;00000;00000;Dolores County
+050;08;Colorado;035;00000;00000;00000;Douglas County
+050;08;Colorado;037;00000;00000;00000;Eagle County
+050;08;Colorado;039;00000;00000;00000;Elbert County
+050;08;Colorado;041;00000;00000;00000;El Paso County
+050;08;Colorado;043;00000;00000;00000;Fremont County
+050;08;Colorado;045;00000;00000;00000;Garfield County
+050;08;Colorado;047;00000;00000;00000;Gilpin County
+050;08;Colorado;049;00000;00000;00000;Grand County
+050;08;Colorado;051;00000;00000;00000;Gunnison County
+050;08;Colorado;053;00000;00000;00000;Hinsdale County
+050;08;Colorado;055;00000;00000;00000;Huerfano County
+050;08;Colorado;057;00000;00000;00000;Jackson County
+050;08;Colorado;059;00000;00000;00000;Jefferson County
+050;08;Colorado;061;00000;00000;00000;Kiowa County
+050;08;Colorado;063;00000;00000;00000;Kit Carson County
+050;08;Colorado;065;00000;00000;00000;Lake County
+050;08;Colorado;067;00000;00000;00000;La Plata County
+050;08;Colorado;069;00000;00000;00000;Larimer County
+050;08;Colorado;071;00000;00000;00000;Las Animas County
+050;08;Colorado;073;00000;00000;00000;Lincoln County
+050;08;Colorado;075;00000;00000;00000;Logan County
+050;08;Colorado;077;00000;00000;00000;Mesa County
+050;08;Colorado;079;00000;00000;00000;Mineral County
+050;08;Colorado;081;00000;00000;00000;Moffat County
+050;08;Colorado;083;00000;00000;00000;Montezuma County
+050;08;Colorado;085;00000;00000;00000;Montrose County
+050;08;Colorado;087;00000;00000;00000;Morgan County
+050;08;Colorado;089;00000;00000;00000;Otero County
+050;08;Colorado;091;00000;00000;00000;Ouray County
+050;08;Colorado;093;00000;00000;00000;Park County
+050;08;Colorado;095;00000;00000;00000;Phillips County
+050;08;Colorado;097;00000;00000;00000;Pitkin County
+050;08;Colorado;099;00000;00000;00000;Prowers County
+050;08;Colorado;101;00000;00000;00000;Pueblo County
+050;08;Colorado;103;00000;00000;00000;Rio Blanco County
+050;08;Colorado;105;00000;00000;00000;Rio Grande County
+050;08;Colorado;107;00000;00000;00000;Routt County
+050;08;Colorado;109;00000;00000;00000;Saguache County
+050;08;Colorado;111;00000;00000;00000;San Juan County
+050;08;Colorado;113;00000;00000;00000;San Miguel County
+050;08;Colorado;115;00000;00000;00000;Sedgwick County
+050;08;Colorado;117;00000;00000;00000;Summit County
+050;08;Colorado;119;00000;00000;00000;Teller County
+050;08;Colorado;121;00000;00000;00000;Washington County
+050;08;Colorado;123;00000;00000;00000;Weld County
+050;08;Colorado;125;00000;00000;00000;Yuma County
+050;09;Connecticut;001;00000;00000;00000;Fairfield County
+050;09;Connecticut;003;00000;00000;00000;Hartford County
+050;09;Connecticut;005;00000;00000;00000;Litchfield County
+050;09;Connecticut;007;00000;00000;00000;Middlesex County
+050;09;Connecticut;009;00000;00000;00000;New Haven County
+050;09;Connecticut;011;00000;00000;00000;New London County
+050;09;Connecticut;013;00000;00000;00000;Tolland County
+050;09;Connecticut;015;00000;00000;00000;Windham County
+050;10;Delaware;001;00000;00000;00000;Kent County
+050;10;Delaware;003;00000;00000;00000;New Castle County
+050;10;Delaware;005;00000;00000;00000;Sussex County
+050;11;District of Columbia;001;00000;00000;00000;District of Columbia
+050;12;Florida;001;00000;00000;00000;Alachua County
+050;12;Florida;003;00000;00000;00000;Baker County
+050;12;Florida;005;00000;00000;00000;Bay County
+050;12;Florida;007;00000;00000;00000;Bradford County
+050;12;Florida;009;00000;00000;00000;Brevard County
+050;12;Florida;011;00000;00000;00000;Broward County
+050;12;Florida;013;00000;00000;00000;Calhoun County
+050;12;Florida;015;00000;00000;00000;Charlotte County
+050;12;Florida;017;00000;00000;00000;Citrus County
+050;12;Florida;019;00000;00000;00000;Clay County
+050;12;Florida;021;00000;00000;00000;Collier County
+050;12;Florida;023;00000;00000;00000;Columbia County
+050;12;Florida;027;00000;00000;00000;DeSoto County
+050;12;Florida;029;00000;00000;00000;Dixie County
+050;12;Florida;031;00000;00000;00000;Duval County
+050;12;Florida;033;00000;00000;00000;Escambia County
+050;12;Florida;035;00000;00000;00000;Flagler County
+050;12;Florida;037;00000;00000;00000;Franklin County
+050;12;Florida;039;00000;00000;00000;Gadsden County
+050;12;Florida;041;00000;00000;00000;Gilchrist County
+050;12;Florida;043;00000;00000;00000;Glades County
+050;12;Florida;045;00000;00000;00000;Gulf County
+050;12;Florida;047;00000;00000;00000;Hamilton County
+050;12;Florida;049;00000;00000;00000;Hardee County
+050;12;Florida;051;00000;00000;00000;Hendry County
+050;12;Florida;053;00000;00000;00000;Hernando County
+050;12;Florida;055;00000;00000;00000;Highlands County
+050;12;Florida;057;00000;00000;00000;Hillsborough County
+050;12;Florida;059;00000;00000;00000;Holmes County
+050;12;Florida;061;00000;00000;00000;Indian River County
+050;12;Florida;063;00000;00000;00000;Jackson County
+050;12;Florida;065;00000;00000;00000;Jefferson County
+050;12;Florida;067;00000;00000;00000;Lafayette County
+050;12;Florida;069;00000;00000;00000;Lake County
+050;12;Florida;071;00000;00000;00000;Lee County
+050;12;Florida;073;00000;00000;00000;Leon County
+050;12;Florida;075;00000;00000;00000;Levy County
+050;12;Florida;077;00000;00000;00000;Liberty County
+050;12;Florida;079;00000;00000;00000;Madison County
+050;12;Florida;081;00000;00000;00000;Manatee County
+050;12;Florida;083;00000;00000;00000;Marion County
+050;12;Florida;085;00000;00000;00000;Martin County
+050;12;Florida;086;00000;00000;00000;Miami-Dade County
+050;12;Florida;087;00000;00000;00000;Monroe County
+050;12;Florida;089;00000;00000;00000;Nassau County
+050;12;Florida;091;00000;00000;00000;Okaloosa County
+050;12;Florida;093;00000;00000;00000;Okeechobee County
+050;12;Florida;095;00000;00000;00000;Orange County
+050;12;Florida;097;00000;00000;00000;Osceola County
+050;12;Florida;099;00000;00000;00000;Palm Beach County
+050;12;Florida;101;00000;00000;00000;Pasco County
+050;12;Florida;103;00000;00000;00000;Pinellas County
+050;12;Florida;105;00000;00000;00000;Polk County
+050;12;Florida;107;00000;00000;00000;Putnam County
+050;12;Florida;109;00000;00000;00000;St. Johns County
+050;12;Florida;111;00000;00000;00000;St. Lucie County
+050;12;Florida;113;00000;00000;00000;Santa Rosa County
+050;12;Florida;115;00000;00000;00000;Sarasota County
+050;12;Florida;117;00000;00000;00000;Seminole County
+050;12;Florida;119;00000;00000;00000;Sumter County
+050;12;Florida;121;00000;00000;00000;Suwannee County
+050;12;Florida;123;00000;00000;00000;Taylor County
+050;12;Florida;125;00000;00000;00000;Union County
+050;12;Florida;127;00000;00000;00000;Volusia County
+050;12;Florida;129;00000;00000;00000;Wakulla County
+050;12;Florida;131;00000;00000;00000;Walton County
+050;12;Florida;133;00000;00000;00000;Washington County
+050;13;Georgia;001;00000;00000;00000;Appling County
+050;13;Georgia;003;00000;00000;00000;Atkinson County
+050;13;Georgia;005;00000;00000;00000;Bacon County
+050;13;Georgia;007;00000;00000;00000;Baker County
+050;13;Georgia;009;00000;00000;00000;Baldwin County
+050;13;Georgia;011;00000;00000;00000;Banks County
+050;13;Georgia;013;00000;00000;00000;Barrow County
+050;13;Georgia;015;00000;00000;00000;Bartow County
+050;13;Georgia;017;00000;00000;00000;Ben Hill County
+050;13;Georgia;019;00000;00000;00000;Berrien County
+050;13;Georgia;021;00000;00000;00000;Bibb County
+050;13;Georgia;023;00000;00000;00000;Bleckley County
+050;13;Georgia;025;00000;00000;00000;Brantley County
+050;13;Georgia;027;00000;00000;00000;Brooks County
+050;13;Georgia;029;00000;00000;00000;Bryan County
+050;13;Georgia;031;00000;00000;00000;Bulloch County
+050;13;Georgia;033;00000;00000;00000;Burke County
+050;13;Georgia;035;00000;00000;00000;Butts County
+050;13;Georgia;037;00000;00000;00000;Calhoun County
+050;13;Georgia;039;00000;00000;00000;Camden County
+050;13;Georgia;043;00000;00000;00000;Candler County
+050;13;Georgia;045;00000;00000;00000;Carroll County
+050;13;Georgia;047;00000;00000;00000;Catoosa County
+050;13;Georgia;049;00000;00000;00000;Charlton County
+050;13;Georgia;051;00000;00000;00000;Chatham County
+050;13;Georgia;053;00000;00000;00000;Chattahoochee County
+050;13;Georgia;055;00000;00000;00000;Chattooga County
+050;13;Georgia;057;00000;00000;00000;Cherokee County
+050;13;Georgia;059;00000;00000;00000;Clarke County
+050;13;Georgia;061;00000;00000;00000;Clay County
+050;13;Georgia;063;00000;00000;00000;Clayton County
+050;13;Georgia;065;00000;00000;00000;Clinch County
+050;13;Georgia;067;00000;00000;00000;Cobb County
+050;13;Georgia;069;00000;00000;00000;Coffee County
+050;13;Georgia;071;00000;00000;00000;Colquitt County
+050;13;Georgia;073;00000;00000;00000;Columbia County
+050;13;Georgia;075;00000;00000;00000;Cook County
+050;13;Georgia;077;00000;00000;00000;Coweta County
+050;13;Georgia;079;00000;00000;00000;Crawford County
+050;13;Georgia;081;00000;00000;00000;Crisp County
+050;13;Georgia;083;00000;00000;00000;Dade County
+050;13;Georgia;085;00000;00000;00000;Dawson County
+050;13;Georgia;087;00000;00000;00000;Decatur County
+050;13;Georgia;089;00000;00000;00000;DeKalb County
+050;13;Georgia;091;00000;00000;00000;Dodge County
+050;13;Georgia;093;00000;00000;00000;Dooly County
+050;13;Georgia;095;00000;00000;00000;Dougherty County
+050;13;Georgia;097;00000;00000;00000;Douglas County
+050;13;Georgia;099;00000;00000;00000;Early County
+050;13;Georgia;101;00000;00000;00000;Echols County
+050;13;Georgia;103;00000;00000;00000;Effingham County
+050;13;Georgia;105;00000;00000;00000;Elbert County
+050;13;Georgia;107;00000;00000;00000;Emanuel County
+050;13;Georgia;109;00000;00000;00000;Evans County
+050;13;Georgia;111;00000;00000;00000;Fannin County
+050;13;Georgia;113;00000;00000;00000;Fayette County
+050;13;Georgia;115;00000;00000;00000;Floyd County
+050;13;Georgia;117;00000;00000;00000;Forsyth County
+050;13;Georgia;119;00000;00000;00000;Franklin County
+050;13;Georgia;121;00000;00000;00000;Fulton County
+050;13;Georgia;123;00000;00000;00000;Gilmer County
+050;13;Georgia;125;00000;00000;00000;Glascock County
+050;13;Georgia;127;00000;00000;00000;Glynn County
+050;13;Georgia;129;00000;00000;00000;Gordon County
+050;13;Georgia;131;00000;00000;00000;Grady County
+050;13;Georgia;133;00000;00000;00000;Greene County
+050;13;Georgia;135;00000;00000;00000;Gwinnett County
+050;13;Georgia;137;00000;00000;00000;Habersham County
+050;13;Georgia;139;00000;00000;00000;Hall County
+050;13;Georgia;141;00000;00000;00000;Hancock County
+050;13;Georgia;143;00000;00000;00000;Haralson County
+050;13;Georgia;145;00000;00000;00000;Harris County
+050;13;Georgia;147;00000;00000;00000;Hart County
+050;13;Georgia;149;00000;00000;00000;Heard County
+050;13;Georgia;151;00000;00000;00000;Henry County
+050;13;Georgia;153;00000;00000;00000;Houston County
+050;13;Georgia;155;00000;00000;00000;Irwin County
+050;13;Georgia;157;00000;00000;00000;Jackson County
+050;13;Georgia;159;00000;00000;00000;Jasper County
+050;13;Georgia;161;00000;00000;00000;Jeff Davis County
+050;13;Georgia;163;00000;00000;00000;Jefferson County
+050;13;Georgia;165;00000;00000;00000;Jenkins County
+050;13;Georgia;167;00000;00000;00000;Johnson County
+050;13;Georgia;169;00000;00000;00000;Jones County
+050;13;Georgia;171;00000;00000;00000;Lamar County
+050;13;Georgia;173;00000;00000;00000;Lanier County
+050;13;Georgia;175;00000;00000;00000;Laurens County
+050;13;Georgia;177;00000;00000;00000;Lee County
+050;13;Georgia;179;00000;00000;00000;Liberty County
+050;13;Georgia;181;00000;00000;00000;Lincoln County
+050;13;Georgia;183;00000;00000;00000;Long County
+050;13;Georgia;185;00000;00000;00000;Lowndes County
+050;13;Georgia;187;00000;00000;00000;Lumpkin County
+050;13;Georgia;189;00000;00000;00000;McDuffie County
+050;13;Georgia;191;00000;00000;00000;McIntosh County
+050;13;Georgia;193;00000;00000;00000;Macon County
+050;13;Georgia;195;00000;00000;00000;Madison County
+050;13;Georgia;197;00000;00000;00000;Marion County
+050;13;Georgia;199;00000;00000;00000;Meriwether County
+050;13;Georgia;201;00000;00000;00000;Miller County
+050;13;Georgia;205;00000;00000;00000;Mitchell County
+050;13;Georgia;207;00000;00000;00000;Monroe County
+050;13;Georgia;209;00000;00000;00000;Montgomery County
+050;13;Georgia;211;00000;00000;00000;Morgan County
+050;13;Georgia;213;00000;00000;00000;Murray County
+050;13;Georgia;215;00000;00000;00000;Muscogee County
+050;13;Georgia;217;00000;00000;00000;Newton County
+050;13;Georgia;219;00000;00000;00000;Oconee County
+050;13;Georgia;221;00000;00000;00000;Oglethorpe County
+050;13;Georgia;223;00000;00000;00000;Paulding County
+050;13;Georgia;225;00000;00000;00000;Peach County
+050;13;Georgia;227;00000;00000;00000;Pickens County
+050;13;Georgia;229;00000;00000;00000;Pierce County
+050;13;Georgia;231;00000;00000;00000;Pike County
+050;13;Georgia;233;00000;00000;00000;Polk County
+050;13;Georgia;235;00000;00000;00000;Pulaski County
+050;13;Georgia;237;00000;00000;00000;Putnam County
+050;13;Georgia;239;00000;00000;00000;Quitman County
+050;13;Georgia;241;00000;00000;00000;Rabun County
+050;13;Georgia;243;00000;00000;00000;Randolph County
+050;13;Georgia;245;00000;00000;00000;Richmond County
+050;13;Georgia;247;00000;00000;00000;Rockdale County
+050;13;Georgia;249;00000;00000;00000;Schley County
+050;13;Georgia;251;00000;00000;00000;Screven County
+050;13;Georgia;253;00000;00000;00000;Seminole County
+050;13;Georgia;255;00000;00000;00000;Spalding County
+050;13;Georgia;257;00000;00000;00000;Stephens County
+050;13;Georgia;259;00000;00000;00000;Stewart County
+050;13;Georgia;261;00000;00000;00000;Sumter County
+050;13;Georgia;263;00000;00000;00000;Talbot County
+050;13;Georgia;265;00000;00000;00000;Taliaferro County
+050;13;Georgia;267;00000;00000;00000;Tattnall County
+050;13;Georgia;269;00000;00000;00000;Taylor County
+050;13;Georgia;271;00000;00000;00000;Telfair County
+050;13;Georgia;273;00000;00000;00000;Terrell County
+050;13;Georgia;275;00000;00000;00000;Thomas County
+050;13;Georgia;277;00000;00000;00000;Tift County
+050;13;Georgia;279;00000;00000;00000;Toombs County
+050;13;Georgia;281;00000;00000;00000;Towns County
+050;13;Georgia;283;00000;00000;00000;Treutlen County
+050;13;Georgia;285;00000;00000;00000;Troup County
+050;13;Georgia;287;00000;00000;00000;Turner County
+050;13;Georgia;289;00000;00000;00000;Twiggs County
+050;13;Georgia;291;00000;00000;00000;Union County
+050;13;Georgia;293;00000;00000;00000;Upson County
+050;13;Georgia;295;00000;00000;00000;Walker County
+050;13;Georgia;297;00000;00000;00000;Walton County
+050;13;Georgia;299;00000;00000;00000;Ware County
+050;13;Georgia;301;00000;00000;00000;Warren County
+050;13;Georgia;303;00000;00000;00000;Washington County
+050;13;Georgia;305;00000;00000;00000;Wayne County
+050;13;Georgia;307;00000;00000;00000;Webster County
+050;13;Georgia;309;00000;00000;00000;Wheeler County
+050;13;Georgia;311;00000;00000;00000;White County
+050;13;Georgia;313;00000;00000;00000;Whitfield County
+050;13;Georgia;315;00000;00000;00000;Wilcox County
+050;13;Georgia;317;00000;00000;00000;Wilkes County
+050;13;Georgia;319;00000;00000;00000;Wilkinson County
+050;13;Georgia;321;00000;00000;00000;Worth County
+050;15;Hawaii;001;00000;00000;00000;Hawaii County
+050;15;Hawaii;003;00000;00000;00000;Honolulu County
+050;15;Hawaii;005;00000;00000;00000;Kalawao County
+050;15;Hawaii;007;00000;00000;00000;Kauai County
+050;15;Hawaii;009;00000;00000;00000;Maui County
+050;16;Idaho;001;00000;00000;00000;Ada County
+050;16;Idaho;003;00000;00000;00000;Adams County
+050;16;Idaho;005;00000;00000;00000;Bannock County
+050;16;Idaho;007;00000;00000;00000;Bear Lake County
+050;16;Idaho;009;00000;00000;00000;Benewah County
+050;16;Idaho;011;00000;00000;00000;Bingham County
+050;16;Idaho;013;00000;00000;00000;Blaine County
+050;16;Idaho;015;00000;00000;00000;Boise County
+050;16;Idaho;017;00000;00000;00000;Bonner County
+050;16;Idaho;019;00000;00000;00000;Bonneville County
+050;16;Idaho;021;00000;00000;00000;Boundary County
+050;16;Idaho;023;00000;00000;00000;Butte County
+050;16;Idaho;025;00000;00000;00000;Camas County
+050;16;Idaho;027;00000;00000;00000;Canyon County
+050;16;Idaho;029;00000;00000;00000;Caribou County
+050;16;Idaho;031;00000;00000;00000;Cassia County
+050;16;Idaho;033;00000;00000;00000;Clark County
+050;16;Idaho;035;00000;00000;00000;Clearwater County
+050;16;Idaho;037;00000;00000;00000;Custer County
+050;16;Idaho;039;00000;00000;00000;Elmore County
+050;16;Idaho;041;00000;00000;00000;Franklin County
+050;16;Idaho;043;00000;00000;00000;Fremont County
+050;16;Idaho;045;00000;00000;00000;Gem County
+050;16;Idaho;047;00000;00000;00000;Gooding County
+050;16;Idaho;049;00000;00000;00000;Idaho County
+050;16;Idaho;051;00000;00000;00000;Jefferson County
+050;16;Idaho;053;00000;00000;00000;Jerome County
+050;16;Idaho;055;00000;00000;00000;Kootenai County
+050;16;Idaho;057;00000;00000;00000;Latah County
+050;16;Idaho;059;00000;00000;00000;Lemhi County
+050;16;Idaho;061;00000;00000;00000;Lewis County
+050;16;Idaho;063;00000;00000;00000;Lincoln County
+050;16;Idaho;065;00000;00000;00000;Madison County
+050;16;Idaho;067;00000;00000;00000;Minidoka County
+050;16;Idaho;069;00000;00000;00000;Nez Perce County
+050;16;Idaho;071;00000;00000;00000;Oneida County
+050;16;Idaho;073;00000;00000;00000;Owyhee County
+050;16;Idaho;075;00000;00000;00000;Payette County
+050;16;Idaho;077;00000;00000;00000;Power County
+050;16;Idaho;079;00000;00000;00000;Shoshone County
+050;16;Idaho;081;00000;00000;00000;Teton County
+050;16;Idaho;083;00000;00000;00000;Twin Falls County
+050;16;Idaho;085;00000;00000;00000;Valley County
+050;16;Idaho;087;00000;00000;00000;Washington County
+050;17;Illinois;001;00000;00000;00000;Adams County
+050;17;Illinois;003;00000;00000;00000;Alexander County
+050;17;Illinois;005;00000;00000;00000;Bond County
+050;17;Illinois;007;00000;00000;00000;Boone County
+050;17;Illinois;009;00000;00000;00000;Brown County
+050;17;Illinois;011;00000;00000;00000;Bureau County
+050;17;Illinois;013;00000;00000;00000;Calhoun County
+050;17;Illinois;015;00000;00000;00000;Carroll County
+050;17;Illinois;017;00000;00000;00000;Cass County
+050;17;Illinois;019;00000;00000;00000;Champaign County
+050;17;Illinois;021;00000;00000;00000;Christian County
+050;17;Illinois;023;00000;00000;00000;Clark County
+050;17;Illinois;025;00000;00000;00000;Clay County
+050;17;Illinois;027;00000;00000;00000;Clinton County
+050;17;Illinois;029;00000;00000;00000;Coles County
+050;17;Illinois;031;00000;00000;00000;Cook County
+050;17;Illinois;033;00000;00000;00000;Crawford County
+050;17;Illinois;035;00000;00000;00000;Cumberland County
+050;17;Illinois;037;00000;00000;00000;DeKalb County
+050;17;Illinois;039;00000;00000;00000;De Witt County
+050;17;Illinois;041;00000;00000;00000;Douglas County
+050;17;Illinois;043;00000;00000;00000;DuPage County
+050;17;Illinois;045;00000;00000;00000;Edgar County
+050;17;Illinois;047;00000;00000;00000;Edwards County
+050;17;Illinois;049;00000;00000;00000;Effingham County
+050;17;Illinois;051;00000;00000;00000;Fayette County
+050;17;Illinois;053;00000;00000;00000;Ford County
+050;17;Illinois;055;00000;00000;00000;Franklin County
+050;17;Illinois;057;00000;00000;00000;Fulton County
+050;17;Illinois;059;00000;00000;00000;Gallatin County
+050;17;Illinois;061;00000;00000;00000;Greene County
+050;17;Illinois;063;00000;00000;00000;Grundy County
+050;17;Illinois;065;00000;00000;00000;Hamilton County
+050;17;Illinois;067;00000;00000;00000;Hancock County
+050;17;Illinois;069;00000;00000;00000;Hardin County
+050;17;Illinois;071;00000;00000;00000;Henderson County
+050;17;Illinois;073;00000;00000;00000;Henry County
+050;17;Illinois;075;00000;00000;00000;Iroquois County
+050;17;Illinois;077;00000;00000;00000;Jackson County
+050;17;Illinois;079;00000;00000;00000;Jasper County
+050;17;Illinois;081;00000;00000;00000;Jefferson County
+050;17;Illinois;083;00000;00000;00000;Jersey County
+050;17;Illinois;085;00000;00000;00000;Jo Daviess County
+050;17;Illinois;087;00000;00000;00000;Johnson County
+050;17;Illinois;089;00000;00000;00000;Kane County
+050;17;Illinois;091;00000;00000;00000;Kankakee County
+050;17;Illinois;093;00000;00000;00000;Kendall County
+050;17;Illinois;095;00000;00000;00000;Knox County
+050;17;Illinois;097;00000;00000;00000;Lake County
+050;17;Illinois;099;00000;00000;00000;LaSalle County
+050;17;Illinois;101;00000;00000;00000;Lawrence County
+050;17;Illinois;103;00000;00000;00000;Lee County
+050;17;Illinois;105;00000;00000;00000;Livingston County
+050;17;Illinois;107;00000;00000;00000;Logan County
+050;17;Illinois;109;00000;00000;00000;McDonough County
+050;17;Illinois;111;00000;00000;00000;McHenry County
+050;17;Illinois;113;00000;00000;00000;McLean County
+050;17;Illinois;115;00000;00000;00000;Macon County
+050;17;Illinois;117;00000;00000;00000;Macoupin County
+050;17;Illinois;119;00000;00000;00000;Madison County
+050;17;Illinois;121;00000;00000;00000;Marion County
+050;17;Illinois;123;00000;00000;00000;Marshall County
+050;17;Illinois;125;00000;00000;00000;Mason County
+050;17;Illinois;127;00000;00000;00000;Massac County
+050;17;Illinois;129;00000;00000;00000;Menard County
+050;17;Illinois;131;00000;00000;00000;Mercer County
+050;17;Illinois;133;00000;00000;00000;Monroe County
+050;17;Illinois;135;00000;00000;00000;Montgomery County
+050;17;Illinois;137;00000;00000;00000;Morgan County
+050;17;Illinois;139;00000;00000;00000;Moultrie County
+050;17;Illinois;141;00000;00000;00000;Ogle County
+050;17;Illinois;143;00000;00000;00000;Peoria County
+050;17;Illinois;145;00000;00000;00000;Perry County
+050;17;Illinois;147;00000;00000;00000;Piatt County
+050;17;Illinois;149;00000;00000;00000;Pike County
+050;17;Illinois;151;00000;00000;00000;Pope County
+050;17;Illinois;153;00000;00000;00000;Pulaski County
+050;17;Illinois;155;00000;00000;00000;Putnam County
+050;17;Illinois;157;00000;00000;00000;Randolph County
+050;17;Illinois;159;00000;00000;00000;Richland County
+050;17;Illinois;161;00000;00000;00000;Rock Island County
+050;17;Illinois;163;00000;00000;00000;St. Clair County
+050;17;Illinois;165;00000;00000;00000;Saline County
+050;17;Illinois;167;00000;00000;00000;Sangamon County
+050;17;Illinois;169;00000;00000;00000;Schuyler County
+050;17;Illinois;171;00000;00000;00000;Scott County
+050;17;Illinois;173;00000;00000;00000;Shelby County
+050;17;Illinois;175;00000;00000;00000;Stark County
+050;17;Illinois;177;00000;00000;00000;Stephenson County
+050;17;Illinois;179;00000;00000;00000;Tazewell County
+050;17;Illinois;181;00000;00000;00000;Union County
+050;17;Illinois;183;00000;00000;00000;Vermilion County
+050;17;Illinois;185;00000;00000;00000;Wabash County
+050;17;Illinois;187;00000;00000;00000;Warren County
+050;17;Illinois;189;00000;00000;00000;Washington County
+050;17;Illinois;191;00000;00000;00000;Wayne County
+050;17;Illinois;193;00000;00000;00000;White County
+050;17;Illinois;195;00000;00000;00000;Whiteside County
+050;17;Illinois;197;00000;00000;00000;Will County
+050;17;Illinois;199;00000;00000;00000;Williamson County
+050;17;Illinois;201;00000;00000;00000;Winnebago County
+050;17;Illinois;203;00000;00000;00000;Woodford County
+050;18;Indiana;001;00000;00000;00000;Adams County
+050;18;Indiana;003;00000;00000;00000;Allen County
+050;18;Indiana;005;00000;00000;00000;Bartholomew County
+050;18;Indiana;007;00000;00000;00000;Benton County
+050;18;Indiana;009;00000;00000;00000;Blackford County
+050;18;Indiana;011;00000;00000;00000;Boone County
+050;18;Indiana;013;00000;00000;00000;Brown County
+050;18;Indiana;015;00000;00000;00000;Carroll County
+050;18;Indiana;017;00000;00000;00000;Cass County
+050;18;Indiana;019;00000;00000;00000;Clark County
+050;18;Indiana;021;00000;00000;00000;Clay County
+050;18;Indiana;023;00000;00000;00000;Clinton County
+050;18;Indiana;025;00000;00000;00000;Crawford County
+050;18;Indiana;027;00000;00000;00000;Daviess County
+050;18;Indiana;029;00000;00000;00000;Dearborn County
+050;18;Indiana;031;00000;00000;00000;Decatur County
+050;18;Indiana;033;00000;00000;00000;DeKalb County
+050;18;Indiana;035;00000;00000;00000;Delaware County
+050;18;Indiana;037;00000;00000;00000;Dubois County
+050;18;Indiana;039;00000;00000;00000;Elkhart County
+050;18;Indiana;041;00000;00000;00000;Fayette County
+050;18;Indiana;043;00000;00000;00000;Floyd County
+050;18;Indiana;045;00000;00000;00000;Fountain County
+050;18;Indiana;047;00000;00000;00000;Franklin County
+050;18;Indiana;049;00000;00000;00000;Fulton County
+050;18;Indiana;051;00000;00000;00000;Gibson County
+050;18;Indiana;053;00000;00000;00000;Grant County
+050;18;Indiana;055;00000;00000;00000;Greene County
+050;18;Indiana;057;00000;00000;00000;Hamilton County
+050;18;Indiana;059;00000;00000;00000;Hancock County
+050;18;Indiana;061;00000;00000;00000;Harrison County
+050;18;Indiana;063;00000;00000;00000;Hendricks County
+050;18;Indiana;065;00000;00000;00000;Henry County
+050;18;Indiana;067;00000;00000;00000;Howard County
+050;18;Indiana;069;00000;00000;00000;Huntington County
+050;18;Indiana;071;00000;00000;00000;Jackson County
+050;18;Indiana;073;00000;00000;00000;Jasper County
+050;18;Indiana;075;00000;00000;00000;Jay County
+050;18;Indiana;077;00000;00000;00000;Jefferson County
+050;18;Indiana;079;00000;00000;00000;Jennings County
+050;18;Indiana;081;00000;00000;00000;Johnson County
+050;18;Indiana;083;00000;00000;00000;Knox County
+050;18;Indiana;085;00000;00000;00000;Kosciusko County
+050;18;Indiana;087;00000;00000;00000;LaGrange County
+050;18;Indiana;089;00000;00000;00000;Lake County
+050;18;Indiana;091;00000;00000;00000;LaPorte County
+050;18;Indiana;093;00000;00000;00000;Lawrence County
+050;18;Indiana;095;00000;00000;00000;Madison County
+050;18;Indiana;097;00000;00000;00000;Marion County
+050;18;Indiana;099;00000;00000;00000;Marshall County
+050;18;Indiana;101;00000;00000;00000;Martin County
+050;18;Indiana;103;00000;00000;00000;Miami County
+050;18;Indiana;105;00000;00000;00000;Monroe County
+050;18;Indiana;107;00000;00000;00000;Montgomery County
+050;18;Indiana;109;00000;00000;00000;Morgan County
+050;18;Indiana;111;00000;00000;00000;Newton County
+050;18;Indiana;113;00000;00000;00000;Noble County
+050;18;Indiana;115;00000;00000;00000;Ohio County
+050;18;Indiana;117;00000;00000;00000;Orange County
+050;18;Indiana;119;00000;00000;00000;Owen County
+050;18;Indiana;121;00000;00000;00000;Parke County
+050;18;Indiana;123;00000;00000;00000;Perry County
+050;18;Indiana;125;00000;00000;00000;Pike County
+050;18;Indiana;127;00000;00000;00000;Porter County
+050;18;Indiana;129;00000;00000;00000;Posey County
+050;18;Indiana;131;00000;00000;00000;Pulaski County
+050;18;Indiana;133;00000;00000;00000;Putnam County
+050;18;Indiana;135;00000;00000;00000;Randolph County
+050;18;Indiana;137;00000;00000;00000;Ripley County
+050;18;Indiana;139;00000;00000;00000;Rush County
+050;18;Indiana;141;00000;00000;00000;St. Joseph County
+050;18;Indiana;143;00000;00000;00000;Scott County
+050;18;Indiana;145;00000;00000;00000;Shelby County
+050;18;Indiana;147;00000;00000;00000;Spencer County
+050;18;Indiana;149;00000;00000;00000;Starke County
+050;18;Indiana;151;00000;00000;00000;Steuben County
+050;18;Indiana;153;00000;00000;00000;Sullivan County
+050;18;Indiana;155;00000;00000;00000;Switzerland County
+050;18;Indiana;157;00000;00000;00000;Tippecanoe County
+050;18;Indiana;159;00000;00000;00000;Tipton County
+050;18;Indiana;161;00000;00000;00000;Union County
+050;18;Indiana;163;00000;00000;00000;Vanderburgh County
+050;18;Indiana;165;00000;00000;00000;Vermillion County
+050;18;Indiana;167;00000;00000;00000;Vigo County
+050;18;Indiana;169;00000;00000;00000;Wabash County
+050;18;Indiana;171;00000;00000;00000;Warren County
+050;18;Indiana;173;00000;00000;00000;Warrick County
+050;18;Indiana;175;00000;00000;00000;Washington County
+050;18;Indiana;177;00000;00000;00000;Wayne County
+050;18;Indiana;179;00000;00000;00000;Wells County
+050;18;Indiana;181;00000;00000;00000;White County
+050;18;Indiana;183;00000;00000;00000;Whitley County
+050;19;Iowa;001;00000;00000;00000;Adair County
+050;19;Iowa;003;00000;00000;00000;Adams County
+050;19;Iowa;005;00000;00000;00000;Allamakee County
+050;19;Iowa;007;00000;00000;00000;Appanoose County
+050;19;Iowa;009;00000;00000;00000;Audubon County
+050;19;Iowa;011;00000;00000;00000;Benton County
+050;19;Iowa;013;00000;00000;00000;Black Hawk County
+050;19;Iowa;015;00000;00000;00000;Boone County
+050;19;Iowa;017;00000;00000;00000;Bremer County
+050;19;Iowa;019;00000;00000;00000;Buchanan County
+050;19;Iowa;021;00000;00000;00000;Buena Vista County
+050;19;Iowa;023;00000;00000;00000;Butler County
+050;19;Iowa;025;00000;00000;00000;Calhoun County
+050;19;Iowa;027;00000;00000;00000;Carroll County
+050;19;Iowa;029;00000;00000;00000;Cass County
+050;19;Iowa;031;00000;00000;00000;Cedar County
+050;19;Iowa;033;00000;00000;00000;Cerro Gordo County
+050;19;Iowa;035;00000;00000;00000;Cherokee County
+050;19;Iowa;037;00000;00000;00000;Chickasaw County
+050;19;Iowa;039;00000;00000;00000;Clarke County
+050;19;Iowa;041;00000;00000;00000;Clay County
+050;19;Iowa;043;00000;00000;00000;Clayton County
+050;19;Iowa;045;00000;00000;00000;Clinton County
+050;19;Iowa;047;00000;00000;00000;Crawford County
+050;19;Iowa;049;00000;00000;00000;Dallas County
+050;19;Iowa;051;00000;00000;00000;Davis County
+050;19;Iowa;053;00000;00000;00000;Decatur County
+050;19;Iowa;055;00000;00000;00000;Delaware County
+050;19;Iowa;057;00000;00000;00000;Des Moines County
+050;19;Iowa;059;00000;00000;00000;Dickinson County
+050;19;Iowa;061;00000;00000;00000;Dubuque County
+050;19;Iowa;063;00000;00000;00000;Emmet County
+050;19;Iowa;065;00000;00000;00000;Fayette County
+050;19;Iowa;067;00000;00000;00000;Floyd County
+050;19;Iowa;069;00000;00000;00000;Franklin County
+050;19;Iowa;071;00000;00000;00000;Fremont County
+050;19;Iowa;073;00000;00000;00000;Greene County
+050;19;Iowa;075;00000;00000;00000;Grundy County
+050;19;Iowa;077;00000;00000;00000;Guthrie County
+050;19;Iowa;079;00000;00000;00000;Hamilton County
+050;19;Iowa;081;00000;00000;00000;Hancock County
+050;19;Iowa;083;00000;00000;00000;Hardin County
+050;19;Iowa;085;00000;00000;00000;Harrison County
+050;19;Iowa;087;00000;00000;00000;Henry County
+050;19;Iowa;089;00000;00000;00000;Howard County
+050;19;Iowa;091;00000;00000;00000;Humboldt County
+050;19;Iowa;093;00000;00000;00000;Ida County
+050;19;Iowa;095;00000;00000;00000;Iowa County
+050;19;Iowa;097;00000;00000;00000;Jackson County
+050;19;Iowa;099;00000;00000;00000;Jasper County
+050;19;Iowa;101;00000;00000;00000;Jefferson County
+050;19;Iowa;103;00000;00000;00000;Johnson County
+050;19;Iowa;105;00000;00000;00000;Jones County
+050;19;Iowa;107;00000;00000;00000;Keokuk County
+050;19;Iowa;109;00000;00000;00000;Kossuth County
+050;19;Iowa;111;00000;00000;00000;Lee County
+050;19;Iowa;113;00000;00000;00000;Linn County
+050;19;Iowa;115;00000;00000;00000;Louisa County
+050;19;Iowa;117;00000;00000;00000;Lucas County
+050;19;Iowa;119;00000;00000;00000;Lyon County
+050;19;Iowa;121;00000;00000;00000;Madison County
+050;19;Iowa;123;00000;00000;00000;Mahaska County
+050;19;Iowa;125;00000;00000;00000;Marion County
+050;19;Iowa;127;00000;00000;00000;Marshall County
+050;19;Iowa;129;00000;00000;00000;Mills County
+050;19;Iowa;131;00000;00000;00000;Mitchell County
+050;19;Iowa;133;00000;00000;00000;Monona County
+050;19;Iowa;135;00000;00000;00000;Monroe County
+050;19;Iowa;137;00000;00000;00000;Montgomery County
+050;19;Iowa;139;00000;00000;00000;Muscatine County
+050;19;Iowa;141;00000;00000;00000;O'Brien County
+050;19;Iowa;143;00000;00000;00000;Osceola County
+050;19;Iowa;145;00000;00000;00000;Page County
+050;19;Iowa;147;00000;00000;00000;Palo Alto County
+050;19;Iowa;149;00000;00000;00000;Plymouth County
+050;19;Iowa;151;00000;00000;00000;Pocahontas County
+050;19;Iowa;153;00000;00000;00000;Polk County
+050;19;Iowa;155;00000;00000;00000;Pottawattamie County
+050;19;Iowa;157;00000;00000;00000;Poweshiek County
+050;19;Iowa;159;00000;00000;00000;Ringgold County
+050;19;Iowa;161;00000;00000;00000;Sac County
+050;19;Iowa;163;00000;00000;00000;Scott County
+050;19;Iowa;165;00000;00000;00000;Shelby County
+050;19;Iowa;167;00000;00000;00000;Sioux County
+050;19;Iowa;169;00000;00000;00000;Story County
+050;19;Iowa;171;00000;00000;00000;Tama County
+050;19;Iowa;173;00000;00000;00000;Taylor County
+050;19;Iowa;175;00000;00000;00000;Union County
+050;19;Iowa;177;00000;00000;00000;Van Buren County
+050;19;Iowa;179;00000;00000;00000;Wapello County
+050;19;Iowa;181;00000;00000;00000;Warren County
+050;19;Iowa;183;00000;00000;00000;Washington County
+050;19;Iowa;185;00000;00000;00000;Wayne County
+050;19;Iowa;187;00000;00000;00000;Webster County
+050;19;Iowa;189;00000;00000;00000;Winnebago County
+050;19;Iowa;191;00000;00000;00000;Winneshiek County
+050;19;Iowa;193;00000;00000;00000;Woodbury County
+050;19;Iowa;195;00000;00000;00000;Worth County
+050;19;Iowa;197;00000;00000;00000;Wright County
+050;20;Kansas;001;00000;00000;00000;Allen County
+050;20;Kansas;003;00000;00000;00000;Anderson County
+050;20;Kansas;005;00000;00000;00000;Atchison County
+050;20;Kansas;007;00000;00000;00000;Barber County
+050;20;Kansas;009;00000;00000;00000;Barton County
+050;20;Kansas;011;00000;00000;00000;Bourbon County
+050;20;Kansas;013;00000;00000;00000;Brown County
+050;20;Kansas;015;00000;00000;00000;Butler County
+050;20;Kansas;017;00000;00000;00000;Chase County
+050;20;Kansas;019;00000;00000;00000;Chautauqua County
+050;20;Kansas;021;00000;00000;00000;Cherokee County
+050;20;Kansas;023;00000;00000;00000;Cheyenne County
+050;20;Kansas;025;00000;00000;00000;Clark County
+050;20;Kansas;027;00000;00000;00000;Clay County
+050;20;Kansas;029;00000;00000;00000;Cloud County
+050;20;Kansas;031;00000;00000;00000;Coffey County
+050;20;Kansas;033;00000;00000;00000;Comanche County
+050;20;Kansas;035;00000;00000;00000;Cowley County
+050;20;Kansas;037;00000;00000;00000;Crawford County
+050;20;Kansas;039;00000;00000;00000;Decatur County
+050;20;Kansas;041;00000;00000;00000;Dickinson County
+050;20;Kansas;043;00000;00000;00000;Doniphan County
+050;20;Kansas;045;00000;00000;00000;Douglas County
+050;20;Kansas;047;00000;00000;00000;Edwards County
+050;20;Kansas;049;00000;00000;00000;Elk County
+050;20;Kansas;051;00000;00000;00000;Ellis County
+050;20;Kansas;053;00000;00000;00000;Ellsworth County
+050;20;Kansas;055;00000;00000;00000;Finney County
+050;20;Kansas;057;00000;00000;00000;Ford County
+050;20;Kansas;059;00000;00000;00000;Franklin County
+050;20;Kansas;061;00000;00000;00000;Geary County
+050;20;Kansas;063;00000;00000;00000;Gove County
+050;20;Kansas;065;00000;00000;00000;Graham County
+050;20;Kansas;067;00000;00000;00000;Grant County
+050;20;Kansas;069;00000;00000;00000;Gray County
+050;20;Kansas;071;00000;00000;00000;Greeley County
+050;20;Kansas;073;00000;00000;00000;Greenwood County
+050;20;Kansas;075;00000;00000;00000;Hamilton County
+050;20;Kansas;077;00000;00000;00000;Harper County
+050;20;Kansas;079;00000;00000;00000;Harvey County
+050;20;Kansas;081;00000;00000;00000;Haskell County
+050;20;Kansas;083;00000;00000;00000;Hodgeman County
+050;20;Kansas;085;00000;00000;00000;Jackson County
+050;20;Kansas;087;00000;00000;00000;Jefferson County
+050;20;Kansas;089;00000;00000;00000;Jewell County
+050;20;Kansas;091;00000;00000;00000;Johnson County
+050;20;Kansas;093;00000;00000;00000;Kearny County
+050;20;Kansas;095;00000;00000;00000;Kingman County
+050;20;Kansas;097;00000;00000;00000;Kiowa County
+050;20;Kansas;099;00000;00000;00000;Labette County
+050;20;Kansas;101;00000;00000;00000;Lane County
+050;20;Kansas;103;00000;00000;00000;Leavenworth County
+050;20;Kansas;105;00000;00000;00000;Lincoln County
+050;20;Kansas;107;00000;00000;00000;Linn County
+050;20;Kansas;109;00000;00000;00000;Logan County
+050;20;Kansas;111;00000;00000;00000;Lyon County
+050;20;Kansas;113;00000;00000;00000;McPherson County
+050;20;Kansas;115;00000;00000;00000;Marion County
+050;20;Kansas;117;00000;00000;00000;Marshall County
+050;20;Kansas;119;00000;00000;00000;Meade County
+050;20;Kansas;121;00000;00000;00000;Miami County
+050;20;Kansas;123;00000;00000;00000;Mitchell County
+050;20;Kansas;125;00000;00000;00000;Montgomery County
+050;20;Kansas;127;00000;00000;00000;Morris County
+050;20;Kansas;129;00000;00000;00000;Morton County
+050;20;Kansas;131;00000;00000;00000;Nemaha County
+050;20;Kansas;133;00000;00000;00000;Neosho County
+050;20;Kansas;135;00000;00000;00000;Ness County
+050;20;Kansas;137;00000;00000;00000;Norton County
+050;20;Kansas;139;00000;00000;00000;Osage County
+050;20;Kansas;141;00000;00000;00000;Osborne County
+050;20;Kansas;143;00000;00000;00000;Ottawa County
+050;20;Kansas;145;00000;00000;00000;Pawnee County
+050;20;Kansas;147;00000;00000;00000;Phillips County
+050;20;Kansas;149;00000;00000;00000;Pottawatomie County
+050;20;Kansas;151;00000;00000;00000;Pratt County
+050;20;Kansas;153;00000;00000;00000;Rawlins County
+050;20;Kansas;155;00000;00000;00000;Reno County
+050;20;Kansas;157;00000;00000;00000;Republic County
+050;20;Kansas;159;00000;00000;00000;Rice County
+050;20;Kansas;161;00000;00000;00000;Riley County
+050;20;Kansas;163;00000;00000;00000;Rooks County
+050;20;Kansas;165;00000;00000;00000;Rush County
+050;20;Kansas;167;00000;00000;00000;Russell County
+050;20;Kansas;169;00000;00000;00000;Saline County
+050;20;Kansas;171;00000;00000;00000;Scott County
+050;20;Kansas;173;00000;00000;00000;Sedgwick County
+050;20;Kansas;175;00000;00000;00000;Seward County
+050;20;Kansas;177;00000;00000;00000;Shawnee County
+050;20;Kansas;179;00000;00000;00000;Sheridan County
+050;20;Kansas;181;00000;00000;00000;Sherman County
+050;20;Kansas;183;00000;00000;00000;Smith County
+050;20;Kansas;185;00000;00000;00000;Stafford County
+050;20;Kansas;187;00000;00000;00000;Stanton County
+050;20;Kansas;189;00000;00000;00000;Stevens County
+050;20;Kansas;191;00000;00000;00000;Sumner County
+050;20;Kansas;193;00000;00000;00000;Thomas County
+050;20;Kansas;195;00000;00000;00000;Trego County
+050;20;Kansas;197;00000;00000;00000;Wabaunsee County
+050;20;Kansas;199;00000;00000;00000;Wallace County
+050;20;Kansas;201;00000;00000;00000;Washington County
+050;20;Kansas;203;00000;00000;00000;Wichita County
+050;20;Kansas;205;00000;00000;00000;Wilson County
+050;20;Kansas;207;00000;00000;00000;Woodson County
+050;20;Kansas;209;00000;00000;00000;Wyandotte County
+050;21;Kentucky;001;00000;00000;00000;Adair County
+050;21;Kentucky;003;00000;00000;00000;Allen County
+050;21;Kentucky;005;00000;00000;00000;Anderson County
+050;21;Kentucky;007;00000;00000;00000;Ballard County
+050;21;Kentucky;009;00000;00000;00000;Barren County
+050;21;Kentucky;011;00000;00000;00000;Bath County
+050;21;Kentucky;013;00000;00000;00000;Bell County
+050;21;Kentucky;015;00000;00000;00000;Boone County
+050;21;Kentucky;017;00000;00000;00000;Bourbon County
+050;21;Kentucky;019;00000;00000;00000;Boyd County
+050;21;Kentucky;021;00000;00000;00000;Boyle County
+050;21;Kentucky;023;00000;00000;00000;Bracken County
+050;21;Kentucky;025;00000;00000;00000;Breathitt County
+050;21;Kentucky;027;00000;00000;00000;Breckinridge County
+050;21;Kentucky;029;00000;00000;00000;Bullitt County
+050;21;Kentucky;031;00000;00000;00000;Butler County
+050;21;Kentucky;033;00000;00000;00000;Caldwell County
+050;21;Kentucky;035;00000;00000;00000;Calloway County
+050;21;Kentucky;037;00000;00000;00000;Campbell County
+050;21;Kentucky;039;00000;00000;00000;Carlisle County
+050;21;Kentucky;041;00000;00000;00000;Carroll County
+050;21;Kentucky;043;00000;00000;00000;Carter County
+050;21;Kentucky;045;00000;00000;00000;Casey County
+050;21;Kentucky;047;00000;00000;00000;Christian County
+050;21;Kentucky;049;00000;00000;00000;Clark County
+050;21;Kentucky;051;00000;00000;00000;Clay County
+050;21;Kentucky;053;00000;00000;00000;Clinton County
+050;21;Kentucky;055;00000;00000;00000;Crittenden County
+050;21;Kentucky;057;00000;00000;00000;Cumberland County
+050;21;Kentucky;059;00000;00000;00000;Daviess County
+050;21;Kentucky;061;00000;00000;00000;Edmonson County
+050;21;Kentucky;063;00000;00000;00000;Elliott County
+050;21;Kentucky;065;00000;00000;00000;Estill County
+050;21;Kentucky;067;00000;00000;00000;Fayette County
+050;21;Kentucky;069;00000;00000;00000;Fleming County
+050;21;Kentucky;071;00000;00000;00000;Floyd County
+050;21;Kentucky;073;00000;00000;00000;Franklin County
+050;21;Kentucky;075;00000;00000;00000;Fulton County
+050;21;Kentucky;077;00000;00000;00000;Gallatin County
+050;21;Kentucky;079;00000;00000;00000;Garrard County
+050;21;Kentucky;081;00000;00000;00000;Grant County
+050;21;Kentucky;083;00000;00000;00000;Graves County
+050;21;Kentucky;085;00000;00000;00000;Grayson County
+050;21;Kentucky;087;00000;00000;00000;Green County
+050;21;Kentucky;089;00000;00000;00000;Greenup County
+050;21;Kentucky;091;00000;00000;00000;Hancock County
+050;21;Kentucky;093;00000;00000;00000;Hardin County
+050;21;Kentucky;095;00000;00000;00000;Harlan County
+050;21;Kentucky;097;00000;00000;00000;Harrison County
+050;21;Kentucky;099;00000;00000;00000;Hart County
+050;21;Kentucky;101;00000;00000;00000;Henderson County
+050;21;Kentucky;103;00000;00000;00000;Henry County
+050;21;Kentucky;105;00000;00000;00000;Hickman County
+050;21;Kentucky;107;00000;00000;00000;Hopkins County
+050;21;Kentucky;109;00000;00000;00000;Jackson County
+050;21;Kentucky;111;00000;00000;00000;Jefferson County
+050;21;Kentucky;113;00000;00000;00000;Jessamine County
+050;21;Kentucky;115;00000;00000;00000;Johnson County
+050;21;Kentucky;117;00000;00000;00000;Kenton County
+050;21;Kentucky;119;00000;00000;00000;Knott County
+050;21;Kentucky;121;00000;00000;00000;Knox County
+050;21;Kentucky;123;00000;00000;00000;Larue County
+050;21;Kentucky;125;00000;00000;00000;Laurel County
+050;21;Kentucky;127;00000;00000;00000;Lawrence County
+050;21;Kentucky;129;00000;00000;00000;Lee County
+050;21;Kentucky;131;00000;00000;00000;Leslie County
+050;21;Kentucky;133;00000;00000;00000;Letcher County
+050;21;Kentucky;135;00000;00000;00000;Lewis County
+050;21;Kentucky;137;00000;00000;00000;Lincoln County
+050;21;Kentucky;139;00000;00000;00000;Livingston County
+050;21;Kentucky;141;00000;00000;00000;Logan County
+050;21;Kentucky;143;00000;00000;00000;Lyon County
+050;21;Kentucky;145;00000;00000;00000;McCracken County
+050;21;Kentucky;147;00000;00000;00000;McCreary County
+050;21;Kentucky;149;00000;00000;00000;McLean County
+050;21;Kentucky;151;00000;00000;00000;Madison County
+050;21;Kentucky;153;00000;00000;00000;Magoffin County
+050;21;Kentucky;155;00000;00000;00000;Marion County
+050;21;Kentucky;157;00000;00000;00000;Marshall County
+050;21;Kentucky;159;00000;00000;00000;Martin County
+050;21;Kentucky;161;00000;00000;00000;Mason County
+050;21;Kentucky;163;00000;00000;00000;Meade County
+050;21;Kentucky;165;00000;00000;00000;Menifee County
+050;21;Kentucky;167;00000;00000;00000;Mercer County
+050;21;Kentucky;169;00000;00000;00000;Metcalfe County
+050;21;Kentucky;171;00000;00000;00000;Monroe County
+050;21;Kentucky;173;00000;00000;00000;Montgomery County
+050;21;Kentucky;175;00000;00000;00000;Morgan County
+050;21;Kentucky;177;00000;00000;00000;Muhlenberg County
+050;21;Kentucky;179;00000;00000;00000;Nelson County
+050;21;Kentucky;181;00000;00000;00000;Nicholas County
+050;21;Kentucky;183;00000;00000;00000;Ohio County
+050;21;Kentucky;185;00000;00000;00000;Oldham County
+050;21;Kentucky;187;00000;00000;00000;Owen County
+050;21;Kentucky;189;00000;00000;00000;Owsley County
+050;21;Kentucky;191;00000;00000;00000;Pendleton County
+050;21;Kentucky;193;00000;00000;00000;Perry County
+050;21;Kentucky;195;00000;00000;00000;Pike County
+050;21;Kentucky;197;00000;00000;00000;Powell County
+050;21;Kentucky;199;00000;00000;00000;Pulaski County
+050;21;Kentucky;201;00000;00000;00000;Robertson County
+050;21;Kentucky;203;00000;00000;00000;Rockcastle County
+050;21;Kentucky;205;00000;00000;00000;Rowan County
+050;21;Kentucky;207;00000;00000;00000;Russell County
+050;21;Kentucky;209;00000;00000;00000;Scott County
+050;21;Kentucky;211;00000;00000;00000;Shelby County
+050;21;Kentucky;213;00000;00000;00000;Simpson County
+050;21;Kentucky;215;00000;00000;00000;Spencer County
+050;21;Kentucky;217;00000;00000;00000;Taylor County
+050;21;Kentucky;219;00000;00000;00000;Todd County
+050;21;Kentucky;221;00000;00000;00000;Trigg County
+050;21;Kentucky;223;00000;00000;00000;Trimble County
+050;21;Kentucky;225;00000;00000;00000;Union County
+050;21;Kentucky;227;00000;00000;00000;Warren County
+050;21;Kentucky;229;00000;00000;00000;Washington County
+050;21;Kentucky;231;00000;00000;00000;Wayne County
+050;21;Kentucky;233;00000;00000;00000;Webster County
+050;21;Kentucky;235;00000;00000;00000;Whitley County
+050;21;Kentucky;237;00000;00000;00000;Wolfe County
+050;21;Kentucky;239;00000;00000;00000;Woodford County
+050;22;Louisiana;001;00000;00000;00000;Acadia Parish
+050;22;Louisiana;003;00000;00000;00000;Allen Parish
+050;22;Louisiana;005;00000;00000;00000;Ascension Parish
+050;22;Louisiana;007;00000;00000;00000;Assumption Parish
+050;22;Louisiana;009;00000;00000;00000;Avoyelles Parish
+050;22;Louisiana;011;00000;00000;00000;Beauregard Parish
+050;22;Louisiana;013;00000;00000;00000;Bienville Parish
+050;22;Louisiana;015;00000;00000;00000;Bossier Parish
+050;22;Louisiana;017;00000;00000;00000;Caddo Parish
+050;22;Louisiana;019;00000;00000;00000;Calcasieu Parish
+050;22;Louisiana;021;00000;00000;00000;Caldwell Parish
+050;22;Louisiana;023;00000;00000;00000;Cameron Parish
+050;22;Louisiana;025;00000;00000;00000;Catahoula Parish
+050;22;Louisiana;027;00000;00000;00000;Claiborne Parish
+050;22;Louisiana;029;00000;00000;00000;Concordia Parish
+050;22;Louisiana;031;00000;00000;00000;De Soto Parish
+050;22;Louisiana;033;00000;00000;00000;East Baton Rouge Parish
+050;22;Louisiana;035;00000;00000;00000;East Carroll Parish
+050;22;Louisiana;037;00000;00000;00000;East Feliciana Parish
+050;22;Louisiana;039;00000;00000;00000;Evangeline Parish
+050;22;Louisiana;041;00000;00000;00000;Franklin Parish
+050;22;Louisiana;043;00000;00000;00000;Grant Parish
+050;22;Louisiana;045;00000;00000;00000;Iberia Parish
+050;22;Louisiana;047;00000;00000;00000;Iberville Parish
+050;22;Louisiana;049;00000;00000;00000;Jackson Parish
+050;22;Louisiana;051;00000;00000;00000;Jefferson Parish
+050;22;Louisiana;053;00000;00000;00000;Jefferson Davis Parish
+050;22;Louisiana;055;00000;00000;00000;Lafayette Parish
+050;22;Louisiana;057;00000;00000;00000;Lafourche Parish
+050;22;Louisiana;059;00000;00000;00000;LaSalle Parish
+050;22;Louisiana;061;00000;00000;00000;Lincoln Parish
+050;22;Louisiana;063;00000;00000;00000;Livingston Parish
+050;22;Louisiana;065;00000;00000;00000;Madison Parish
+050;22;Louisiana;067;00000;00000;00000;Morehouse Parish
+050;22;Louisiana;069;00000;00000;00000;Natchitoches Parish
+050;22;Louisiana;071;00000;00000;00000;Orleans Parish
+050;22;Louisiana;073;00000;00000;00000;Ouachita Parish
+050;22;Louisiana;075;00000;00000;00000;Plaquemines Parish
+050;22;Louisiana;077;00000;00000;00000;Pointe Coupee Parish
+050;22;Louisiana;079;00000;00000;00000;Rapides Parish
+050;22;Louisiana;081;00000;00000;00000;Red River Parish
+050;22;Louisiana;083;00000;00000;00000;Richland Parish
+050;22;Louisiana;085;00000;00000;00000;Sabine Parish
+050;22;Louisiana;087;00000;00000;00000;St. Bernard Parish
+050;22;Louisiana;089;00000;00000;00000;St. Charles Parish
+050;22;Louisiana;091;00000;00000;00000;St. Helena Parish
+050;22;Louisiana;093;00000;00000;00000;St. James Parish
+050;22;Louisiana;095;00000;00000;00000;St. John the Baptist Parish
+050;22;Louisiana;097;00000;00000;00000;St. Landry Parish
+050;22;Louisiana;099;00000;00000;00000;St. Martin Parish
+050;22;Louisiana;101;00000;00000;00000;St. Mary Parish
+050;22;Louisiana;103;00000;00000;00000;St. Tammany Parish
+050;22;Louisiana;105;00000;00000;00000;Tangipahoa Parish
+050;22;Louisiana;107;00000;00000;00000;Tensas Parish
+050;22;Louisiana;109;00000;00000;00000;Terrebonne Parish
+050;22;Louisiana;111;00000;00000;00000;Union Parish
+050;22;Louisiana;113;00000;00000;00000;Vermilion Parish
+050;22;Louisiana;115;00000;00000;00000;Vernon Parish
+050;22;Louisiana;117;00000;00000;00000;Washington Parish
+050;22;Louisiana;119;00000;00000;00000;Webster Parish
+050;22;Louisiana;121;00000;00000;00000;West Baton Rouge Parish
+050;22;Louisiana;123;00000;00000;00000;West Carroll Parish
+050;22;Louisiana;125;00000;00000;00000;West Feliciana Parish
+050;22;Louisiana;127;00000;00000;00000;Winn Parish
+050;23;Maine;001;00000;00000;00000;Androscoggin County
+050;23;Maine;003;00000;00000;00000;Aroostook County
+050;23;Maine;005;00000;00000;00000;Cumberland County
+050;23;Maine;007;00000;00000;00000;Franklin County
+050;23;Maine;009;00000;00000;00000;Hancock County
+050;23;Maine;011;00000;00000;00000;Kennebec County
+050;23;Maine;013;00000;00000;00000;Knox County
+050;23;Maine;015;00000;00000;00000;Lincoln County
+050;23;Maine;017;00000;00000;00000;Oxford County
+050;23;Maine;019;00000;00000;00000;Penobscot County
+050;23;Maine;021;00000;00000;00000;Piscataquis County
+050;23;Maine;023;00000;00000;00000;Sagadahoc County
+050;23;Maine;025;00000;00000;00000;Somerset County
+050;23;Maine;027;00000;00000;00000;Waldo County
+050;23;Maine;029;00000;00000;00000;Washington County
+050;23;Maine;031;00000;00000;00000;York County
+050;24;Maryland;001;00000;00000;00000;Allegany County
+050;24;Maryland;003;00000;00000;00000;Anne Arundel County
+050;24;Maryland;005;00000;00000;00000;Baltimore County
+050;24;Maryland;009;00000;00000;00000;Calvert County
+050;24;Maryland;011;00000;00000;00000;Caroline County
+050;24;Maryland;013;00000;00000;00000;Carroll County
+050;24;Maryland;015;00000;00000;00000;Cecil County
+050;24;Maryland;017;00000;00000;00000;Charles County
+050;24;Maryland;019;00000;00000;00000;Dorchester County
+050;24;Maryland;021;00000;00000;00000;Frederick County
+050;24;Maryland;023;00000;00000;00000;Garrett County
+050;24;Maryland;025;00000;00000;00000;Harford County
+050;24;Maryland;027;00000;00000;00000;Howard County
+050;24;Maryland;029;00000;00000;00000;Kent County
+050;24;Maryland;031;00000;00000;00000;Montgomery County
+050;24;Maryland;033;00000;00000;00000;Prince George's County
+050;24;Maryland;035;00000;00000;00000;Queen Anne's County
+050;24;Maryland;037;00000;00000;00000;St. Mary's County
+050;24;Maryland;039;00000;00000;00000;Somerset County
+050;24;Maryland;041;00000;00000;00000;Talbot County
+050;24;Maryland;043;00000;00000;00000;Washington County
+050;24;Maryland;045;00000;00000;00000;Wicomico County
+050;24;Maryland;047;00000;00000;00000;Worcester County
+050;24;Maryland;510;00000;00000;00000;Baltimore city
+050;25;Massachusetts;001;00000;00000;00000;Barnstable County
+050;25;Massachusetts;003;00000;00000;00000;Berkshire County
+050;25;Massachusetts;005;00000;00000;00000;Bristol County
+050;25;Massachusetts;007;00000;00000;00000;Dukes County
+050;25;Massachusetts;009;00000;00000;00000;Essex County
+050;25;Massachusetts;011;00000;00000;00000;Franklin County
+050;25;Massachusetts;013;00000;00000;00000;Hampden County
+050;25;Massachusetts;015;00000;00000;00000;Hampshire County
+050;25;Massachusetts;017;00000;00000;00000;Middlesex County
+050;25;Massachusetts;019;00000;00000;00000;Nantucket County
+050;25;Massachusetts;021;00000;00000;00000;Norfolk County
+050;25;Massachusetts;023;00000;00000;00000;Plymouth County
+050;25;Massachusetts;025;00000;00000;00000;Suffolk County
+050;25;Massachusetts;027;00000;00000;00000;Worcester County
+050;26;Michigan;001;00000;00000;00000;Alcona County
+050;26;Michigan;003;00000;00000;00000;Alger County
+050;26;Michigan;005;00000;00000;00000;Allegan County
+050;26;Michigan;007;00000;00000;00000;Alpena County
+050;26;Michigan;009;00000;00000;00000;Antrim County
+050;26;Michigan;011;00000;00000;00000;Arenac County
+050;26;Michigan;013;00000;00000;00000;Baraga County
+050;26;Michigan;015;00000;00000;00000;Barry County
+050;26;Michigan;017;00000;00000;00000;Bay County
+050;26;Michigan;019;00000;00000;00000;Benzie County
+050;26;Michigan;021;00000;00000;00000;Berrien County
+050;26;Michigan;023;00000;00000;00000;Branch County
+050;26;Michigan;025;00000;00000;00000;Calhoun County
+050;26;Michigan;027;00000;00000;00000;Cass County
+050;26;Michigan;029;00000;00000;00000;Charlevoix County
+050;26;Michigan;031;00000;00000;00000;Cheboygan County
+050;26;Michigan;033;00000;00000;00000;Chippewa County
+050;26;Michigan;035;00000;00000;00000;Clare County
+050;26;Michigan;037;00000;00000;00000;Clinton County
+050;26;Michigan;039;00000;00000;00000;Crawford County
+050;26;Michigan;041;00000;00000;00000;Delta County
+050;26;Michigan;043;00000;00000;00000;Dickinson County
+050;26;Michigan;045;00000;00000;00000;Eaton County
+050;26;Michigan;047;00000;00000;00000;Emmet County
+050;26;Michigan;049;00000;00000;00000;Genesee County
+050;26;Michigan;051;00000;00000;00000;Gladwin County
+050;26;Michigan;053;00000;00000;00000;Gogebic County
+050;26;Michigan;055;00000;00000;00000;Grand Traverse County
+050;26;Michigan;057;00000;00000;00000;Gratiot County
+050;26;Michigan;059;00000;00000;00000;Hillsdale County
+050;26;Michigan;061;00000;00000;00000;Houghton County
+050;26;Michigan;063;00000;00000;00000;Huron County
+050;26;Michigan;065;00000;00000;00000;Ingham County
+050;26;Michigan;067;00000;00000;00000;Ionia County
+050;26;Michigan;069;00000;00000;00000;Iosco County
+050;26;Michigan;071;00000;00000;00000;Iron County
+050;26;Michigan;073;00000;00000;00000;Isabella County
+050;26;Michigan;075;00000;00000;00000;Jackson County
+050;26;Michigan;077;00000;00000;00000;Kalamazoo County
+050;26;Michigan;079;00000;00000;00000;Kalkaska County
+050;26;Michigan;081;00000;00000;00000;Kent County
+050;26;Michigan;083;00000;00000;00000;Keweenaw County
+050;26;Michigan;085;00000;00000;00000;Lake County
+050;26;Michigan;087;00000;00000;00000;Lapeer County
+050;26;Michigan;089;00000;00000;00000;Leelanau County
+050;26;Michigan;091;00000;00000;00000;Lenawee County
+050;26;Michigan;093;00000;00000;00000;Livingston County
+050;26;Michigan;095;00000;00000;00000;Luce County
+050;26;Michigan;097;00000;00000;00000;Mackinac County
+050;26;Michigan;099;00000;00000;00000;Macomb County
+050;26;Michigan;101;00000;00000;00000;Manistee County
+050;26;Michigan;103;00000;00000;00000;Marquette County
+050;26;Michigan;105;00000;00000;00000;Mason County
+050;26;Michigan;107;00000;00000;00000;Mecosta County
+050;26;Michigan;109;00000;00000;00000;Menominee County
+050;26;Michigan;111;00000;00000;00000;Midland County
+050;26;Michigan;113;00000;00000;00000;Missaukee County
+050;26;Michigan;115;00000;00000;00000;Monroe County
+050;26;Michigan;117;00000;00000;00000;Montcalm County
+050;26;Michigan;119;00000;00000;00000;Montmorency County
+050;26;Michigan;121;00000;00000;00000;Muskegon County
+050;26;Michigan;123;00000;00000;00000;Newaygo County
+050;26;Michigan;125;00000;00000;00000;Oakland County
+050;26;Michigan;127;00000;00000;00000;Oceana County
+050;26;Michigan;129;00000;00000;00000;Ogemaw County
+050;26;Michigan;131;00000;00000;00000;Ontonagon County
+050;26;Michigan;133;00000;00000;00000;Osceola County
+050;26;Michigan;135;00000;00000;00000;Oscoda County
+050;26;Michigan;137;00000;00000;00000;Otsego County
+050;26;Michigan;139;00000;00000;00000;Ottawa County
+050;26;Michigan;141;00000;00000;00000;Presque Isle County
+050;26;Michigan;143;00000;00000;00000;Roscommon County
+050;26;Michigan;145;00000;00000;00000;Saginaw County
+050;26;Michigan;147;00000;00000;00000;St. Clair County
+050;26;Michigan;149;00000;00000;00000;St. Joseph County
+050;26;Michigan;151;00000;00000;00000;Sanilac County
+050;26;Michigan;153;00000;00000;00000;Schoolcraft County
+050;26;Michigan;155;00000;00000;00000;Shiawassee County
+050;26;Michigan;157;00000;00000;00000;Tuscola County
+050;26;Michigan;159;00000;00000;00000;Van Buren County
+050;26;Michigan;161;00000;00000;00000;Washtenaw County
+050;26;Michigan;163;00000;00000;00000;Wayne County
+050;26;Michigan;165;00000;00000;00000;Wexford County
+050;27;Minnesota;001;00000;00000;00000;Aitkin County
+050;27;Minnesota;003;00000;00000;00000;Anoka County
+050;27;Minnesota;005;00000;00000;00000;Becker County
+050;27;Minnesota;007;00000;00000;00000;Beltrami County
+050;27;Minnesota;009;00000;00000;00000;Benton County
+050;27;Minnesota;011;00000;00000;00000;Big Stone County
+050;27;Minnesota;013;00000;00000;00000;Blue Earth County
+050;27;Minnesota;015;00000;00000;00000;Brown County
+050;27;Minnesota;017;00000;00000;00000;Carlton County
+050;27;Minnesota;019;00000;00000;00000;Carver County
+050;27;Minnesota;021;00000;00000;00000;Cass County
+050;27;Minnesota;023;00000;00000;00000;Chippewa County
+050;27;Minnesota;025;00000;00000;00000;Chisago County
+050;27;Minnesota;027;00000;00000;00000;Clay County
+050;27;Minnesota;029;00000;00000;00000;Clearwater County
+050;27;Minnesota;031;00000;00000;00000;Cook County
+050;27;Minnesota;033;00000;00000;00000;Cottonwood County
+050;27;Minnesota;035;00000;00000;00000;Crow Wing County
+050;27;Minnesota;037;00000;00000;00000;Dakota County
+050;27;Minnesota;039;00000;00000;00000;Dodge County
+050;27;Minnesota;041;00000;00000;00000;Douglas County
+050;27;Minnesota;043;00000;00000;00000;Faribault County
+050;27;Minnesota;045;00000;00000;00000;Fillmore County
+050;27;Minnesota;047;00000;00000;00000;Freeborn County
+050;27;Minnesota;049;00000;00000;00000;Goodhue County
+050;27;Minnesota;051;00000;00000;00000;Grant County
+050;27;Minnesota;053;00000;00000;00000;Hennepin County
+050;27;Minnesota;055;00000;00000;00000;Houston County
+050;27;Minnesota;057;00000;00000;00000;Hubbard County
+050;27;Minnesota;059;00000;00000;00000;Isanti County
+050;27;Minnesota;061;00000;00000;00000;Itasca County
+050;27;Minnesota;063;00000;00000;00000;Jackson County
+050;27;Minnesota;065;00000;00000;00000;Kanabec County
+050;27;Minnesota;067;00000;00000;00000;Kandiyohi County
+050;27;Minnesota;069;00000;00000;00000;Kittson County
+050;27;Minnesota;071;00000;00000;00000;Koochiching County
+050;27;Minnesota;073;00000;00000;00000;Lac qui Parle County
+050;27;Minnesota;075;00000;00000;00000;Lake County
+050;27;Minnesota;077;00000;00000;00000;Lake of the Woods County
+050;27;Minnesota;079;00000;00000;00000;Le Sueur County
+050;27;Minnesota;081;00000;00000;00000;Lincoln County
+050;27;Minnesota;083;00000;00000;00000;Lyon County
+050;27;Minnesota;085;00000;00000;00000;McLeod County
+050;27;Minnesota;087;00000;00000;00000;Mahnomen County
+050;27;Minnesota;089;00000;00000;00000;Marshall County
+050;27;Minnesota;091;00000;00000;00000;Martin County
+050;27;Minnesota;093;00000;00000;00000;Meeker County
+050;27;Minnesota;095;00000;00000;00000;Mille Lacs County
+050;27;Minnesota;097;00000;00000;00000;Morrison County
+050;27;Minnesota;099;00000;00000;00000;Mower County
+050;27;Minnesota;101;00000;00000;00000;Murray County
+050;27;Minnesota;103;00000;00000;00000;Nicollet County
+050;27;Minnesota;105;00000;00000;00000;Nobles County
+050;27;Minnesota;107;00000;00000;00000;Norman County
+050;27;Minnesota;109;00000;00000;00000;Olmsted County
+050;27;Minnesota;111;00000;00000;00000;Otter Tail County
+050;27;Minnesota;113;00000;00000;00000;Pennington County
+050;27;Minnesota;115;00000;00000;00000;Pine County
+050;27;Minnesota;117;00000;00000;00000;Pipestone County
+050;27;Minnesota;119;00000;00000;00000;Polk County
+050;27;Minnesota;121;00000;00000;00000;Pope County
+050;27;Minnesota;123;00000;00000;00000;Ramsey County
+050;27;Minnesota;125;00000;00000;00000;Red Lake County
+050;27;Minnesota;127;00000;00000;00000;Redwood County
+050;27;Minnesota;129;00000;00000;00000;Renville County
+050;27;Minnesota;131;00000;00000;00000;Rice County
+050;27;Minnesota;133;00000;00000;00000;Rock County
+050;27;Minnesota;135;00000;00000;00000;Roseau County
+050;27;Minnesota;137;00000;00000;00000;St. Louis County
+050;27;Minnesota;139;00000;00000;00000;Scott County
+050;27;Minnesota;141;00000;00000;00000;Sherburne County
+050;27;Minnesota;143;00000;00000;00000;Sibley County
+050;27;Minnesota;145;00000;00000;00000;Stearns County
+050;27;Minnesota;147;00000;00000;00000;Steele County
+050;27;Minnesota;149;00000;00000;00000;Stevens County
+050;27;Minnesota;151;00000;00000;00000;Swift County
+050;27;Minnesota;153;00000;00000;00000;Todd County
+050;27;Minnesota;155;00000;00000;00000;Traverse County
+050;27;Minnesota;157;00000;00000;00000;Wabasha County
+050;27;Minnesota;159;00000;00000;00000;Wadena County
+050;27;Minnesota;161;00000;00000;00000;Waseca County
+050;27;Minnesota;163;00000;00000;00000;Washington County
+050;27;Minnesota;165;00000;00000;00000;Watonwan County
+050;27;Minnesota;167;00000;00000;00000;Wilkin County
+050;27;Minnesota;169;00000;00000;00000;Winona County
+050;27;Minnesota;171;00000;00000;00000;Wright County
+050;27;Minnesota;173;00000;00000;00000;Yellow Medicine County
+050;28;Mississippi;001;00000;00000;00000;Adams County
+050;28;Mississippi;003;00000;00000;00000;Alcorn County
+050;28;Mississippi;005;00000;00000;00000;Amite County
+050;28;Mississippi;007;00000;00000;00000;Attala County
+050;28;Mississippi;009;00000;00000;00000;Benton County
+050;28;Mississippi;011;00000;00000;00000;Bolivar County
+050;28;Mississippi;013;00000;00000;00000;Calhoun County
+050;28;Mississippi;015;00000;00000;00000;Carroll County
+050;28;Mississippi;017;00000;00000;00000;Chickasaw County
+050;28;Mississippi;019;00000;00000;00000;Choctaw County
+050;28;Mississippi;021;00000;00000;00000;Claiborne County
+050;28;Mississippi;023;00000;00000;00000;Clarke County
+050;28;Mississippi;025;00000;00000;00000;Clay County
+050;28;Mississippi;027;00000;00000;00000;Coahoma County
+050;28;Mississippi;029;00000;00000;00000;Copiah County
+050;28;Mississippi;031;00000;00000;00000;Covington County
+050;28;Mississippi;033;00000;00000;00000;DeSoto County
+050;28;Mississippi;035;00000;00000;00000;Forrest County
+050;28;Mississippi;037;00000;00000;00000;Franklin County
+050;28;Mississippi;039;00000;00000;00000;George County
+050;28;Mississippi;041;00000;00000;00000;Greene County
+050;28;Mississippi;043;00000;00000;00000;Grenada County
+050;28;Mississippi;045;00000;00000;00000;Hancock County
+050;28;Mississippi;047;00000;00000;00000;Harrison County
+050;28;Mississippi;049;00000;00000;00000;Hinds County
+050;28;Mississippi;051;00000;00000;00000;Holmes County
+050;28;Mississippi;053;00000;00000;00000;Humphreys County
+050;28;Mississippi;055;00000;00000;00000;Issaquena County
+050;28;Mississippi;057;00000;00000;00000;Itawamba County
+050;28;Mississippi;059;00000;00000;00000;Jackson County
+050;28;Mississippi;061;00000;00000;00000;Jasper County
+050;28;Mississippi;063;00000;00000;00000;Jefferson County
+050;28;Mississippi;065;00000;00000;00000;Jefferson Davis County
+050;28;Mississippi;067;00000;00000;00000;Jones County
+050;28;Mississippi;069;00000;00000;00000;Kemper County
+050;28;Mississippi;071;00000;00000;00000;Lafayette County
+050;28;Mississippi;073;00000;00000;00000;Lamar County
+050;28;Mississippi;075;00000;00000;00000;Lauderdale County
+050;28;Mississippi;077;00000;00000;00000;Lawrence County
+050;28;Mississippi;079;00000;00000;00000;Leake County
+050;28;Mississippi;081;00000;00000;00000;Lee County
+050;28;Mississippi;083;00000;00000;00000;Leflore County
+050;28;Mississippi;085;00000;00000;00000;Lincoln County
+050;28;Mississippi;087;00000;00000;00000;Lowndes County
+050;28;Mississippi;089;00000;00000;00000;Madison County
+050;28;Mississippi;091;00000;00000;00000;Marion County
+050;28;Mississippi;093;00000;00000;00000;Marshall County
+050;28;Mississippi;095;00000;00000;00000;Monroe County
+050;28;Mississippi;097;00000;00000;00000;Montgomery County
+050;28;Mississippi;099;00000;00000;00000;Neshoba County
+050;28;Mississippi;101;00000;00000;00000;Newton County
+050;28;Mississippi;103;00000;00000;00000;Noxubee County
+050;28;Mississippi;105;00000;00000;00000;Oktibbeha County
+050;28;Mississippi;107;00000;00000;00000;Panola County
+050;28;Mississippi;109;00000;00000;00000;Pearl River County
+050;28;Mississippi;111;00000;00000;00000;Perry County
+050;28;Mississippi;113;00000;00000;00000;Pike County
+050;28;Mississippi;115;00000;00000;00000;Pontotoc County
+050;28;Mississippi;117;00000;00000;00000;Prentiss County
+050;28;Mississippi;119;00000;00000;00000;Quitman County
+050;28;Mississippi;121;00000;00000;00000;Rankin County
+050;28;Mississippi;123;00000;00000;00000;Scott County
+050;28;Mississippi;125;00000;00000;00000;Sharkey County
+050;28;Mississippi;127;00000;00000;00000;Simpson County
+050;28;Mississippi;129;00000;00000;00000;Smith County
+050;28;Mississippi;131;00000;00000;00000;Stone County
+050;28;Mississippi;133;00000;00000;00000;Sunflower County
+050;28;Mississippi;135;00000;00000;00000;Tallahatchie County
+050;28;Mississippi;137;00000;00000;00000;Tate County
+050;28;Mississippi;139;00000;00000;00000;Tippah County
+050;28;Mississippi;141;00000;00000;00000;Tishomingo County
+050;28;Mississippi;143;00000;00000;00000;Tunica County
+050;28;Mississippi;145;00000;00000;00000;Union County
+050;28;Mississippi;147;00000;00000;00000;Walthall County
+050;28;Mississippi;149;00000;00000;00000;Warren County
+050;28;Mississippi;151;00000;00000;00000;Washington County
+050;28;Mississippi;153;00000;00000;00000;Wayne County
+050;28;Mississippi;155;00000;00000;00000;Webster County
+050;28;Mississippi;157;00000;00000;00000;Wilkinson County
+050;28;Mississippi;159;00000;00000;00000;Winston County
+050;28;Mississippi;161;00000;00000;00000;Yalobusha County
+050;28;Mississippi;163;00000;00000;00000;Yazoo County
+050;29;Missouri;001;00000;00000;00000;Adair County
+050;29;Missouri;003;00000;00000;00000;Andrew County
+050;29;Missouri;005;00000;00000;00000;Atchison County
+050;29;Missouri;007;00000;00000;00000;Audrain County
+050;29;Missouri;009;00000;00000;00000;Barry County
+050;29;Missouri;011;00000;00000;00000;Barton County
+050;29;Missouri;013;00000;00000;00000;Bates County
+050;29;Missouri;015;00000;00000;00000;Benton County
+050;29;Missouri;017;00000;00000;00000;Bollinger County
+050;29;Missouri;019;00000;00000;00000;Boone County
+050;29;Missouri;021;00000;00000;00000;Buchanan County
+050;29;Missouri;023;00000;00000;00000;Butler County
+050;29;Missouri;025;00000;00000;00000;Caldwell County
+050;29;Missouri;027;00000;00000;00000;Callaway County
+050;29;Missouri;029;00000;00000;00000;Camden County
+050;29;Missouri;031;00000;00000;00000;Cape Girardeau County
+050;29;Missouri;033;00000;00000;00000;Carroll County
+050;29;Missouri;035;00000;00000;00000;Carter County
+050;29;Missouri;037;00000;00000;00000;Cass County
+050;29;Missouri;039;00000;00000;00000;Cedar County
+050;29;Missouri;041;00000;00000;00000;Chariton County
+050;29;Missouri;043;00000;00000;00000;Christian County
+050;29;Missouri;045;00000;00000;00000;Clark County
+050;29;Missouri;047;00000;00000;00000;Clay County
+050;29;Missouri;049;00000;00000;00000;Clinton County
+050;29;Missouri;051;00000;00000;00000;Cole County
+050;29;Missouri;053;00000;00000;00000;Cooper County
+050;29;Missouri;055;00000;00000;00000;Crawford County
+050;29;Missouri;057;00000;00000;00000;Dade County
+050;29;Missouri;059;00000;00000;00000;Dallas County
+050;29;Missouri;061;00000;00000;00000;Daviess County
+050;29;Missouri;063;00000;00000;00000;DeKalb County
+050;29;Missouri;065;00000;00000;00000;Dent County
+050;29;Missouri;067;00000;00000;00000;Douglas County
+050;29;Missouri;069;00000;00000;00000;Dunklin County
+050;29;Missouri;071;00000;00000;00000;Franklin County
+050;29;Missouri;073;00000;00000;00000;Gasconade County
+050;29;Missouri;075;00000;00000;00000;Gentry County
+050;29;Missouri;077;00000;00000;00000;Greene County
+050;29;Missouri;079;00000;00000;00000;Grundy County
+050;29;Missouri;081;00000;00000;00000;Harrison County
+050;29;Missouri;083;00000;00000;00000;Henry County
+050;29;Missouri;085;00000;00000;00000;Hickory County
+050;29;Missouri;087;00000;00000;00000;Holt County
+050;29;Missouri;089;00000;00000;00000;Howard County
+050;29;Missouri;091;00000;00000;00000;Howell County
+050;29;Missouri;093;00000;00000;00000;Iron County
+050;29;Missouri;095;00000;00000;00000;Jackson County
+050;29;Missouri;097;00000;00000;00000;Jasper County
+050;29;Missouri;099;00000;00000;00000;Jefferson County
+050;29;Missouri;101;00000;00000;00000;Johnson County
+050;29;Missouri;103;00000;00000;00000;Knox County
+050;29;Missouri;105;00000;00000;00000;Laclede County
+050;29;Missouri;107;00000;00000;00000;Lafayette County
+050;29;Missouri;109;00000;00000;00000;Lawrence County
+050;29;Missouri;111;00000;00000;00000;Lewis County
+050;29;Missouri;113;00000;00000;00000;Lincoln County
+050;29;Missouri;115;00000;00000;00000;Linn County
+050;29;Missouri;117;00000;00000;00000;Livingston County
+050;29;Missouri;119;00000;00000;00000;McDonald County
+050;29;Missouri;121;00000;00000;00000;Macon County
+050;29;Missouri;123;00000;00000;00000;Madison County
+050;29;Missouri;125;00000;00000;00000;Maries County
+050;29;Missouri;127;00000;00000;00000;Marion County
+050;29;Missouri;129;00000;00000;00000;Mercer County
+050;29;Missouri;131;00000;00000;00000;Miller County
+050;29;Missouri;133;00000;00000;00000;Mississippi County
+050;29;Missouri;135;00000;00000;00000;Moniteau County
+050;29;Missouri;137;00000;00000;00000;Monroe County
+050;29;Missouri;139;00000;00000;00000;Montgomery County
+050;29;Missouri;141;00000;00000;00000;Morgan County
+050;29;Missouri;143;00000;00000;00000;New Madrid County
+050;29;Missouri;145;00000;00000;00000;Newton County
+050;29;Missouri;147;00000;00000;00000;Nodaway County
+050;29;Missouri;149;00000;00000;00000;Oregon County
+050;29;Missouri;151;00000;00000;00000;Osage County
+050;29;Missouri;153;00000;00000;00000;Ozark County
+050;29;Missouri;155;00000;00000;00000;Pemiscot County
+050;29;Missouri;157;00000;00000;00000;Perry County
+050;29;Missouri;159;00000;00000;00000;Pettis County
+050;29;Missouri;161;00000;00000;00000;Phelps County
+050;29;Missouri;163;00000;00000;00000;Pike County
+050;29;Missouri;165;00000;00000;00000;Platte County
+050;29;Missouri;167;00000;00000;00000;Polk County
+050;29;Missouri;169;00000;00000;00000;Pulaski County
+050;29;Missouri;171;00000;00000;00000;Putnam County
+050;29;Missouri;173;00000;00000;00000;Ralls County
+050;29;Missouri;175;00000;00000;00000;Randolph County
+050;29;Missouri;177;00000;00000;00000;Ray County
+050;29;Missouri;179;00000;00000;00000;Reynolds County
+050;29;Missouri;181;00000;00000;00000;Ripley County
+050;29;Missouri;183;00000;00000;00000;St. Charles County
+050;29;Missouri;185;00000;00000;00000;St. Clair County
+050;29;Missouri;186;00000;00000;00000;Ste. Genevieve County
+050;29;Missouri;187;00000;00000;00000;St. Francois County
+050;29;Missouri;189;00000;00000;00000;St. Louis County
+050;29;Missouri;195;00000;00000;00000;Saline County
+050;29;Missouri;197;00000;00000;00000;Schuyler County
+050;29;Missouri;199;00000;00000;00000;Scotland County
+050;29;Missouri;201;00000;00000;00000;Scott County
+050;29;Missouri;203;00000;00000;00000;Shannon County
+050;29;Missouri;205;00000;00000;00000;Shelby County
+050;29;Missouri;207;00000;00000;00000;Stoddard County
+050;29;Missouri;209;00000;00000;00000;Stone County
+050;29;Missouri;211;00000;00000;00000;Sullivan County
+050;29;Missouri;213;00000;00000;00000;Taney County
+050;29;Missouri;215;00000;00000;00000;Texas County
+050;29;Missouri;217;00000;00000;00000;Vernon County
+050;29;Missouri;219;00000;00000;00000;Warren County
+050;29;Missouri;221;00000;00000;00000;Washington County
+050;29;Missouri;223;00000;00000;00000;Wayne County
+050;29;Missouri;225;00000;00000;00000;Webster County
+050;29;Missouri;227;00000;00000;00000;Worth County
+050;29;Missouri;229;00000;00000;00000;Wright County
+050;29;Missouri;510;00000;00000;00000;St. Louis city
+050;30;Montana;001;00000;00000;00000;Beaverhead County
+050;30;Montana;003;00000;00000;00000;Big Horn County
+050;30;Montana;005;00000;00000;00000;Blaine County
+050;30;Montana;007;00000;00000;00000;Broadwater County
+050;30;Montana;009;00000;00000;00000;Carbon County
+050;30;Montana;011;00000;00000;00000;Carter County
+050;30;Montana;013;00000;00000;00000;Cascade County
+050;30;Montana;015;00000;00000;00000;Chouteau County
+050;30;Montana;017;00000;00000;00000;Custer County
+050;30;Montana;019;00000;00000;00000;Daniels County
+050;30;Montana;021;00000;00000;00000;Dawson County
+050;30;Montana;023;00000;00000;00000;Deer Lodge County
+050;30;Montana;025;00000;00000;00000;Fallon County
+050;30;Montana;027;00000;00000;00000;Fergus County
+050;30;Montana;029;00000;00000;00000;Flathead County
+050;30;Montana;031;00000;00000;00000;Gallatin County
+050;30;Montana;033;00000;00000;00000;Garfield County
+050;30;Montana;035;00000;00000;00000;Glacier County
+050;30;Montana;037;00000;00000;00000;Golden Valley County
+050;30;Montana;039;00000;00000;00000;Granite County
+050;30;Montana;041;00000;00000;00000;Hill County
+050;30;Montana;043;00000;00000;00000;Jefferson County
+050;30;Montana;045;00000;00000;00000;Judith Basin County
+050;30;Montana;047;00000;00000;00000;Lake County
+050;30;Montana;049;00000;00000;00000;Lewis and Clark County
+050;30;Montana;051;00000;00000;00000;Liberty County
+050;30;Montana;053;00000;00000;00000;Lincoln County
+050;30;Montana;055;00000;00000;00000;McCone County
+050;30;Montana;057;00000;00000;00000;Madison County
+050;30;Montana;059;00000;00000;00000;Meagher County
+050;30;Montana;061;00000;00000;00000;Mineral County
+050;30;Montana;063;00000;00000;00000;Missoula County
+050;30;Montana;065;00000;00000;00000;Musselshell County
+050;30;Montana;067;00000;00000;00000;Park County
+050;30;Montana;069;00000;00000;00000;Petroleum County
+050;30;Montana;071;00000;00000;00000;Phillips County
+050;30;Montana;073;00000;00000;00000;Pondera County
+050;30;Montana;075;00000;00000;00000;Powder River County
+050;30;Montana;077;00000;00000;00000;Powell County
+050;30;Montana;079;00000;00000;00000;Prairie County
+050;30;Montana;081;00000;00000;00000;Ravalli County
+050;30;Montana;083;00000;00000;00000;Richland County
+050;30;Montana;085;00000;00000;00000;Roosevelt County
+050;30;Montana;087;00000;00000;00000;Rosebud County
+050;30;Montana;089;00000;00000;00000;Sanders County
+050;30;Montana;091;00000;00000;00000;Sheridan County
+050;30;Montana;093;00000;00000;00000;Silver Bow County
+050;30;Montana;095;00000;00000;00000;Stillwater County
+050;30;Montana;097;00000;00000;00000;Sweet Grass County
+050;30;Montana;099;00000;00000;00000;Teton County
+050;30;Montana;101;00000;00000;00000;Toole County
+050;30;Montana;103;00000;00000;00000;Treasure County
+050;30;Montana;105;00000;00000;00000;Valley County
+050;30;Montana;107;00000;00000;00000;Wheatland County
+050;30;Montana;109;00000;00000;00000;Wibaux County
+050;30;Montana;111;00000;00000;00000;Yellowstone County
+050;31;Nebraska;001;00000;00000;00000;Adams County
+050;31;Nebraska;003;00000;00000;00000;Antelope County
+050;31;Nebraska;005;00000;00000;00000;Arthur County
+050;31;Nebraska;007;00000;00000;00000;Banner County
+050;31;Nebraska;009;00000;00000;00000;Blaine County
+050;31;Nebraska;011;00000;00000;00000;Boone County
+050;31;Nebraska;013;00000;00000;00000;Box Butte County
+050;31;Nebraska;015;00000;00000;00000;Boyd County
+050;31;Nebraska;017;00000;00000;00000;Brown County
+050;31;Nebraska;019;00000;00000;00000;Buffalo County
+050;31;Nebraska;021;00000;00000;00000;Burt County
+050;31;Nebraska;023;00000;00000;00000;Butler County
+050;31;Nebraska;025;00000;00000;00000;Cass County
+050;31;Nebraska;027;00000;00000;00000;Cedar County
+050;31;Nebraska;029;00000;00000;00000;Chase County
+050;31;Nebraska;031;00000;00000;00000;Cherry County
+050;31;Nebraska;033;00000;00000;00000;Cheyenne County
+050;31;Nebraska;035;00000;00000;00000;Clay County
+050;31;Nebraska;037;00000;00000;00000;Colfax County
+050;31;Nebraska;039;00000;00000;00000;Cuming County
+050;31;Nebraska;041;00000;00000;00000;Custer County
+050;31;Nebraska;043;00000;00000;00000;Dakota County
+050;31;Nebraska;045;00000;00000;00000;Dawes County
+050;31;Nebraska;047;00000;00000;00000;Dawson County
+050;31;Nebraska;049;00000;00000;00000;Deuel County
+050;31;Nebraska;051;00000;00000;00000;Dixon County
+050;31;Nebraska;053;00000;00000;00000;Dodge County
+050;31;Nebraska;055;00000;00000;00000;Douglas County
+050;31;Nebraska;057;00000;00000;00000;Dundy County
+050;31;Nebraska;059;00000;00000;00000;Fillmore County
+050;31;Nebraska;061;00000;00000;00000;Franklin County
+050;31;Nebraska;063;00000;00000;00000;Frontier County
+050;31;Nebraska;065;00000;00000;00000;Furnas County
+050;31;Nebraska;067;00000;00000;00000;Gage County
+050;31;Nebraska;069;00000;00000;00000;Garden County
+050;31;Nebraska;071;00000;00000;00000;Garfield County
+050;31;Nebraska;073;00000;00000;00000;Gosper County
+050;31;Nebraska;075;00000;00000;00000;Grant County
+050;31;Nebraska;077;00000;00000;00000;Greeley County
+050;31;Nebraska;079;00000;00000;00000;Hall County
+050;31;Nebraska;081;00000;00000;00000;Hamilton County
+050;31;Nebraska;083;00000;00000;00000;Harlan County
+050;31;Nebraska;085;00000;00000;00000;Hayes County
+050;31;Nebraska;087;00000;00000;00000;Hitchcock County
+050;31;Nebraska;089;00000;00000;00000;Holt County
+050;31;Nebraska;091;00000;00000;00000;Hooker County
+050;31;Nebraska;093;00000;00000;00000;Howard County
+050;31;Nebraska;095;00000;00000;00000;Jefferson County
+050;31;Nebraska;097;00000;00000;00000;Johnson County
+050;31;Nebraska;099;00000;00000;00000;Kearney County
+050;31;Nebraska;101;00000;00000;00000;Keith County
+050;31;Nebraska;103;00000;00000;00000;Keya Paha County
+050;31;Nebraska;105;00000;00000;00000;Kimball County
+050;31;Nebraska;107;00000;00000;00000;Knox County
+050;31;Nebraska;109;00000;00000;00000;Lancaster County
+050;31;Nebraska;111;00000;00000;00000;Lincoln County
+050;31;Nebraska;113;00000;00000;00000;Logan County
+050;31;Nebraska;115;00000;00000;00000;Loup County
+050;31;Nebraska;117;00000;00000;00000;McPherson County
+050;31;Nebraska;119;00000;00000;00000;Madison County
+050;31;Nebraska;121;00000;00000;00000;Merrick County
+050;31;Nebraska;123;00000;00000;00000;Morrill County
+050;31;Nebraska;125;00000;00000;00000;Nance County
+050;31;Nebraska;127;00000;00000;00000;Nemaha County
+050;31;Nebraska;129;00000;00000;00000;Nuckolls County
+050;31;Nebraska;131;00000;00000;00000;Otoe County
+050;31;Nebraska;133;00000;00000;00000;Pawnee County
+050;31;Nebraska;135;00000;00000;00000;Perkins County
+050;31;Nebraska;137;00000;00000;00000;Phelps County
+050;31;Nebraska;139;00000;00000;00000;Pierce County
+050;31;Nebraska;141;00000;00000;00000;Platte County
+050;31;Nebraska;143;00000;00000;00000;Polk County
+050;31;Nebraska;145;00000;00000;00000;Red Willow County
+050;31;Nebraska;147;00000;00000;00000;Richardson County
+050;31;Nebraska;149;00000;00000;00000;Rock County
+050;31;Nebraska;151;00000;00000;00000;Saline County
+050;31;Nebraska;153;00000;00000;00000;Sarpy County
+050;31;Nebraska;155;00000;00000;00000;Saunders County
+050;31;Nebraska;157;00000;00000;00000;Scotts Bluff County
+050;31;Nebraska;159;00000;00000;00000;Seward County
+050;31;Nebraska;161;00000;00000;00000;Sheridan County
+050;31;Nebraska;163;00000;00000;00000;Sherman County
+050;31;Nebraska;165;00000;00000;00000;Sioux County
+050;31;Nebraska;167;00000;00000;00000;Stanton County
+050;31;Nebraska;169;00000;00000;00000;Thayer County
+050;31;Nebraska;171;00000;00000;00000;Thomas County
+050;31;Nebraska;173;00000;00000;00000;Thurston County
+050;31;Nebraska;175;00000;00000;00000;Valley County
+050;31;Nebraska;177;00000;00000;00000;Washington County
+050;31;Nebraska;179;00000;00000;00000;Wayne County
+050;31;Nebraska;181;00000;00000;00000;Webster County
+050;31;Nebraska;183;00000;00000;00000;Wheeler County
+050;31;Nebraska;185;00000;00000;00000;York County
+050;32;Nevada;001;00000;00000;00000;Churchill County
+050;32;Nevada;003;00000;00000;00000;Clark County
+050;32;Nevada;005;00000;00000;00000;Douglas County
+050;32;Nevada;007;00000;00000;00000;Elko County
+050;32;Nevada;009;00000;00000;00000;Esmeralda County
+050;32;Nevada;011;00000;00000;00000;Eureka County
+050;32;Nevada;013;00000;00000;00000;Humboldt County
+050;32;Nevada;015;00000;00000;00000;Lander County
+050;32;Nevada;017;00000;00000;00000;Lincoln County
+050;32;Nevada;019;00000;00000;00000;Lyon County
+050;32;Nevada;021;00000;00000;00000;Mineral County
+050;32;Nevada;023;00000;00000;00000;Nye County
+050;32;Nevada;027;00000;00000;00000;Pershing County
+050;32;Nevada;029;00000;00000;00000;Storey County
+050;32;Nevada;031;00000;00000;00000;Washoe County
+050;32;Nevada;033;00000;00000;00000;White Pine County
+050;32;Nevada;510;00000;00000;00000;Carson City
+050;33;New Hampshire;001;00000;00000;00000;Belknap County
+050;33;New Hampshire;003;00000;00000;00000;Carroll County
+050;33;New Hampshire;005;00000;00000;00000;Cheshire County
+050;33;New Hampshire;007;00000;00000;00000;Coos County
+050;33;New Hampshire;009;00000;00000;00000;Grafton County
+050;33;New Hampshire;011;00000;00000;00000;Hillsborough County
+050;33;New Hampshire;013;00000;00000;00000;Merrimack County
+050;33;New Hampshire;015;00000;00000;00000;Rockingham County
+050;33;New Hampshire;017;00000;00000;00000;Strafford County
+050;33;New Hampshire;019;00000;00000;00000;Sullivan County
+050;34;New Jersey;001;00000;00000;00000;Atlantic County
+050;34;New Jersey;003;00000;00000;00000;Bergen County
+050;34;New Jersey;005;00000;00000;00000;Burlington County
+050;34;New Jersey;007;00000;00000;00000;Camden County
+050;34;New Jersey;009;00000;00000;00000;Cape May County
+050;34;New Jersey;011;00000;00000;00000;Cumberland County
+050;34;New Jersey;013;00000;00000;00000;Essex County
+050;34;New Jersey;015;00000;00000;00000;Gloucester County
+050;34;New Jersey;017;00000;00000;00000;Hudson County
+050;34;New Jersey;019;00000;00000;00000;Hunterdon County
+050;34;New Jersey;021;00000;00000;00000;Mercer County
+050;34;New Jersey;023;00000;00000;00000;Middlesex County
+050;34;New Jersey;025;00000;00000;00000;Monmouth County
+050;34;New Jersey;027;00000;00000;00000;Morris County
+050;34;New Jersey;029;00000;00000;00000;Ocean County
+050;34;New Jersey;031;00000;00000;00000;Passaic County
+050;34;New Jersey;033;00000;00000;00000;Salem County
+050;34;New Jersey;035;00000;00000;00000;Somerset County
+050;34;New Jersey;037;00000;00000;00000;Sussex County
+050;34;New Jersey;039;00000;00000;00000;Union County
+050;34;New Jersey;041;00000;00000;00000;Warren County
+050;35;New Mexico;001;00000;00000;00000;Bernalillo County
+050;35;New Mexico;003;00000;00000;00000;Catron County
+050;35;New Mexico;005;00000;00000;00000;Chaves County
+050;35;New Mexico;006;00000;00000;00000;Cibola County
+050;35;New Mexico;007;00000;00000;00000;Colfax County
+050;35;New Mexico;009;00000;00000;00000;Curry County
+050;35;New Mexico;011;00000;00000;00000;De Baca County
+050;35;New Mexico;013;00000;00000;00000;Doña Ana County
+050;35;New Mexico;015;00000;00000;00000;Eddy County
+050;35;New Mexico;017;00000;00000;00000;Grant County
+050;35;New Mexico;019;00000;00000;00000;Guadalupe County
+050;35;New Mexico;021;00000;00000;00000;Harding County
+050;35;New Mexico;023;00000;00000;00000;Hidalgo County
+050;35;New Mexico;025;00000;00000;00000;Lea County
+050;35;New Mexico;027;00000;00000;00000;Lincoln County
+050;35;New Mexico;028;00000;00000;00000;Los Alamos County
+050;35;New Mexico;029;00000;00000;00000;Luna County
+050;35;New Mexico;031;00000;00000;00000;McKinley County
+050;35;New Mexico;033;00000;00000;00000;Mora County
+050;35;New Mexico;035;00000;00000;00000;Otero County
+050;35;New Mexico;037;00000;00000;00000;Quay County
+050;35;New Mexico;039;00000;00000;00000;Rio Arriba County
+050;35;New Mexico;041;00000;00000;00000;Roosevelt County
+050;35;New Mexico;043;00000;00000;00000;Sandoval County
+050;35;New Mexico;045;00000;00000;00000;San Juan County
+050;35;New Mexico;047;00000;00000;00000;San Miguel County
+050;35;New Mexico;049;00000;00000;00000;Santa Fe County
+050;35;New Mexico;051;00000;00000;00000;Sierra County
+050;35;New Mexico;053;00000;00000;00000;Socorro County
+050;35;New Mexico;055;00000;00000;00000;Taos County
+050;35;New Mexico;057;00000;00000;00000;Torrance County
+050;35;New Mexico;059;00000;00000;00000;Union County
+050;35;New Mexico;061;00000;00000;00000;Valencia County
+050;36;New York;001;00000;00000;00000;Albany County
+050;36;New York;003;00000;00000;00000;Allegany County
+050;36;New York;005;00000;00000;00000;Bronx County
+050;36;New York;007;00000;00000;00000;Broome County
+050;36;New York;009;00000;00000;00000;Cattaraugus County
+050;36;New York;011;00000;00000;00000;Cayuga County
+050;36;New York;013;00000;00000;00000;Chautauqua County
+050;36;New York;015;00000;00000;00000;Chemung County
+050;36;New York;017;00000;00000;00000;Chenango County
+050;36;New York;019;00000;00000;00000;Clinton County
+050;36;New York;021;00000;00000;00000;Columbia County
+050;36;New York;023;00000;00000;00000;Cortland County
+050;36;New York;025;00000;00000;00000;Delaware County
+050;36;New York;027;00000;00000;00000;Dutchess County
+050;36;New York;029;00000;00000;00000;Erie County
+050;36;New York;031;00000;00000;00000;Essex County
+050;36;New York;033;00000;00000;00000;Franklin County
+050;36;New York;035;00000;00000;00000;Fulton County
+050;36;New York;037;00000;00000;00000;Genesee County
+050;36;New York;039;00000;00000;00000;Greene County
+050;36;New York;041;00000;00000;00000;Hamilton County
+050;36;New York;043;00000;00000;00000;Herkimer County
+050;36;New York;045;00000;00000;00000;Jefferson County
+050;36;New York;047;00000;00000;00000;Kings County
+050;36;New York;049;00000;00000;00000;Lewis County
+050;36;New York;051;00000;00000;00000;Livingston County
+050;36;New York;053;00000;00000;00000;Madison County
+050;36;New York;055;00000;00000;00000;Monroe County
+050;36;New York;057;00000;00000;00000;Montgomery County
+050;36;New York;059;00000;00000;00000;Nassau County
+050;36;New York;061;00000;00000;00000;New York County
+050;36;New York;063;00000;00000;00000;Niagara County
+050;36;New York;065;00000;00000;00000;Oneida County
+050;36;New York;067;00000;00000;00000;Onondaga County
+050;36;New York;069;00000;00000;00000;Ontario County
+050;36;New York;071;00000;00000;00000;Orange County
+050;36;New York;073;00000;00000;00000;Orleans County
+050;36;New York;075;00000;00000;00000;Oswego County
+050;36;New York;077;00000;00000;00000;Otsego County
+050;36;New York;079;00000;00000;00000;Putnam County
+050;36;New York;081;00000;00000;00000;Queens County
+050;36;New York;083;00000;00000;00000;Rensselaer County
+050;36;New York;085;00000;00000;00000;Richmond County
+050;36;New York;087;00000;00000;00000;Rockland County
+050;36;New York;089;00000;00000;00000;St. Lawrence County
+050;36;New York;091;00000;00000;00000;Saratoga County
+050;36;New York;093;00000;00000;00000;Schenectady County
+050;36;New York;095;00000;00000;00000;Schoharie County
+050;36;New York;097;00000;00000;00000;Schuyler County
+050;36;New York;099;00000;00000;00000;Seneca County
+050;36;New York;101;00000;00000;00000;Steuben County
+050;36;New York;103;00000;00000;00000;Suffolk County
+050;36;New York;105;00000;00000;00000;Sullivan County
+050;36;New York;107;00000;00000;00000;Tioga County
+050;36;New York;109;00000;00000;00000;Tompkins County
+050;36;New York;111;00000;00000;00000;Ulster County
+050;36;New York;113;00000;00000;00000;Warren County
+050;36;New York;115;00000;00000;00000;Washington County
+050;36;New York;117;00000;00000;00000;Wayne County
+050;36;New York;119;00000;00000;00000;Westchester County
+050;36;New York;121;00000;00000;00000;Wyoming County
+050;36;New York;123;00000;00000;00000;Yates County
+050;37;North Carolina;001;00000;00000;00000;Alamance County
+050;37;North Carolina;003;00000;00000;00000;Alexander County
+050;37;North Carolina;005;00000;00000;00000;Alleghany County
+050;37;North Carolina;007;00000;00000;00000;Anson County
+050;37;North Carolina;009;00000;00000;00000;Ashe County
+050;37;North Carolina;011;00000;00000;00000;Avery County
+050;37;North Carolina;013;00000;00000;00000;Beaufort County
+050;37;North Carolina;015;00000;00000;00000;Bertie County
+050;37;North Carolina;017;00000;00000;00000;Bladen County
+050;37;North Carolina;019;00000;00000;00000;Brunswick County
+050;37;North Carolina;021;00000;00000;00000;Buncombe County
+050;37;North Carolina;023;00000;00000;00000;Burke County
+050;37;North Carolina;025;00000;00000;00000;Cabarrus County
+050;37;North Carolina;027;00000;00000;00000;Caldwell County
+050;37;North Carolina;029;00000;00000;00000;Camden County
+050;37;North Carolina;031;00000;00000;00000;Carteret County
+050;37;North Carolina;033;00000;00000;00000;Caswell County
+050;37;North Carolina;035;00000;00000;00000;Catawba County
+050;37;North Carolina;037;00000;00000;00000;Chatham County
+050;37;North Carolina;039;00000;00000;00000;Cherokee County
+050;37;North Carolina;041;00000;00000;00000;Chowan County
+050;37;North Carolina;043;00000;00000;00000;Clay County
+050;37;North Carolina;045;00000;00000;00000;Cleveland County
+050;37;North Carolina;047;00000;00000;00000;Columbus County
+050;37;North Carolina;049;00000;00000;00000;Craven County
+050;37;North Carolina;051;00000;00000;00000;Cumberland County
+050;37;North Carolina;053;00000;00000;00000;Currituck County
+050;37;North Carolina;055;00000;00000;00000;Dare County
+050;37;North Carolina;057;00000;00000;00000;Davidson County
+050;37;North Carolina;059;00000;00000;00000;Davie County
+050;37;North Carolina;061;00000;00000;00000;Duplin County
+050;37;North Carolina;063;00000;00000;00000;Durham County
+050;37;North Carolina;065;00000;00000;00000;Edgecombe County
+050;37;North Carolina;067;00000;00000;00000;Forsyth County
+050;37;North Carolina;069;00000;00000;00000;Franklin County
+050;37;North Carolina;071;00000;00000;00000;Gaston County
+050;37;North Carolina;073;00000;00000;00000;Gates County
+050;37;North Carolina;075;00000;00000;00000;Graham County
+050;37;North Carolina;077;00000;00000;00000;Granville County
+050;37;North Carolina;079;00000;00000;00000;Greene County
+050;37;North Carolina;081;00000;00000;00000;Guilford County
+050;37;North Carolina;083;00000;00000;00000;Halifax County
+050;37;North Carolina;085;00000;00000;00000;Harnett County
+050;37;North Carolina;087;00000;00000;00000;Haywood County
+050;37;North Carolina;089;00000;00000;00000;Henderson County
+050;37;North Carolina;091;00000;00000;00000;Hertford County
+050;37;North Carolina;093;00000;00000;00000;Hoke County
+050;37;North Carolina;095;00000;00000;00000;Hyde County
+050;37;North Carolina;097;00000;00000;00000;Iredell County
+050;37;North Carolina;099;00000;00000;00000;Jackson County
+050;37;North Carolina;101;00000;00000;00000;Johnston County
+050;37;North Carolina;103;00000;00000;00000;Jones County
+050;37;North Carolina;105;00000;00000;00000;Lee County
+050;37;North Carolina;107;00000;00000;00000;Lenoir County
+050;37;North Carolina;109;00000;00000;00000;Lincoln County
+050;37;North Carolina;111;00000;00000;00000;McDowell County
+050;37;North Carolina;113;00000;00000;00000;Macon County
+050;37;North Carolina;115;00000;00000;00000;Madison County
+050;37;North Carolina;117;00000;00000;00000;Martin County
+050;37;North Carolina;119;00000;00000;00000;Mecklenburg County
+050;37;North Carolina;121;00000;00000;00000;Mitchell County
+050;37;North Carolina;123;00000;00000;00000;Montgomery County
+050;37;North Carolina;125;00000;00000;00000;Moore County
+050;37;North Carolina;127;00000;00000;00000;Nash County
+050;37;North Carolina;129;00000;00000;00000;New Hanover County
+050;37;North Carolina;131;00000;00000;00000;Northampton County
+050;37;North Carolina;133;00000;00000;00000;Onslow County
+050;37;North Carolina;135;00000;00000;00000;Orange County
+050;37;North Carolina;137;00000;00000;00000;Pamlico County
+050;37;North Carolina;139;00000;00000;00000;Pasquotank County
+050;37;North Carolina;141;00000;00000;00000;Pender County
+050;37;North Carolina;143;00000;00000;00000;Perquimans County
+050;37;North Carolina;145;00000;00000;00000;Person County
+050;37;North Carolina;147;00000;00000;00000;Pitt County
+050;37;North Carolina;149;00000;00000;00000;Polk County
+050;37;North Carolina;151;00000;00000;00000;Randolph County
+050;37;North Carolina;153;00000;00000;00000;Richmond County
+050;37;North Carolina;155;00000;00000;00000;Robeson County
+050;37;North Carolina;157;00000;00000;00000;Rockingham County
+050;37;North Carolina;159;00000;00000;00000;Rowan County
+050;37;North Carolina;161;00000;00000;00000;Rutherford County
+050;37;North Carolina;163;00000;00000;00000;Sampson County
+050;37;North Carolina;165;00000;00000;00000;Scotland County
+050;37;North Carolina;167;00000;00000;00000;Stanly County
+050;37;North Carolina;169;00000;00000;00000;Stokes County
+050;37;North Carolina;171;00000;00000;00000;Surry County
+050;37;North Carolina;173;00000;00000;00000;Swain County
+050;37;North Carolina;175;00000;00000;00000;Transylvania County
+050;37;North Carolina;177;00000;00000;00000;Tyrrell County
+050;37;North Carolina;179;00000;00000;00000;Union County
+050;37;North Carolina;181;00000;00000;00000;Vance County
+050;37;North Carolina;183;00000;00000;00000;Wake County
+050;37;North Carolina;185;00000;00000;00000;Warren County
+050;37;North Carolina;187;00000;00000;00000;Washington County
+050;37;North Carolina;189;00000;00000;00000;Watauga County
+050;37;North Carolina;191;00000;00000;00000;Wayne County
+050;37;North Carolina;193;00000;00000;00000;Wilkes County
+050;37;North Carolina;195;00000;00000;00000;Wilson County
+050;37;North Carolina;197;00000;00000;00000;Yadkin County
+050;37;North Carolina;199;00000;00000;00000;Yancey County
+050;38;North Dakota;001;00000;00000;00000;Adams County
+050;38;North Dakota;003;00000;00000;00000;Barnes County
+050;38;North Dakota;005;00000;00000;00000;Benson County
+050;38;North Dakota;007;00000;00000;00000;Billings County
+050;38;North Dakota;009;00000;00000;00000;Bottineau County
+050;38;North Dakota;011;00000;00000;00000;Bowman County
+050;38;North Dakota;013;00000;00000;00000;Burke County
+050;38;North Dakota;015;00000;00000;00000;Burleigh County
+050;38;North Dakota;017;00000;00000;00000;Cass County
+050;38;North Dakota;019;00000;00000;00000;Cavalier County
+050;38;North Dakota;021;00000;00000;00000;Dickey County
+050;38;North Dakota;023;00000;00000;00000;Divide County
+050;38;North Dakota;025;00000;00000;00000;Dunn County
+050;38;North Dakota;027;00000;00000;00000;Eddy County
+050;38;North Dakota;029;00000;00000;00000;Emmons County
+050;38;North Dakota;031;00000;00000;00000;Foster County
+050;38;North Dakota;033;00000;00000;00000;Golden Valley County
+050;38;North Dakota;035;00000;00000;00000;Grand Forks County
+050;38;North Dakota;037;00000;00000;00000;Grant County
+050;38;North Dakota;039;00000;00000;00000;Griggs County
+050;38;North Dakota;041;00000;00000;00000;Hettinger County
+050;38;North Dakota;043;00000;00000;00000;Kidder County
+050;38;North Dakota;045;00000;00000;00000;LaMoure County
+050;38;North Dakota;047;00000;00000;00000;Logan County
+050;38;North Dakota;049;00000;00000;00000;McHenry County
+050;38;North Dakota;051;00000;00000;00000;McIntosh County
+050;38;North Dakota;053;00000;00000;00000;McKenzie County
+050;38;North Dakota;055;00000;00000;00000;McLean County
+050;38;North Dakota;057;00000;00000;00000;Mercer County
+050;38;North Dakota;059;00000;00000;00000;Morton County
+050;38;North Dakota;061;00000;00000;00000;Mountrail County
+050;38;North Dakota;063;00000;00000;00000;Nelson County
+050;38;North Dakota;065;00000;00000;00000;Oliver County
+050;38;North Dakota;067;00000;00000;00000;Pembina County
+050;38;North Dakota;069;00000;00000;00000;Pierce County
+050;38;North Dakota;071;00000;00000;00000;Ramsey County
+050;38;North Dakota;073;00000;00000;00000;Ransom County
+050;38;North Dakota;075;00000;00000;00000;Renville County
+050;38;North Dakota;077;00000;00000;00000;Richland County
+050;38;North Dakota;079;00000;00000;00000;Rolette County
+050;38;North Dakota;081;00000;00000;00000;Sargent County
+050;38;North Dakota;083;00000;00000;00000;Sheridan County
+050;38;North Dakota;085;00000;00000;00000;Sioux County
+050;38;North Dakota;087;00000;00000;00000;Slope County
+050;38;North Dakota;089;00000;00000;00000;Stark County
+050;38;North Dakota;091;00000;00000;00000;Steele County
+050;38;North Dakota;093;00000;00000;00000;Stutsman County
+050;38;North Dakota;095;00000;00000;00000;Towner County
+050;38;North Dakota;097;00000;00000;00000;Traill County
+050;38;North Dakota;099;00000;00000;00000;Walsh County
+050;38;North Dakota;101;00000;00000;00000;Ward County
+050;38;North Dakota;103;00000;00000;00000;Wells County
+050;38;North Dakota;105;00000;00000;00000;Williams County
+050;39;Ohio;001;00000;00000;00000;Adams County
+050;39;Ohio;003;00000;00000;00000;Allen County
+050;39;Ohio;005;00000;00000;00000;Ashland County
+050;39;Ohio;007;00000;00000;00000;Ashtabula County
+050;39;Ohio;009;00000;00000;00000;Athens County
+050;39;Ohio;011;00000;00000;00000;Auglaize County
+050;39;Ohio;013;00000;00000;00000;Belmont County
+050;39;Ohio;015;00000;00000;00000;Brown County
+050;39;Ohio;017;00000;00000;00000;Butler County
+050;39;Ohio;019;00000;00000;00000;Carroll County
+050;39;Ohio;021;00000;00000;00000;Champaign County
+050;39;Ohio;023;00000;00000;00000;Clark County
+050;39;Ohio;025;00000;00000;00000;Clermont County
+050;39;Ohio;027;00000;00000;00000;Clinton County
+050;39;Ohio;029;00000;00000;00000;Columbiana County
+050;39;Ohio;031;00000;00000;00000;Coshocton County
+050;39;Ohio;033;00000;00000;00000;Crawford County
+050;39;Ohio;035;00000;00000;00000;Cuyahoga County
+050;39;Ohio;037;00000;00000;00000;Darke County
+050;39;Ohio;039;00000;00000;00000;Defiance County
+050;39;Ohio;041;00000;00000;00000;Delaware County
+050;39;Ohio;043;00000;00000;00000;Erie County
+050;39;Ohio;045;00000;00000;00000;Fairfield County
+050;39;Ohio;047;00000;00000;00000;Fayette County
+050;39;Ohio;049;00000;00000;00000;Franklin County
+050;39;Ohio;051;00000;00000;00000;Fulton County
+050;39;Ohio;053;00000;00000;00000;Gallia County
+050;39;Ohio;055;00000;00000;00000;Geauga County
+050;39;Ohio;057;00000;00000;00000;Greene County
+050;39;Ohio;059;00000;00000;00000;Guernsey County
+050;39;Ohio;061;00000;00000;00000;Hamilton County
+050;39;Ohio;063;00000;00000;00000;Hancock County
+050;39;Ohio;065;00000;00000;00000;Hardin County
+050;39;Ohio;067;00000;00000;00000;Harrison County
+050;39;Ohio;069;00000;00000;00000;Henry County
+050;39;Ohio;071;00000;00000;00000;Highland County
+050;39;Ohio;073;00000;00000;00000;Hocking County
+050;39;Ohio;075;00000;00000;00000;Holmes County
+050;39;Ohio;077;00000;00000;00000;Huron County
+050;39;Ohio;079;00000;00000;00000;Jackson County
+050;39;Ohio;081;00000;00000;00000;Jefferson County
+050;39;Ohio;083;00000;00000;00000;Knox County
+050;39;Ohio;085;00000;00000;00000;Lake County
+050;39;Ohio;087;00000;00000;00000;Lawrence County
+050;39;Ohio;089;00000;00000;00000;Licking County
+050;39;Ohio;091;00000;00000;00000;Logan County
+050;39;Ohio;093;00000;00000;00000;Lorain County
+050;39;Ohio;095;00000;00000;00000;Lucas County
+050;39;Ohio;097;00000;00000;00000;Madison County
+050;39;Ohio;099;00000;00000;00000;Mahoning County
+050;39;Ohio;101;00000;00000;00000;Marion County
+050;39;Ohio;103;00000;00000;00000;Medina County
+050;39;Ohio;105;00000;00000;00000;Meigs County
+050;39;Ohio;107;00000;00000;00000;Mercer County
+050;39;Ohio;109;00000;00000;00000;Miami County
+050;39;Ohio;111;00000;00000;00000;Monroe County
+050;39;Ohio;113;00000;00000;00000;Montgomery County
+050;39;Ohio;115;00000;00000;00000;Morgan County
+050;39;Ohio;117;00000;00000;00000;Morrow County
+050;39;Ohio;119;00000;00000;00000;Muskingum County
+050;39;Ohio;121;00000;00000;00000;Noble County
+050;39;Ohio;123;00000;00000;00000;Ottawa County
+050;39;Ohio;125;00000;00000;00000;Paulding County
+050;39;Ohio;127;00000;00000;00000;Perry County
+050;39;Ohio;129;00000;00000;00000;Pickaway County
+050;39;Ohio;131;00000;00000;00000;Pike County
+050;39;Ohio;133;00000;00000;00000;Portage County
+050;39;Ohio;135;00000;00000;00000;Preble County
+050;39;Ohio;137;00000;00000;00000;Putnam County
+050;39;Ohio;139;00000;00000;00000;Richland County
+050;39;Ohio;141;00000;00000;00000;Ross County
+050;39;Ohio;143;00000;00000;00000;Sandusky County
+050;39;Ohio;145;00000;00000;00000;Scioto County
+050;39;Ohio;147;00000;00000;00000;Seneca County
+050;39;Ohio;149;00000;00000;00000;Shelby County
+050;39;Ohio;151;00000;00000;00000;Stark County
+050;39;Ohio;153;00000;00000;00000;Summit County
+050;39;Ohio;155;00000;00000;00000;Trumbull County
+050;39;Ohio;157;00000;00000;00000;Tuscarawas County
+050;39;Ohio;159;00000;00000;00000;Union County
+050;39;Ohio;161;00000;00000;00000;Van Wert County
+050;39;Ohio;163;00000;00000;00000;Vinton County
+050;39;Ohio;165;00000;00000;00000;Warren County
+050;39;Ohio;167;00000;00000;00000;Washington County
+050;39;Ohio;169;00000;00000;00000;Wayne County
+050;39;Ohio;171;00000;00000;00000;Williams County
+050;39;Ohio;173;00000;00000;00000;Wood County
+050;39;Ohio;175;00000;00000;00000;Wyandot County
+050;40;Oklahoma;001;00000;00000;00000;Adair County
+050;40;Oklahoma;003;00000;00000;00000;Alfalfa County
+050;40;Oklahoma;005;00000;00000;00000;Atoka County
+050;40;Oklahoma;007;00000;00000;00000;Beaver County
+050;40;Oklahoma;009;00000;00000;00000;Beckham County
+050;40;Oklahoma;011;00000;00000;00000;Blaine County
+050;40;Oklahoma;013;00000;00000;00000;Bryan County
+050;40;Oklahoma;015;00000;00000;00000;Caddo County
+050;40;Oklahoma;017;00000;00000;00000;Canadian County
+050;40;Oklahoma;019;00000;00000;00000;Carter County
+050;40;Oklahoma;021;00000;00000;00000;Cherokee County
+050;40;Oklahoma;023;00000;00000;00000;Choctaw County
+050;40;Oklahoma;025;00000;00000;00000;Cimarron County
+050;40;Oklahoma;027;00000;00000;00000;Cleveland County
+050;40;Oklahoma;029;00000;00000;00000;Coal County
+050;40;Oklahoma;031;00000;00000;00000;Comanche County
+050;40;Oklahoma;033;00000;00000;00000;Cotton County
+050;40;Oklahoma;035;00000;00000;00000;Craig County
+050;40;Oklahoma;037;00000;00000;00000;Creek County
+050;40;Oklahoma;039;00000;00000;00000;Custer County
+050;40;Oklahoma;041;00000;00000;00000;Delaware County
+050;40;Oklahoma;043;00000;00000;00000;Dewey County
+050;40;Oklahoma;045;00000;00000;00000;Ellis County
+050;40;Oklahoma;047;00000;00000;00000;Garfield County
+050;40;Oklahoma;049;00000;00000;00000;Garvin County
+050;40;Oklahoma;051;00000;00000;00000;Grady County
+050;40;Oklahoma;053;00000;00000;00000;Grant County
+050;40;Oklahoma;055;00000;00000;00000;Greer County
+050;40;Oklahoma;057;00000;00000;00000;Harmon County
+050;40;Oklahoma;059;00000;00000;00000;Harper County
+050;40;Oklahoma;061;00000;00000;00000;Haskell County
+050;40;Oklahoma;063;00000;00000;00000;Hughes County
+050;40;Oklahoma;065;00000;00000;00000;Jackson County
+050;40;Oklahoma;067;00000;00000;00000;Jefferson County
+050;40;Oklahoma;069;00000;00000;00000;Johnston County
+050;40;Oklahoma;071;00000;00000;00000;Kay County
+050;40;Oklahoma;073;00000;00000;00000;Kingfisher County
+050;40;Oklahoma;075;00000;00000;00000;Kiowa County
+050;40;Oklahoma;077;00000;00000;00000;Latimer County
+050;40;Oklahoma;079;00000;00000;00000;Le Flore County
+050;40;Oklahoma;081;00000;00000;00000;Lincoln County
+050;40;Oklahoma;083;00000;00000;00000;Logan County
+050;40;Oklahoma;085;00000;00000;00000;Love County
+050;40;Oklahoma;087;00000;00000;00000;McClain County
+050;40;Oklahoma;089;00000;00000;00000;McCurtain County
+050;40;Oklahoma;091;00000;00000;00000;McIntosh County
+050;40;Oklahoma;093;00000;00000;00000;Major County
+050;40;Oklahoma;095;00000;00000;00000;Marshall County
+050;40;Oklahoma;097;00000;00000;00000;Mayes County
+050;40;Oklahoma;099;00000;00000;00000;Murray County
+050;40;Oklahoma;101;00000;00000;00000;Muskogee County
+050;40;Oklahoma;103;00000;00000;00000;Noble County
+050;40;Oklahoma;105;00000;00000;00000;Nowata County
+050;40;Oklahoma;107;00000;00000;00000;Okfuskee County
+050;40;Oklahoma;109;00000;00000;00000;Oklahoma County
+050;40;Oklahoma;111;00000;00000;00000;Okmulgee County
+050;40;Oklahoma;113;00000;00000;00000;Osage County
+050;40;Oklahoma;115;00000;00000;00000;Ottawa County
+050;40;Oklahoma;117;00000;00000;00000;Pawnee County
+050;40;Oklahoma;119;00000;00000;00000;Payne County
+050;40;Oklahoma;121;00000;00000;00000;Pittsburg County
+050;40;Oklahoma;123;00000;00000;00000;Pontotoc County
+050;40;Oklahoma;125;00000;00000;00000;Pottawatomie County
+050;40;Oklahoma;127;00000;00000;00000;Pushmataha County
+050;40;Oklahoma;129;00000;00000;00000;Roger Mills County
+050;40;Oklahoma;131;00000;00000;00000;Rogers County
+050;40;Oklahoma;133;00000;00000;00000;Seminole County
+050;40;Oklahoma;135;00000;00000;00000;Sequoyah County
+050;40;Oklahoma;137;00000;00000;00000;Stephens County
+050;40;Oklahoma;139;00000;00000;00000;Texas County
+050;40;Oklahoma;141;00000;00000;00000;Tillman County
+050;40;Oklahoma;143;00000;00000;00000;Tulsa County
+050;40;Oklahoma;145;00000;00000;00000;Wagoner County
+050;40;Oklahoma;147;00000;00000;00000;Washington County
+050;40;Oklahoma;149;00000;00000;00000;Washita County
+050;40;Oklahoma;151;00000;00000;00000;Woods County
+050;40;Oklahoma;153;00000;00000;00000;Woodward County
+050;41;Oregon;001;00000;00000;00000;Baker County
+050;41;Oregon;003;00000;00000;00000;Benton County
+050;41;Oregon;005;00000;00000;00000;Clackamas County
+050;41;Oregon;007;00000;00000;00000;Clatsop County
+050;41;Oregon;009;00000;00000;00000;Columbia County
+050;41;Oregon;011;00000;00000;00000;Coos County
+050;41;Oregon;013;00000;00000;00000;Crook County
+050;41;Oregon;015;00000;00000;00000;Curry County
+050;41;Oregon;017;00000;00000;00000;Deschutes County
+050;41;Oregon;019;00000;00000;00000;Douglas County
+050;41;Oregon;021;00000;00000;00000;Gilliam County
+050;41;Oregon;023;00000;00000;00000;Grant County
+050;41;Oregon;025;00000;00000;00000;Harney County
+050;41;Oregon;027;00000;00000;00000;Hood River County
+050;41;Oregon;029;00000;00000;00000;Jackson County
+050;41;Oregon;031;00000;00000;00000;Jefferson County
+050;41;Oregon;033;00000;00000;00000;Josephine County
+050;41;Oregon;035;00000;00000;00000;Klamath County
+050;41;Oregon;037;00000;00000;00000;Lake County
+050;41;Oregon;039;00000;00000;00000;Lane County
+050;41;Oregon;041;00000;00000;00000;Lincoln County
+050;41;Oregon;043;00000;00000;00000;Linn County
+050;41;Oregon;045;00000;00000;00000;Malheur County
+050;41;Oregon;047;00000;00000;00000;Marion County
+050;41;Oregon;049;00000;00000;00000;Morrow County
+050;41;Oregon;051;00000;00000;00000;Multnomah County
+050;41;Oregon;053;00000;00000;00000;Polk County
+050;41;Oregon;055;00000;00000;00000;Sherman County
+050;41;Oregon;057;00000;00000;00000;Tillamook County
+050;41;Oregon;059;00000;00000;00000;Umatilla County
+050;41;Oregon;061;00000;00000;00000;Union County
+050;41;Oregon;063;00000;00000;00000;Wallowa County
+050;41;Oregon;065;00000;00000;00000;Wasco County
+050;41;Oregon;067;00000;00000;00000;Washington County
+050;41;Oregon;069;00000;00000;00000;Wheeler County
+050;41;Oregon;071;00000;00000;00000;Yamhill County
+050;42;Pennsylvania;001;00000;00000;00000;Adams County
+050;42;Pennsylvania;003;00000;00000;00000;Allegheny County
+050;42;Pennsylvania;005;00000;00000;00000;Armstrong County
+050;42;Pennsylvania;007;00000;00000;00000;Beaver County
+050;42;Pennsylvania;009;00000;00000;00000;Bedford County
+050;42;Pennsylvania;011;00000;00000;00000;Berks County
+050;42;Pennsylvania;013;00000;00000;00000;Blair County
+050;42;Pennsylvania;015;00000;00000;00000;Bradford County
+050;42;Pennsylvania;017;00000;00000;00000;Bucks County
+050;42;Pennsylvania;019;00000;00000;00000;Butler County
+050;42;Pennsylvania;021;00000;00000;00000;Cambria County
+050;42;Pennsylvania;023;00000;00000;00000;Cameron County
+050;42;Pennsylvania;025;00000;00000;00000;Carbon County
+050;42;Pennsylvania;027;00000;00000;00000;Centre County
+050;42;Pennsylvania;029;00000;00000;00000;Chester County
+050;42;Pennsylvania;031;00000;00000;00000;Clarion County
+050;42;Pennsylvania;033;00000;00000;00000;Clearfield County
+050;42;Pennsylvania;035;00000;00000;00000;Clinton County
+050;42;Pennsylvania;037;00000;00000;00000;Columbia County
+050;42;Pennsylvania;039;00000;00000;00000;Crawford County
+050;42;Pennsylvania;041;00000;00000;00000;Cumberland County
+050;42;Pennsylvania;043;00000;00000;00000;Dauphin County
+050;42;Pennsylvania;045;00000;00000;00000;Delaware County
+050;42;Pennsylvania;047;00000;00000;00000;Elk County
+050;42;Pennsylvania;049;00000;00000;00000;Erie County
+050;42;Pennsylvania;051;00000;00000;00000;Fayette County
+050;42;Pennsylvania;053;00000;00000;00000;Forest County
+050;42;Pennsylvania;055;00000;00000;00000;Franklin County
+050;42;Pennsylvania;057;00000;00000;00000;Fulton County
+050;42;Pennsylvania;059;00000;00000;00000;Greene County
+050;42;Pennsylvania;061;00000;00000;00000;Huntingdon County
+050;42;Pennsylvania;063;00000;00000;00000;Indiana County
+050;42;Pennsylvania;065;00000;00000;00000;Jefferson County
+050;42;Pennsylvania;067;00000;00000;00000;Juniata County
+050;42;Pennsylvania;069;00000;00000;00000;Lackawanna County
+050;42;Pennsylvania;071;00000;00000;00000;Lancaster County
+050;42;Pennsylvania;073;00000;00000;00000;Lawrence County
+050;42;Pennsylvania;075;00000;00000;00000;Lebanon County
+050;42;Pennsylvania;077;00000;00000;00000;Lehigh County
+050;42;Pennsylvania;079;00000;00000;00000;Luzerne County
+050;42;Pennsylvania;081;00000;00000;00000;Lycoming County
+050;42;Pennsylvania;083;00000;00000;00000;McKean County
+050;42;Pennsylvania;085;00000;00000;00000;Mercer County
+050;42;Pennsylvania;087;00000;00000;00000;Mifflin County
+050;42;Pennsylvania;089;00000;00000;00000;Monroe County
+050;42;Pennsylvania;091;00000;00000;00000;Montgomery County
+050;42;Pennsylvania;093;00000;00000;00000;Montour County
+050;42;Pennsylvania;095;00000;00000;00000;Northampton County
+050;42;Pennsylvania;097;00000;00000;00000;Northumberland County
+050;42;Pennsylvania;099;00000;00000;00000;Perry County
+050;42;Pennsylvania;101;00000;00000;00000;Philadelphia County
+050;42;Pennsylvania;103;00000;00000;00000;Pike County
+050;42;Pennsylvania;105;00000;00000;00000;Potter County
+050;42;Pennsylvania;107;00000;00000;00000;Schuylkill County
+050;42;Pennsylvania;109;00000;00000;00000;Snyder County
+050;42;Pennsylvania;111;00000;00000;00000;Somerset County
+050;42;Pennsylvania;113;00000;00000;00000;Sullivan County
+050;42;Pennsylvania;115;00000;00000;00000;Susquehanna County
+050;42;Pennsylvania;117;00000;00000;00000;Tioga County
+050;42;Pennsylvania;119;00000;00000;00000;Union County
+050;42;Pennsylvania;121;00000;00000;00000;Venango County
+050;42;Pennsylvania;123;00000;00000;00000;Warren County
+050;42;Pennsylvania;125;00000;00000;00000;Washington County
+050;42;Pennsylvania;127;00000;00000;00000;Wayne County
+050;42;Pennsylvania;129;00000;00000;00000;Westmoreland County
+050;42;Pennsylvania;131;00000;00000;00000;Wyoming County
+050;42;Pennsylvania;133;00000;00000;00000;York County
+050;44;Rhode Island;001;00000;00000;00000;Bristol County
+050;44;Rhode Island;003;00000;00000;00000;Kent County
+050;44;Rhode Island;005;00000;00000;00000;Newport County
+050;44;Rhode Island;007;00000;00000;00000;Providence County
+050;44;Rhode Island;009;00000;00000;00000;Washington County
+050;45;South Carolina;001;00000;00000;00000;Abbeville County
+050;45;South Carolina;003;00000;00000;00000;Aiken County
+050;45;South Carolina;005;00000;00000;00000;Allendale County
+050;45;South Carolina;007;00000;00000;00000;Anderson County
+050;45;South Carolina;009;00000;00000;00000;Bamberg County
+050;45;South Carolina;011;00000;00000;00000;Barnwell County
+050;45;South Carolina;013;00000;00000;00000;Beaufort County
+050;45;South Carolina;015;00000;00000;00000;Berkeley County
+050;45;South Carolina;017;00000;00000;00000;Calhoun County
+050;45;South Carolina;019;00000;00000;00000;Charleston County
+050;45;South Carolina;021;00000;00000;00000;Cherokee County
+050;45;South Carolina;023;00000;00000;00000;Chester County
+050;45;South Carolina;025;00000;00000;00000;Chesterfield County
+050;45;South Carolina;027;00000;00000;00000;Clarendon County
+050;45;South Carolina;029;00000;00000;00000;Colleton County
+050;45;South Carolina;031;00000;00000;00000;Darlington County
+050;45;South Carolina;033;00000;00000;00000;Dillon County
+050;45;South Carolina;035;00000;00000;00000;Dorchester County
+050;45;South Carolina;037;00000;00000;00000;Edgefield County
+050;45;South Carolina;039;00000;00000;00000;Fairfield County
+050;45;South Carolina;041;00000;00000;00000;Florence County
+050;45;South Carolina;043;00000;00000;00000;Georgetown County
+050;45;South Carolina;045;00000;00000;00000;Greenville County
+050;45;South Carolina;047;00000;00000;00000;Greenwood County
+050;45;South Carolina;049;00000;00000;00000;Hampton County
+050;45;South Carolina;051;00000;00000;00000;Horry County
+050;45;South Carolina;053;00000;00000;00000;Jasper County
+050;45;South Carolina;055;00000;00000;00000;Kershaw County
+050;45;South Carolina;057;00000;00000;00000;Lancaster County
+050;45;South Carolina;059;00000;00000;00000;Laurens County
+050;45;South Carolina;061;00000;00000;00000;Lee County
+050;45;South Carolina;063;00000;00000;00000;Lexington County
+050;45;South Carolina;065;00000;00000;00000;McCormick County
+050;45;South Carolina;067;00000;00000;00000;Marion County
+050;45;South Carolina;069;00000;00000;00000;Marlboro County
+050;45;South Carolina;071;00000;00000;00000;Newberry County
+050;45;South Carolina;073;00000;00000;00000;Oconee County
+050;45;South Carolina;075;00000;00000;00000;Orangeburg County
+050;45;South Carolina;077;00000;00000;00000;Pickens County
+050;45;South Carolina;079;00000;00000;00000;Richland County
+050;45;South Carolina;081;00000;00000;00000;Saluda County
+050;45;South Carolina;083;00000;00000;00000;Spartanburg County
+050;45;South Carolina;085;00000;00000;00000;Sumter County
+050;45;South Carolina;087;00000;00000;00000;Union County
+050;45;South Carolina;089;00000;00000;00000;Williamsburg County
+050;45;South Carolina;091;00000;00000;00000;York County
+050;46;South Dakota;003;00000;00000;00000;Aurora County
+050;46;South Dakota;005;00000;00000;00000;Beadle County
+050;46;South Dakota;007;00000;00000;00000;Bennett County
+050;46;South Dakota;009;00000;00000;00000;Bon Homme County
+050;46;South Dakota;011;00000;00000;00000;Brookings County
+050;46;South Dakota;013;00000;00000;00000;Brown County
+050;46;South Dakota;015;00000;00000;00000;Brule County
+050;46;South Dakota;017;00000;00000;00000;Buffalo County
+050;46;South Dakota;019;00000;00000;00000;Butte County
+050;46;South Dakota;021;00000;00000;00000;Campbell County
+050;46;South Dakota;023;00000;00000;00000;Charles Mix County
+050;46;South Dakota;025;00000;00000;00000;Clark County
+050;46;South Dakota;027;00000;00000;00000;Clay County
+050;46;South Dakota;029;00000;00000;00000;Codington County
+050;46;South Dakota;031;00000;00000;00000;Corson County
+050;46;South Dakota;033;00000;00000;00000;Custer County
+050;46;South Dakota;035;00000;00000;00000;Davison County
+050;46;South Dakota;037;00000;00000;00000;Day County
+050;46;South Dakota;039;00000;00000;00000;Deuel County
+050;46;South Dakota;041;00000;00000;00000;Dewey County
+050;46;South Dakota;043;00000;00000;00000;Douglas County
+050;46;South Dakota;045;00000;00000;00000;Edmunds County
+050;46;South Dakota;047;00000;00000;00000;Fall River County
+050;46;South Dakota;049;00000;00000;00000;Faulk County
+050;46;South Dakota;051;00000;00000;00000;Grant County
+050;46;South Dakota;053;00000;00000;00000;Gregory County
+050;46;South Dakota;055;00000;00000;00000;Haakon County
+050;46;South Dakota;057;00000;00000;00000;Hamlin County
+050;46;South Dakota;059;00000;00000;00000;Hand County
+050;46;South Dakota;061;00000;00000;00000;Hanson County
+050;46;South Dakota;063;00000;00000;00000;Harding County
+050;46;South Dakota;065;00000;00000;00000;Hughes County
+050;46;South Dakota;067;00000;00000;00000;Hutchinson County
+050;46;South Dakota;069;00000;00000;00000;Hyde County
+050;46;South Dakota;071;00000;00000;00000;Jackson County
+050;46;South Dakota;073;00000;00000;00000;Jerauld County
+050;46;South Dakota;075;00000;00000;00000;Jones County
+050;46;South Dakota;077;00000;00000;00000;Kingsbury County
+050;46;South Dakota;079;00000;00000;00000;Lake County
+050;46;South Dakota;081;00000;00000;00000;Lawrence County
+050;46;South Dakota;083;00000;00000;00000;Lincoln County
+050;46;South Dakota;085;00000;00000;00000;Lyman County
+050;46;South Dakota;087;00000;00000;00000;McCook County
+050;46;South Dakota;089;00000;00000;00000;McPherson County
+050;46;South Dakota;091;00000;00000;00000;Marshall County
+050;46;South Dakota;093;00000;00000;00000;Meade County
+050;46;South Dakota;095;00000;00000;00000;Mellette County
+050;46;South Dakota;097;00000;00000;00000;Miner County
+050;46;South Dakota;099;00000;00000;00000;Minnehaha County
+050;46;South Dakota;101;00000;00000;00000;Moody County
+050;46;South Dakota;102;00000;00000;00000;Oglala Lakota County
+050;46;South Dakota;103;00000;00000;00000;Pennington County
+050;46;South Dakota;105;00000;00000;00000;Perkins County
+050;46;South Dakota;107;00000;00000;00000;Potter County
+050;46;South Dakota;109;00000;00000;00000;Roberts County
+050;46;South Dakota;111;00000;00000;00000;Sanborn County
+050;46;South Dakota;115;00000;00000;00000;Spink County
+050;46;South Dakota;117;00000;00000;00000;Stanley County
+050;46;South Dakota;119;00000;00000;00000;Sully County
+050;46;South Dakota;121;00000;00000;00000;Todd County
+050;46;South Dakota;123;00000;00000;00000;Tripp County
+050;46;South Dakota;125;00000;00000;00000;Turner County
+050;46;South Dakota;127;00000;00000;00000;Union County
+050;46;South Dakota;129;00000;00000;00000;Walworth County
+050;46;South Dakota;135;00000;00000;00000;Yankton County
+050;46;South Dakota;137;00000;00000;00000;Ziebach County
+050;47;Tennessee;001;00000;00000;00000;Anderson County
+050;47;Tennessee;003;00000;00000;00000;Bedford County
+050;47;Tennessee;005;00000;00000;00000;Benton County
+050;47;Tennessee;007;00000;00000;00000;Bledsoe County
+050;47;Tennessee;009;00000;00000;00000;Blount County
+050;47;Tennessee;011;00000;00000;00000;Bradley County
+050;47;Tennessee;013;00000;00000;00000;Campbell County
+050;47;Tennessee;015;00000;00000;00000;Cannon County
+050;47;Tennessee;017;00000;00000;00000;Carroll County
+050;47;Tennessee;019;00000;00000;00000;Carter County
+050;47;Tennessee;021;00000;00000;00000;Cheatham County
+050;47;Tennessee;023;00000;00000;00000;Chester County
+050;47;Tennessee;025;00000;00000;00000;Claiborne County
+050;47;Tennessee;027;00000;00000;00000;Clay County
+050;47;Tennessee;029;00000;00000;00000;Cocke County
+050;47;Tennessee;031;00000;00000;00000;Coffee County
+050;47;Tennessee;033;00000;00000;00000;Crockett County
+050;47;Tennessee;035;00000;00000;00000;Cumberland County
+050;47;Tennessee;037;00000;00000;00000;Davidson County
+050;47;Tennessee;039;00000;00000;00000;Decatur County
+050;47;Tennessee;041;00000;00000;00000;DeKalb County
+050;47;Tennessee;043;00000;00000;00000;Dickson County
+050;47;Tennessee;045;00000;00000;00000;Dyer County
+050;47;Tennessee;047;00000;00000;00000;Fayette County
+050;47;Tennessee;049;00000;00000;00000;Fentress County
+050;47;Tennessee;051;00000;00000;00000;Franklin County
+050;47;Tennessee;053;00000;00000;00000;Gibson County
+050;47;Tennessee;055;00000;00000;00000;Giles County
+050;47;Tennessee;057;00000;00000;00000;Grainger County
+050;47;Tennessee;059;00000;00000;00000;Greene County
+050;47;Tennessee;061;00000;00000;00000;Grundy County
+050;47;Tennessee;063;00000;00000;00000;Hamblen County
+050;47;Tennessee;065;00000;00000;00000;Hamilton County
+050;47;Tennessee;067;00000;00000;00000;Hancock County
+050;47;Tennessee;069;00000;00000;00000;Hardeman County
+050;47;Tennessee;071;00000;00000;00000;Hardin County
+050;47;Tennessee;073;00000;00000;00000;Hawkins County
+050;47;Tennessee;075;00000;00000;00000;Haywood County
+050;47;Tennessee;077;00000;00000;00000;Henderson County
+050;47;Tennessee;079;00000;00000;00000;Henry County
+050;47;Tennessee;081;00000;00000;00000;Hickman County
+050;47;Tennessee;083;00000;00000;00000;Houston County
+050;47;Tennessee;085;00000;00000;00000;Humphreys County
+050;47;Tennessee;087;00000;00000;00000;Jackson County
+050;47;Tennessee;089;00000;00000;00000;Jefferson County
+050;47;Tennessee;091;00000;00000;00000;Johnson County
+050;47;Tennessee;093;00000;00000;00000;Knox County
+050;47;Tennessee;095;00000;00000;00000;Lake County
+050;47;Tennessee;097;00000;00000;00000;Lauderdale County
+050;47;Tennessee;099;00000;00000;00000;Lawrence County
+050;47;Tennessee;101;00000;00000;00000;Lewis County
+050;47;Tennessee;103;00000;00000;00000;Lincoln County
+050;47;Tennessee;105;00000;00000;00000;Loudon County
+050;47;Tennessee;107;00000;00000;00000;McMinn County
+050;47;Tennessee;109;00000;00000;00000;McNairy County
+050;47;Tennessee;111;00000;00000;00000;Macon County
+050;47;Tennessee;113;00000;00000;00000;Madison County
+050;47;Tennessee;115;00000;00000;00000;Marion County
+050;47;Tennessee;117;00000;00000;00000;Marshall County
+050;47;Tennessee;119;00000;00000;00000;Maury County
+050;47;Tennessee;121;00000;00000;00000;Meigs County
+050;47;Tennessee;123;00000;00000;00000;Monroe County
+050;47;Tennessee;125;00000;00000;00000;Montgomery County
+050;47;Tennessee;127;00000;00000;00000;Moore County
+050;47;Tennessee;129;00000;00000;00000;Morgan County
+050;47;Tennessee;131;00000;00000;00000;Obion County
+050;47;Tennessee;133;00000;00000;00000;Overton County
+050;47;Tennessee;135;00000;00000;00000;Perry County
+050;47;Tennessee;137;00000;00000;00000;Pickett County
+050;47;Tennessee;139;00000;00000;00000;Polk County
+050;47;Tennessee;141;00000;00000;00000;Putnam County
+050;47;Tennessee;143;00000;00000;00000;Rhea County
+050;47;Tennessee;145;00000;00000;00000;Roane County
+050;47;Tennessee;147;00000;00000;00000;Robertson County
+050;47;Tennessee;149;00000;00000;00000;Rutherford County
+050;47;Tennessee;151;00000;00000;00000;Scott County
+050;47;Tennessee;153;00000;00000;00000;Sequatchie County
+050;47;Tennessee;155;00000;00000;00000;Sevier County
+050;47;Tennessee;157;00000;00000;00000;Shelby County
+050;47;Tennessee;159;00000;00000;00000;Smith County
+050;47;Tennessee;161;00000;00000;00000;Stewart County
+050;47;Tennessee;163;00000;00000;00000;Sullivan County
+050;47;Tennessee;165;00000;00000;00000;Sumner County
+050;47;Tennessee;167;00000;00000;00000;Tipton County
+050;47;Tennessee;169;00000;00000;00000;Trousdale County
+050;47;Tennessee;171;00000;00000;00000;Unicoi County
+050;47;Tennessee;173;00000;00000;00000;Union County
+050;47;Tennessee;175;00000;00000;00000;Van Buren County
+050;47;Tennessee;177;00000;00000;00000;Warren County
+050;47;Tennessee;179;00000;00000;00000;Washington County
+050;47;Tennessee;181;00000;00000;00000;Wayne County
+050;47;Tennessee;183;00000;00000;00000;Weakley County
+050;47;Tennessee;185;00000;00000;00000;White County
+050;47;Tennessee;187;00000;00000;00000;Williamson County
+050;47;Tennessee;189;00000;00000;00000;Wilson County
+050;48;Texas;001;00000;00000;00000;Anderson County
+050;48;Texas;003;00000;00000;00000;Andrews County
+050;48;Texas;005;00000;00000;00000;Angelina County
+050;48;Texas;007;00000;00000;00000;Aransas County
+050;48;Texas;009;00000;00000;00000;Archer County
+050;48;Texas;011;00000;00000;00000;Armstrong County
+050;48;Texas;013;00000;00000;00000;Atascosa County
+050;48;Texas;015;00000;00000;00000;Austin County
+050;48;Texas;017;00000;00000;00000;Bailey County
+050;48;Texas;019;00000;00000;00000;Bandera County
+050;48;Texas;021;00000;00000;00000;Bastrop County
+050;48;Texas;023;00000;00000;00000;Baylor County
+050;48;Texas;025;00000;00000;00000;Bee County
+050;48;Texas;027;00000;00000;00000;Bell County
+050;48;Texas;029;00000;00000;00000;Bexar County
+050;48;Texas;031;00000;00000;00000;Blanco County
+050;48;Texas;033;00000;00000;00000;Borden County
+050;48;Texas;035;00000;00000;00000;Bosque County
+050;48;Texas;037;00000;00000;00000;Bowie County
+050;48;Texas;039;00000;00000;00000;Brazoria County
+050;48;Texas;041;00000;00000;00000;Brazos County
+050;48;Texas;043;00000;00000;00000;Brewster County
+050;48;Texas;045;00000;00000;00000;Briscoe County
+050;48;Texas;047;00000;00000;00000;Brooks County
+050;48;Texas;049;00000;00000;00000;Brown County
+050;48;Texas;051;00000;00000;00000;Burleson County
+050;48;Texas;053;00000;00000;00000;Burnet County
+050;48;Texas;055;00000;00000;00000;Caldwell County
+050;48;Texas;057;00000;00000;00000;Calhoun County
+050;48;Texas;059;00000;00000;00000;Callahan County
+050;48;Texas;061;00000;00000;00000;Cameron County
+050;48;Texas;063;00000;00000;00000;Camp County
+050;48;Texas;065;00000;00000;00000;Carson County
+050;48;Texas;067;00000;00000;00000;Cass County
+050;48;Texas;069;00000;00000;00000;Castro County
+050;48;Texas;071;00000;00000;00000;Chambers County
+050;48;Texas;073;00000;00000;00000;Cherokee County
+050;48;Texas;075;00000;00000;00000;Childress County
+050;48;Texas;077;00000;00000;00000;Clay County
+050;48;Texas;079;00000;00000;00000;Cochran County
+050;48;Texas;081;00000;00000;00000;Coke County
+050;48;Texas;083;00000;00000;00000;Coleman County
+050;48;Texas;085;00000;00000;00000;Collin County
+050;48;Texas;087;00000;00000;00000;Collingsworth County
+050;48;Texas;089;00000;00000;00000;Colorado County
+050;48;Texas;091;00000;00000;00000;Comal County
+050;48;Texas;093;00000;00000;00000;Comanche County
+050;48;Texas;095;00000;00000;00000;Concho County
+050;48;Texas;097;00000;00000;00000;Cooke County
+050;48;Texas;099;00000;00000;00000;Coryell County
+050;48;Texas;101;00000;00000;00000;Cottle County
+050;48;Texas;103;00000;00000;00000;Crane County
+050;48;Texas;105;00000;00000;00000;Crockett County
+050;48;Texas;107;00000;00000;00000;Crosby County
+050;48;Texas;109;00000;00000;00000;Culberson County
+050;48;Texas;111;00000;00000;00000;Dallam County
+050;48;Texas;113;00000;00000;00000;Dallas County
+050;48;Texas;115;00000;00000;00000;Dawson County
+050;48;Texas;117;00000;00000;00000;Deaf Smith County
+050;48;Texas;119;00000;00000;00000;Delta County
+050;48;Texas;121;00000;00000;00000;Denton County
+050;48;Texas;123;00000;00000;00000;DeWitt County
+050;48;Texas;125;00000;00000;00000;Dickens County
+050;48;Texas;127;00000;00000;00000;Dimmit County
+050;48;Texas;129;00000;00000;00000;Donley County
+050;48;Texas;131;00000;00000;00000;Duval County
+050;48;Texas;133;00000;00000;00000;Eastland County
+050;48;Texas;135;00000;00000;00000;Ector County
+050;48;Texas;137;00000;00000;00000;Edwards County
+050;48;Texas;139;00000;00000;00000;Ellis County
+050;48;Texas;141;00000;00000;00000;El Paso County
+050;48;Texas;143;00000;00000;00000;Erath County
+050;48;Texas;145;00000;00000;00000;Falls County
+050;48;Texas;147;00000;00000;00000;Fannin County
+050;48;Texas;149;00000;00000;00000;Fayette County
+050;48;Texas;151;00000;00000;00000;Fisher County
+050;48;Texas;153;00000;00000;00000;Floyd County
+050;48;Texas;155;00000;00000;00000;Foard County
+050;48;Texas;157;00000;00000;00000;Fort Bend County
+050;48;Texas;159;00000;00000;00000;Franklin County
+050;48;Texas;161;00000;00000;00000;Freestone County
+050;48;Texas;163;00000;00000;00000;Frio County
+050;48;Texas;165;00000;00000;00000;Gaines County
+050;48;Texas;167;00000;00000;00000;Galveston County
+050;48;Texas;169;00000;00000;00000;Garza County
+050;48;Texas;171;00000;00000;00000;Gillespie County
+050;48;Texas;173;00000;00000;00000;Glasscock County
+050;48;Texas;175;00000;00000;00000;Goliad County
+050;48;Texas;177;00000;00000;00000;Gonzales County
+050;48;Texas;179;00000;00000;00000;Gray County
+050;48;Texas;181;00000;00000;00000;Grayson County
+050;48;Texas;183;00000;00000;00000;Gregg County
+050;48;Texas;185;00000;00000;00000;Grimes County
+050;48;Texas;187;00000;00000;00000;Guadalupe County
+050;48;Texas;189;00000;00000;00000;Hale County
+050;48;Texas;191;00000;00000;00000;Hall County
+050;48;Texas;193;00000;00000;00000;Hamilton County
+050;48;Texas;195;00000;00000;00000;Hansford County
+050;48;Texas;197;00000;00000;00000;Hardeman County
+050;48;Texas;199;00000;00000;00000;Hardin County
+050;48;Texas;201;00000;00000;00000;Harris County
+050;48;Texas;203;00000;00000;00000;Harrison County
+050;48;Texas;205;00000;00000;00000;Hartley County
+050;48;Texas;207;00000;00000;00000;Haskell County
+050;48;Texas;209;00000;00000;00000;Hays County
+050;48;Texas;211;00000;00000;00000;Hemphill County
+050;48;Texas;213;00000;00000;00000;Henderson County
+050;48;Texas;215;00000;00000;00000;Hidalgo County
+050;48;Texas;217;00000;00000;00000;Hill County
+050;48;Texas;219;00000;00000;00000;Hockley County
+050;48;Texas;221;00000;00000;00000;Hood County
+050;48;Texas;223;00000;00000;00000;Hopkins County
+050;48;Texas;225;00000;00000;00000;Houston County
+050;48;Texas;227;00000;00000;00000;Howard County
+050;48;Texas;229;00000;00000;00000;Hudspeth County
+050;48;Texas;231;00000;00000;00000;Hunt County
+050;48;Texas;233;00000;00000;00000;Hutchinson County
+050;48;Texas;235;00000;00000;00000;Irion County
+050;48;Texas;237;00000;00000;00000;Jack County
+050;48;Texas;239;00000;00000;00000;Jackson County
+050;48;Texas;241;00000;00000;00000;Jasper County
+050;48;Texas;243;00000;00000;00000;Jeff Davis County
+050;48;Texas;245;00000;00000;00000;Jefferson County
+050;48;Texas;247;00000;00000;00000;Jim Hogg County
+050;48;Texas;249;00000;00000;00000;Jim Wells County
+050;48;Texas;251;00000;00000;00000;Johnson County
+050;48;Texas;253;00000;00000;00000;Jones County
+050;48;Texas;255;00000;00000;00000;Karnes County
+050;48;Texas;257;00000;00000;00000;Kaufman County
+050;48;Texas;259;00000;00000;00000;Kendall County
+050;48;Texas;261;00000;00000;00000;Kenedy County
+050;48;Texas;263;00000;00000;00000;Kent County
+050;48;Texas;265;00000;00000;00000;Kerr County
+050;48;Texas;267;00000;00000;00000;Kimble County
+050;48;Texas;269;00000;00000;00000;King County
+050;48;Texas;271;00000;00000;00000;Kinney County
+050;48;Texas;273;00000;00000;00000;Kleberg County
+050;48;Texas;275;00000;00000;00000;Knox County
+050;48;Texas;277;00000;00000;00000;Lamar County
+050;48;Texas;279;00000;00000;00000;Lamb County
+050;48;Texas;281;00000;00000;00000;Lampasas County
+050;48;Texas;283;00000;00000;00000;La Salle County
+050;48;Texas;285;00000;00000;00000;Lavaca County
+050;48;Texas;287;00000;00000;00000;Lee County
+050;48;Texas;289;00000;00000;00000;Leon County
+050;48;Texas;291;00000;00000;00000;Liberty County
+050;48;Texas;293;00000;00000;00000;Limestone County
+050;48;Texas;295;00000;00000;00000;Lipscomb County
+050;48;Texas;297;00000;00000;00000;Live Oak County
+050;48;Texas;299;00000;00000;00000;Llano County
+050;48;Texas;301;00000;00000;00000;Loving County
+050;48;Texas;303;00000;00000;00000;Lubbock County
+050;48;Texas;305;00000;00000;00000;Lynn County
+050;48;Texas;307;00000;00000;00000;McCulloch County
+050;48;Texas;309;00000;00000;00000;McLennan County
+050;48;Texas;311;00000;00000;00000;McMullen County
+050;48;Texas;313;00000;00000;00000;Madison County
+050;48;Texas;315;00000;00000;00000;Marion County
+050;48;Texas;317;00000;00000;00000;Martin County
+050;48;Texas;319;00000;00000;00000;Mason County
+050;48;Texas;321;00000;00000;00000;Matagorda County
+050;48;Texas;323;00000;00000;00000;Maverick County
+050;48;Texas;325;00000;00000;00000;Medina County
+050;48;Texas;327;00000;00000;00000;Menard County
+050;48;Texas;329;00000;00000;00000;Midland County
+050;48;Texas;331;00000;00000;00000;Milam County
+050;48;Texas;333;00000;00000;00000;Mills County
+050;48;Texas;335;00000;00000;00000;Mitchell County
+050;48;Texas;337;00000;00000;00000;Montague County
+050;48;Texas;339;00000;00000;00000;Montgomery County
+050;48;Texas;341;00000;00000;00000;Moore County
+050;48;Texas;343;00000;00000;00000;Morris County
+050;48;Texas;345;00000;00000;00000;Motley County
+050;48;Texas;347;00000;00000;00000;Nacogdoches County
+050;48;Texas;349;00000;00000;00000;Navarro County
+050;48;Texas;351;00000;00000;00000;Newton County
+050;48;Texas;353;00000;00000;00000;Nolan County
+050;48;Texas;355;00000;00000;00000;Nueces County
+050;48;Texas;357;00000;00000;00000;Ochiltree County
+050;48;Texas;359;00000;00000;00000;Oldham County
+050;48;Texas;361;00000;00000;00000;Orange County
+050;48;Texas;363;00000;00000;00000;Palo Pinto County
+050;48;Texas;365;00000;00000;00000;Panola County
+050;48;Texas;367;00000;00000;00000;Parker County
+050;48;Texas;369;00000;00000;00000;Parmer County
+050;48;Texas;371;00000;00000;00000;Pecos County
+050;48;Texas;373;00000;00000;00000;Polk County
+050;48;Texas;375;00000;00000;00000;Potter County
+050;48;Texas;377;00000;00000;00000;Presidio County
+050;48;Texas;379;00000;00000;00000;Rains County
+050;48;Texas;381;00000;00000;00000;Randall County
+050;48;Texas;383;00000;00000;00000;Reagan County
+050;48;Texas;385;00000;00000;00000;Real County
+050;48;Texas;387;00000;00000;00000;Red River County
+050;48;Texas;389;00000;00000;00000;Reeves County
+050;48;Texas;391;00000;00000;00000;Refugio County
+050;48;Texas;393;00000;00000;00000;Roberts County
+050;48;Texas;395;00000;00000;00000;Robertson County
+050;48;Texas;397;00000;00000;00000;Rockwall County
+050;48;Texas;399;00000;00000;00000;Runnels County
+050;48;Texas;401;00000;00000;00000;Rusk County
+050;48;Texas;403;00000;00000;00000;Sabine County
+050;48;Texas;405;00000;00000;00000;San Augustine County
+050;48;Texas;407;00000;00000;00000;San Jacinto County
+050;48;Texas;409;00000;00000;00000;San Patricio County
+050;48;Texas;411;00000;00000;00000;San Saba County
+050;48;Texas;413;00000;00000;00000;Schleicher County
+050;48;Texas;415;00000;00000;00000;Scurry County
+050;48;Texas;417;00000;00000;00000;Shackelford County
+050;48;Texas;419;00000;00000;00000;Shelby County
+050;48;Texas;421;00000;00000;00000;Sherman County
+050;48;Texas;423;00000;00000;00000;Smith County
+050;48;Texas;425;00000;00000;00000;Somervell County
+050;48;Texas;427;00000;00000;00000;Starr County
+050;48;Texas;429;00000;00000;00000;Stephens County
+050;48;Texas;431;00000;00000;00000;Sterling County
+050;48;Texas;433;00000;00000;00000;Stonewall County
+050;48;Texas;435;00000;00000;00000;Sutton County
+050;48;Texas;437;00000;00000;00000;Swisher County
+050;48;Texas;439;00000;00000;00000;Tarrant County
+050;48;Texas;441;00000;00000;00000;Taylor County
+050;48;Texas;443;00000;00000;00000;Terrell County
+050;48;Texas;445;00000;00000;00000;Terry County
+050;48;Texas;447;00000;00000;00000;Throckmorton County
+050;48;Texas;449;00000;00000;00000;Titus County
+050;48;Texas;451;00000;00000;00000;Tom Green County
+050;48;Texas;453;00000;00000;00000;Travis County
+050;48;Texas;455;00000;00000;00000;Trinity County
+050;48;Texas;457;00000;00000;00000;Tyler County
+050;48;Texas;459;00000;00000;00000;Upshur County
+050;48;Texas;461;00000;00000;00000;Upton County
+050;48;Texas;463;00000;00000;00000;Uvalde County
+050;48;Texas;465;00000;00000;00000;Val Verde County
+050;48;Texas;467;00000;00000;00000;Van Zandt County
+050;48;Texas;469;00000;00000;00000;Victoria County
+050;48;Texas;471;00000;00000;00000;Walker County
+050;48;Texas;473;00000;00000;00000;Waller County
+050;48;Texas;475;00000;00000;00000;Ward County
+050;48;Texas;477;00000;00000;00000;Washington County
+050;48;Texas;479;00000;00000;00000;Webb County
+050;48;Texas;481;00000;00000;00000;Wharton County
+050;48;Texas;483;00000;00000;00000;Wheeler County
+050;48;Texas;485;00000;00000;00000;Wichita County
+050;48;Texas;487;00000;00000;00000;Wilbarger County
+050;48;Texas;489;00000;00000;00000;Willacy County
+050;48;Texas;491;00000;00000;00000;Williamson County
+050;48;Texas;493;00000;00000;00000;Wilson County
+050;48;Texas;495;00000;00000;00000;Winkler County
+050;48;Texas;497;00000;00000;00000;Wise County
+050;48;Texas;499;00000;00000;00000;Wood County
+050;48;Texas;501;00000;00000;00000;Yoakum County
+050;48;Texas;503;00000;00000;00000;Young County
+050;48;Texas;505;00000;00000;00000;Zapata County
+050;48;Texas;507;00000;00000;00000;Zavala County
+050;49;Utah;001;00000;00000;00000;Beaver County
+050;49;Utah;003;00000;00000;00000;Box Elder County
+050;49;Utah;005;00000;00000;00000;Cache County
+050;49;Utah;007;00000;00000;00000;Carbon County
+050;49;Utah;009;00000;00000;00000;Daggett County
+050;49;Utah;011;00000;00000;00000;Davis County
+050;49;Utah;013;00000;00000;00000;Duchesne County
+050;49;Utah;015;00000;00000;00000;Emery County
+050;49;Utah;017;00000;00000;00000;Garfield County
+050;49;Utah;019;00000;00000;00000;Grand County
+050;49;Utah;021;00000;00000;00000;Iron County
+050;49;Utah;023;00000;00000;00000;Juab County
+050;49;Utah;025;00000;00000;00000;Kane County
+050;49;Utah;027;00000;00000;00000;Millard County
+050;49;Utah;029;00000;00000;00000;Morgan County
+050;49;Utah;031;00000;00000;00000;Piute County
+050;49;Utah;033;00000;00000;00000;Rich County
+050;49;Utah;035;00000;00000;00000;Salt Lake County
+050;49;Utah;037;00000;00000;00000;San Juan County
+050;49;Utah;039;00000;00000;00000;Sanpete County
+050;49;Utah;041;00000;00000;00000;Sevier County
+050;49;Utah;043;00000;00000;00000;Summit County
+050;49;Utah;045;00000;00000;00000;Tooele County
+050;49;Utah;047;00000;00000;00000;Uintah County
+050;49;Utah;049;00000;00000;00000;Utah County
+050;49;Utah;051;00000;00000;00000;Wasatch County
+050;49;Utah;053;00000;00000;00000;Washington County
+050;49;Utah;055;00000;00000;00000;Wayne County
+050;49;Utah;057;00000;00000;00000;Weber County
+050;50;Vermont;001;00000;00000;00000;Addison County
+050;50;Vermont;003;00000;00000;00000;Bennington County
+050;50;Vermont;005;00000;00000;00000;Caledonia County
+050;50;Vermont;007;00000;00000;00000;Chittenden County
+050;50;Vermont;009;00000;00000;00000;Essex County
+050;50;Vermont;011;00000;00000;00000;Franklin County
+050;50;Vermont;013;00000;00000;00000;Grand Isle County
+050;50;Vermont;015;00000;00000;00000;Lamoille County
+050;50;Vermont;017;00000;00000;00000;Orange County
+050;50;Vermont;019;00000;00000;00000;Orleans County
+050;50;Vermont;021;00000;00000;00000;Rutland County
+050;50;Vermont;023;00000;00000;00000;Washington County
+050;50;Vermont;025;00000;00000;00000;Windham County
+050;50;Vermont;027;00000;00000;00000;Windsor County
+050;51;Virginia;001;00000;00000;00000;Accomack County
+050;51;Virginia;003;00000;00000;00000;Albemarle County
+050;51;Virginia;005;00000;00000;00000;Alleghany County
+050;51;Virginia;007;00000;00000;00000;Amelia County
+050;51;Virginia;009;00000;00000;00000;Amherst County
+050;51;Virginia;011;00000;00000;00000;Appomattox County
+050;51;Virginia;013;00000;00000;00000;Arlington County
+050;51;Virginia;015;00000;00000;00000;Augusta County
+050;51;Virginia;017;00000;00000;00000;Bath County
+050;51;Virginia;019;00000;00000;00000;Bedford County
+050;51;Virginia;021;00000;00000;00000;Bland County
+050;51;Virginia;023;00000;00000;00000;Botetourt County
+050;51;Virginia;025;00000;00000;00000;Brunswick County
+050;51;Virginia;027;00000;00000;00000;Buchanan County
+050;51;Virginia;029;00000;00000;00000;Buckingham County
+050;51;Virginia;031;00000;00000;00000;Campbell County
+050;51;Virginia;033;00000;00000;00000;Caroline County
+050;51;Virginia;035;00000;00000;00000;Carroll County
+050;51;Virginia;036;00000;00000;00000;Charles City County
+050;51;Virginia;037;00000;00000;00000;Charlotte County
+050;51;Virginia;041;00000;00000;00000;Chesterfield County
+050;51;Virginia;043;00000;00000;00000;Clarke County
+050;51;Virginia;045;00000;00000;00000;Craig County
+050;51;Virginia;047;00000;00000;00000;Culpeper County
+050;51;Virginia;049;00000;00000;00000;Cumberland County
+050;51;Virginia;051;00000;00000;00000;Dickenson County
+050;51;Virginia;053;00000;00000;00000;Dinwiddie County
+050;51;Virginia;057;00000;00000;00000;Essex County
+050;51;Virginia;059;00000;00000;00000;Fairfax County
+050;51;Virginia;061;00000;00000;00000;Fauquier County
+050;51;Virginia;063;00000;00000;00000;Floyd County
+050;51;Virginia;065;00000;00000;00000;Fluvanna County
+050;51;Virginia;067;00000;00000;00000;Franklin County
+050;51;Virginia;069;00000;00000;00000;Frederick County
+050;51;Virginia;071;00000;00000;00000;Giles County
+050;51;Virginia;073;00000;00000;00000;Gloucester County
+050;51;Virginia;075;00000;00000;00000;Goochland County
+050;51;Virginia;077;00000;00000;00000;Grayson County
+050;51;Virginia;079;00000;00000;00000;Greene County
+050;51;Virginia;081;00000;00000;00000;Greensville County
+050;51;Virginia;083;00000;00000;00000;Halifax County
+050;51;Virginia;085;00000;00000;00000;Hanover County
+050;51;Virginia;087;00000;00000;00000;Henrico County
+050;51;Virginia;089;00000;00000;00000;Henry County
+050;51;Virginia;091;00000;00000;00000;Highland County
+050;51;Virginia;093;00000;00000;00000;Isle of Wight County
+050;51;Virginia;095;00000;00000;00000;James City County
+050;51;Virginia;097;00000;00000;00000;King and Queen County
+050;51;Virginia;099;00000;00000;00000;King George County
+050;51;Virginia;101;00000;00000;00000;King William County
+050;51;Virginia;103;00000;00000;00000;Lancaster County
+050;51;Virginia;105;00000;00000;00000;Lee County
+050;51;Virginia;107;00000;00000;00000;Loudoun County
+050;51;Virginia;109;00000;00000;00000;Louisa County
+050;51;Virginia;111;00000;00000;00000;Lunenburg County
+050;51;Virginia;113;00000;00000;00000;Madison County
+050;51;Virginia;115;00000;00000;00000;Mathews County
+050;51;Virginia;117;00000;00000;00000;Mecklenburg County
+050;51;Virginia;119;00000;00000;00000;Middlesex County
+050;51;Virginia;121;00000;00000;00000;Montgomery County
+050;51;Virginia;125;00000;00000;00000;Nelson County
+050;51;Virginia;127;00000;00000;00000;New Kent County
+050;51;Virginia;131;00000;00000;00000;Northampton County
+050;51;Virginia;133;00000;00000;00000;Northumberland County
+050;51;Virginia;135;00000;00000;00000;Nottoway County
+050;51;Virginia;137;00000;00000;00000;Orange County
+050;51;Virginia;139;00000;00000;00000;Page County
+050;51;Virginia;141;00000;00000;00000;Patrick County
+050;51;Virginia;143;00000;00000;00000;Pittsylvania County
+050;51;Virginia;145;00000;00000;00000;Powhatan County
+050;51;Virginia;147;00000;00000;00000;Prince Edward County
+050;51;Virginia;149;00000;00000;00000;Prince George County
+050;51;Virginia;153;00000;00000;00000;Prince William County
+050;51;Virginia;155;00000;00000;00000;Pulaski County
+050;51;Virginia;157;00000;00000;00000;Rappahannock County
+050;51;Virginia;159;00000;00000;00000;Richmond County
+050;51;Virginia;161;00000;00000;00000;Roanoke County
+050;51;Virginia;163;00000;00000;00000;Rockbridge County
+050;51;Virginia;165;00000;00000;00000;Rockingham County
+050;51;Virginia;167;00000;00000;00000;Russell County
+050;51;Virginia;169;00000;00000;00000;Scott County
+050;51;Virginia;171;00000;00000;00000;Shenandoah County
+050;51;Virginia;173;00000;00000;00000;Smyth County
+050;51;Virginia;175;00000;00000;00000;Southampton County
+050;51;Virginia;177;00000;00000;00000;Spotsylvania County
+050;51;Virginia;179;00000;00000;00000;Stafford County
+050;51;Virginia;181;00000;00000;00000;Surry County
+050;51;Virginia;183;00000;00000;00000;Sussex County
+050;51;Virginia;185;00000;00000;00000;Tazewell County
+050;51;Virginia;187;00000;00000;00000;Warren County
+050;51;Virginia;191;00000;00000;00000;Washington County
+050;51;Virginia;193;00000;00000;00000;Westmoreland County
+050;51;Virginia;195;00000;00000;00000;Wise County
+050;51;Virginia;197;00000;00000;00000;Wythe County
+050;51;Virginia;199;00000;00000;00000;York County
+050;51;Virginia;510;00000;00000;00000;Alexandria city
+050;51;Virginia;520;00000;00000;00000;Bristol city
+050;51;Virginia;530;00000;00000;00000;Buena Vista city
+050;51;Virginia;540;00000;00000;00000;Charlottesville city
+050;51;Virginia;550;00000;00000;00000;Chesapeake city
+050;51;Virginia;570;00000;00000;00000;Colonial Heights city
+050;51;Virginia;580;00000;00000;00000;Covington city
+050;51;Virginia;590;00000;00000;00000;Danville city
+050;51;Virginia;595;00000;00000;00000;Emporia city
+050;51;Virginia;600;00000;00000;00000;Fairfax city
+050;51;Virginia;610;00000;00000;00000;Falls Church city
+050;51;Virginia;620;00000;00000;00000;Franklin city
+050;51;Virginia;630;00000;00000;00000;Fredericksburg city
+050;51;Virginia;640;00000;00000;00000;Galax city
+050;51;Virginia;650;00000;00000;00000;Hampton city
+050;51;Virginia;660;00000;00000;00000;Harrisonburg city
+050;51;Virginia;670;00000;00000;00000;Hopewell city
+050;51;Virginia;678;00000;00000;00000;Lexington city
+050;51;Virginia;680;00000;00000;00000;Lynchburg city
+050;51;Virginia;683;00000;00000;00000;Manassas city
+050;51;Virginia;685;00000;00000;00000;Manassas Park city
+050;51;Virginia;690;00000;00000;00000;Martinsville city
+050;51;Virginia;700;00000;00000;00000;Newport News city
+050;51;Virginia;710;00000;00000;00000;Norfolk city
+050;51;Virginia;720;00000;00000;00000;Norton city
+050;51;Virginia;730;00000;00000;00000;Petersburg city
+050;51;Virginia;735;00000;00000;00000;Poquoson city
+050;51;Virginia;740;00000;00000;00000;Portsmouth city
+050;51;Virginia;750;00000;00000;00000;Radford city
+050;51;Virginia;760;00000;00000;00000;Richmond city
+050;51;Virginia;770;00000;00000;00000;Roanoke city
+050;51;Virginia;775;00000;00000;00000;Salem city
+050;51;Virginia;790;00000;00000;00000;Staunton city
+050;51;Virginia;800;00000;00000;00000;Suffolk city
+050;51;Virginia;810;00000;00000;00000;Virginia Beach city
+050;51;Virginia;820;00000;00000;00000;Waynesboro city
+050;51;Virginia;830;00000;00000;00000;Williamsburg city
+050;51;Virginia;840;00000;00000;00000;Winchester city
+050;53;Washington;001;00000;00000;00000;Adams County
+050;53;Washington;003;00000;00000;00000;Asotin County
+050;53;Washington;005;00000;00000;00000;Benton County
+050;53;Washington;007;00000;00000;00000;Chelan County
+050;53;Washington;009;00000;00000;00000;Clallam County
+050;53;Washington;011;00000;00000;00000;Clark County
+050;53;Washington;013;00000;00000;00000;Columbia County
+050;53;Washington;015;00000;00000;00000;Cowlitz County
+050;53;Washington;017;00000;00000;00000;Douglas County
+050;53;Washington;019;00000;00000;00000;Ferry County
+050;53;Washington;021;00000;00000;00000;Franklin County
+050;53;Washington;023;00000;00000;00000;Garfield County
+050;53;Washington;025;00000;00000;00000;Grant County
+050;53;Washington;027;00000;00000;00000;Grays Harbor County
+050;53;Washington;029;00000;00000;00000;Island County
+050;53;Washington;031;00000;00000;00000;Jefferson County
+050;53;Washington;033;00000;00000;00000;King County
+050;53;Washington;035;00000;00000;00000;Kitsap County
+050;53;Washington;037;00000;00000;00000;Kittitas County
+050;53;Washington;039;00000;00000;00000;Klickitat County
+050;53;Washington;041;00000;00000;00000;Lewis County
+050;53;Washington;043;00000;00000;00000;Lincoln County
+050;53;Washington;045;00000;00000;00000;Mason County
+050;53;Washington;047;00000;00000;00000;Okanogan County
+050;53;Washington;049;00000;00000;00000;Pacific County
+050;53;Washington;051;00000;00000;00000;Pend Oreille County
+050;53;Washington;053;00000;00000;00000;Pierce County
+050;53;Washington;055;00000;00000;00000;San Juan County
+050;53;Washington;057;00000;00000;00000;Skagit County
+050;53;Washington;059;00000;00000;00000;Skamania County
+050;53;Washington;061;00000;00000;00000;Snohomish County
+050;53;Washington;063;00000;00000;00000;Spokane County
+050;53;Washington;065;00000;00000;00000;Stevens County
+050;53;Washington;067;00000;00000;00000;Thurston County
+050;53;Washington;069;00000;00000;00000;Wahkiakum County
+050;53;Washington;071;00000;00000;00000;Walla Walla County
+050;53;Washington;073;00000;00000;00000;Whatcom County
+050;53;Washington;075;00000;00000;00000;Whitman County
+050;53;Washington;077;00000;00000;00000;Yakima County
+050;54;West Virginia;001;00000;00000;00000;Barbour County
+050;54;West Virginia;003;00000;00000;00000;Berkeley County
+050;54;West Virginia;005;00000;00000;00000;Boone County
+050;54;West Virginia;007;00000;00000;00000;Braxton County
+050;54;West Virginia;009;00000;00000;00000;Brooke County
+050;54;West Virginia;011;00000;00000;00000;Cabell County
+050;54;West Virginia;013;00000;00000;00000;Calhoun County
+050;54;West Virginia;015;00000;00000;00000;Clay County
+050;54;West Virginia;017;00000;00000;00000;Doddridge County
+050;54;West Virginia;019;00000;00000;00000;Fayette County
+050;54;West Virginia;021;00000;00000;00000;Gilmer County
+050;54;West Virginia;023;00000;00000;00000;Grant County
+050;54;West Virginia;025;00000;00000;00000;Greenbrier County
+050;54;West Virginia;027;00000;00000;00000;Hampshire County
+050;54;West Virginia;029;00000;00000;00000;Hancock County
+050;54;West Virginia;031;00000;00000;00000;Hardy County
+050;54;West Virginia;033;00000;00000;00000;Harrison County
+050;54;West Virginia;035;00000;00000;00000;Jackson County
+050;54;West Virginia;037;00000;00000;00000;Jefferson County
+050;54;West Virginia;039;00000;00000;00000;Kanawha County
+050;54;West Virginia;041;00000;00000;00000;Lewis County
+050;54;West Virginia;043;00000;00000;00000;Lincoln County
+050;54;West Virginia;045;00000;00000;00000;Logan County
+050;54;West Virginia;047;00000;00000;00000;McDowell County
+050;54;West Virginia;049;00000;00000;00000;Marion County
+050;54;West Virginia;051;00000;00000;00000;Marshall County
+050;54;West Virginia;053;00000;00000;00000;Mason County
+050;54;West Virginia;055;00000;00000;00000;Mercer County
+050;54;West Virginia;057;00000;00000;00000;Mineral County
+050;54;West Virginia;059;00000;00000;00000;Mingo County
+050;54;West Virginia;061;00000;00000;00000;Monongalia County
+050;54;West Virginia;063;00000;00000;00000;Monroe County
+050;54;West Virginia;065;00000;00000;00000;Morgan County
+050;54;West Virginia;067;00000;00000;00000;Nicholas County
+050;54;West Virginia;069;00000;00000;00000;Ohio County
+050;54;West Virginia;071;00000;00000;00000;Pendleton County
+050;54;West Virginia;073;00000;00000;00000;Pleasants County
+050;54;West Virginia;075;00000;00000;00000;Pocahontas County
+050;54;West Virginia;077;00000;00000;00000;Preston County
+050;54;West Virginia;079;00000;00000;00000;Putnam County
+050;54;West Virginia;081;00000;00000;00000;Raleigh County
+050;54;West Virginia;083;00000;00000;00000;Randolph County
+050;54;West Virginia;085;00000;00000;00000;Ritchie County
+050;54;West Virginia;087;00000;00000;00000;Roane County
+050;54;West Virginia;089;00000;00000;00000;Summers County
+050;54;West Virginia;091;00000;00000;00000;Taylor County
+050;54;West Virginia;093;00000;00000;00000;Tucker County
+050;54;West Virginia;095;00000;00000;00000;Tyler County
+050;54;West Virginia;097;00000;00000;00000;Upshur County
+050;54;West Virginia;099;00000;00000;00000;Wayne County
+050;54;West Virginia;101;00000;00000;00000;Webster County
+050;54;West Virginia;103;00000;00000;00000;Wetzel County
+050;54;West Virginia;105;00000;00000;00000;Wirt County
+050;54;West Virginia;107;00000;00000;00000;Wood County
+050;54;West Virginia;109;00000;00000;00000;Wyoming County
+050;55;Wisconsin;001;00000;00000;00000;Adams County
+050;55;Wisconsin;003;00000;00000;00000;Ashland County
+050;55;Wisconsin;005;00000;00000;00000;Barron County
+050;55;Wisconsin;007;00000;00000;00000;Bayfield County
+050;55;Wisconsin;009;00000;00000;00000;Brown County
+050;55;Wisconsin;011;00000;00000;00000;Buffalo County
+050;55;Wisconsin;013;00000;00000;00000;Burnett County
+050;55;Wisconsin;015;00000;00000;00000;Calumet County
+050;55;Wisconsin;017;00000;00000;00000;Chippewa County
+050;55;Wisconsin;019;00000;00000;00000;Clark County
+050;55;Wisconsin;021;00000;00000;00000;Columbia County
+050;55;Wisconsin;023;00000;00000;00000;Crawford County
+050;55;Wisconsin;025;00000;00000;00000;Dane County
+050;55;Wisconsin;027;00000;00000;00000;Dodge County
+050;55;Wisconsin;029;00000;00000;00000;Door County
+050;55;Wisconsin;031;00000;00000;00000;Douglas County
+050;55;Wisconsin;033;00000;00000;00000;Dunn County
+050;55;Wisconsin;035;00000;00000;00000;Eau Claire County
+050;55;Wisconsin;037;00000;00000;00000;Florence County
+050;55;Wisconsin;039;00000;00000;00000;Fond du Lac County
+050;55;Wisconsin;041;00000;00000;00000;Forest County
+050;55;Wisconsin;043;00000;00000;00000;Grant County
+050;55;Wisconsin;045;00000;00000;00000;Green County
+050;55;Wisconsin;047;00000;00000;00000;Green Lake County
+050;55;Wisconsin;049;00000;00000;00000;Iowa County
+050;55;Wisconsin;051;00000;00000;00000;Iron County
+050;55;Wisconsin;053;00000;00000;00000;Jackson County
+050;55;Wisconsin;055;00000;00000;00000;Jefferson County
+050;55;Wisconsin;057;00000;00000;00000;Juneau County
+050;55;Wisconsin;059;00000;00000;00000;Kenosha County
+050;55;Wisconsin;061;00000;00000;00000;Kewaunee County
+050;55;Wisconsin;063;00000;00000;00000;La Crosse County
+050;55;Wisconsin;065;00000;00000;00000;Lafayette County
+050;55;Wisconsin;067;00000;00000;00000;Langlade County
+050;55;Wisconsin;069;00000;00000;00000;Lincoln County
+050;55;Wisconsin;071;00000;00000;00000;Manitowoc County
+050;55;Wisconsin;073;00000;00000;00000;Marathon County
+050;55;Wisconsin;075;00000;00000;00000;Marinette County
+050;55;Wisconsin;077;00000;00000;00000;Marquette County
+050;55;Wisconsin;078;00000;00000;00000;Menominee County
+050;55;Wisconsin;079;00000;00000;00000;Milwaukee County
+050;55;Wisconsin;081;00000;00000;00000;Monroe County
+050;55;Wisconsin;083;00000;00000;00000;Oconto County
+050;55;Wisconsin;085;00000;00000;00000;Oneida County
+050;55;Wisconsin;087;00000;00000;00000;Outagamie County
+050;55;Wisconsin;089;00000;00000;00000;Ozaukee County
+050;55;Wisconsin;091;00000;00000;00000;Pepin County
+050;55;Wisconsin;093;00000;00000;00000;Pierce County
+050;55;Wisconsin;095;00000;00000;00000;Polk County
+050;55;Wisconsin;097;00000;00000;00000;Portage County
+050;55;Wisconsin;099;00000;00000;00000;Price County
+050;55;Wisconsin;101;00000;00000;00000;Racine County
+050;55;Wisconsin;103;00000;00000;00000;Richland County
+050;55;Wisconsin;105;00000;00000;00000;Rock County
+050;55;Wisconsin;107;00000;00000;00000;Rusk County
+050;55;Wisconsin;109;00000;00000;00000;St. Croix County
+050;55;Wisconsin;111;00000;00000;00000;Sauk County
+050;55;Wisconsin;113;00000;00000;00000;Sawyer County
+050;55;Wisconsin;115;00000;00000;00000;Shawano County
+050;55;Wisconsin;117;00000;00000;00000;Sheboygan County
+050;55;Wisconsin;119;00000;00000;00000;Taylor County
+050;55;Wisconsin;121;00000;00000;00000;Trempealeau County
+050;55;Wisconsin;123;00000;00000;00000;Vernon County
+050;55;Wisconsin;125;00000;00000;00000;Vilas County
+050;55;Wisconsin;127;00000;00000;00000;Walworth County
+050;55;Wisconsin;129;00000;00000;00000;Washburn County
+050;55;Wisconsin;131;00000;00000;00000;Washington County
+050;55;Wisconsin;133;00000;00000;00000;Waukesha County
+050;55;Wisconsin;135;00000;00000;00000;Waupaca County
+050;55;Wisconsin;137;00000;00000;00000;Waushara County
+050;55;Wisconsin;139;00000;00000;00000;Winnebago County
+050;55;Wisconsin;141;00000;00000;00000;Wood County
+050;56;Wyoming;001;00000;00000;00000;Albany County
+050;56;Wyoming;003;00000;00000;00000;Big Horn County
+050;56;Wyoming;005;00000;00000;00000;Campbell County
+050;56;Wyoming;007;00000;00000;00000;Carbon County
+050;56;Wyoming;009;00000;00000;00000;Converse County
+050;56;Wyoming;011;00000;00000;00000;Crook County
+050;56;Wyoming;013;00000;00000;00000;Fremont County
+050;56;Wyoming;015;00000;00000;00000;Goshen County
+050;56;Wyoming;017;00000;00000;00000;Hot Springs County
+050;56;Wyoming;019;00000;00000;00000;Johnson County
+050;56;Wyoming;021;00000;00000;00000;Laramie County
+050;56;Wyoming;023;00000;00000;00000;Lincoln County
+050;56;Wyoming;025;00000;00000;00000;Natrona County
+050;56;Wyoming;027;00000;00000;00000;Niobrara County
+050;56;Wyoming;029;00000;00000;00000;Park County
+050;56;Wyoming;031;00000;00000;00000;Platte County
+050;56;Wyoming;033;00000;00000;00000;Sheridan County
+050;56;Wyoming;035;00000;00000;00000;Sublette County
+050;56;Wyoming;037;00000;00000;00000;Sweetwater County
+050;56;Wyoming;039;00000;00000;00000;Teton County
+050;56;Wyoming;041;00000;00000;00000;Uinta County
+050;56;Wyoming;043;00000;00000;00000;Washakie County
+050;56;Wyoming;045;00000;00000;00000;Weston County
