@@ -1,6 +1,10 @@
 .env
 
+*.zip
 *.csv
+*.json
+*.geojson
+*.DS_Store
 *.pyc
 *.mlmodel
 *.pkl
